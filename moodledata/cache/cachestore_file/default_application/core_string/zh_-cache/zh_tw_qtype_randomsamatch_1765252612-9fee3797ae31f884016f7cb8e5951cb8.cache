@@ -1,0 +1,5 @@
+a:15:{s:19:"insufficientoptions";s:108:"這一試題沒有足夠的選項可以使用，因此在這測驗上無法使用，請告知你的教師。";s:14:"nosaincategory";s:123:"您選擇的這個'{$a->catname}'題目類別中，沒有簡答題。請選擇一個不同類別，並製作一些題目。";s:21:"notenoughsaincategory";s:182:"您選擇的這個'{$a->catname}'題目類別中，只有 {$a->nosaquestions}題簡答題。請選擇一個不同類別，並製作更多題目，或是減少您的待選題目數。";s:10:"pluginname";s:21:"隨機簡答配合題";s:15:"pluginname_help";s:235:"從學生的觀點，它就是一個配合題。
+
+其差別是這些配對用的清單是從當前類別下的選擇題隨機抽選出來的。
+
+在這一類別下需要有足夠未被使用的簡答題，否則會出現錯誤訊息。";s:15:"pluginname_link";s:27:"question/type/randomsamatch";s:16:"pluginnameadding";s:33:"新增一個隨機簡答配合題";s:17:"pluginnameediting";s:33:"編輯一個隨機簡答配合題";s:17:"pluginnamesummary";s:114:"它就像配合題，只是它是由某一類別下的簡答題隨機抽選出來，而以配合題方式作答。";s:16:"privacy:metadata";s:87:"The Random short-answer matching question type plugin does not store any personal data.";s:19:"randomsamatchnumber";s:21:"要選出的試題數";s:13:"randomsamatch";s:36:"隨機抽簡答題組成的配合題";s:18:"randomsamatchintro";s:75:"就以下試題的每一題，從這選單中選出一個配對的答案。";s:7:"subcats";s:18:"包含下層目錄";s:12:"subcats_help";s:48:"若勾選，試題也會從下層目錄選出。";}

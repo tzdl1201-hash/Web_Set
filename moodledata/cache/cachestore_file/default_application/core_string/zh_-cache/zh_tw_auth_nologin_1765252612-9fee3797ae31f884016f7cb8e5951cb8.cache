@@ -1,0 +1,1 @@
+a:3:{s:23:"auth_nologindescription";s:126:"避免用戶登入系統的輔助外掛也會阻止所有發送給用戶的信件，可以用來<em>停用</em>用戶帳號。";s:10:"pluginname";s:12:"拒絕登入";s:16:"privacy:metadata";s:68:"The No login authentication plugin does not store any personal data.";}

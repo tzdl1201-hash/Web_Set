@@ -1,0 +1,12 @@
+a:40:{s:20:"configdisplayoptions";s:109:"選擇應該可用的所有選項，現有的設定不會被修改。按住CTRL鍵可以選擇多個欄位。";s:7:"content";s:12:"頁面內容";s:13:"contentheader";s:6:"內容";s:10:"createpage";s:24:"建立一新頁面資源";s:14:"displayoptions";s:21:"可用的顯示選項";s:13:"displayselect";s:6:"顯示";s:20:"displayselectexplain";s:18:"選擇顯示類型";s:24:"indicator:cognitivedepth";s:14:"Page cognitive";s:29:"indicator:cognitivedepth_help";s:89:"This indicator is based on the cognitive depth reached by the student in a Page resource.";s:27:"indicator:cognitivedepthdef";s:14:"Page cognitive";s:32:"indicator:cognitivedepthdef_help";s:156:"The participant has reached this percentage of the cognitive engagement offered by the Page resources during this analysis interval (Levels = No view, View)";s:32:"indicator:cognitivedepthdef_link";s:45:"Learning_analytics_indicators#Cognitive_depth";s:23:"indicator:socialbreadth";s:11:"Page social";s:28:"indicator:socialbreadth_help";s:88:"This indicator is based on the social breadth reached by the student in a Page resource.";s:26:"indicator:socialbreadthdef";s:11:"Page social";s:31:"indicator:socialbreadthdef_help";s:175:"The participant has reached this percentage of the social engagement offered by the Page resources during this analysis interval (Levels = No participation, Participant alone)";s:31:"indicator:socialbreadthdef_link";s:44:"Learning_analytics_indicators#Social_breadth";s:11:"legacyfiles";s:21:"移植舊課程檔案";s:17:"legacyfilesactive";s:12:"可以使用";s:15:"legacyfilesdone";s:9:"已完成";s:10:"modulename";s:6:"頁面";s:15:"modulename_help";s:608:"這頁面模組可以讓教師以文字編輯器建立一網頁頁面資源。
+
+一個頁面可以顯示文字、圖像、聲音、影片、鏈結、和嵌入的代碼，比如，Google地圖。
+
+使用"頁面模組"比"檔案模組"好的理由是，更容易存取檢視(例如，對於行動裝置的用戶)以及更容易更新。
+
+若內容數量很大，建議你使用"電子書模組"而不要用這個"頁面模組"。
+
+一個頁面可以用來：
+
+* 說明修課的規定和完成課程的條件，或者課程教學大綱。
+* 嵌入一些影片檔和/或聲音檔，並配上一些解釋文字。";s:15:"modulename_link";s:13:"mod/page/view";s:16:"modulenameplural";s:6:"頁面";s:13:"optionsheader";s:12:"顯示選項";s:15:"page-mod-page-x";s:21:"任何頁面模組頁";s:16:"page:addinstance";s:21:"新增一頁面資源";s:9:"page:view";s:18:"檢視頁面內容";s:20:"pluginadministration";s:18:"頁面模組管理";s:10:"pluginname";s:6:"頁面";s:11:"popupheight";s:35:"彈出視窗高度(以像素表示)";s:18:"popupheightexplain";s:33:"指定彈出視窗的預設高度";s:10:"popupwidth";s:35:"彈出視窗寬度(以像素表示)";s:17:"popupwidthexplain";s:33:"指定彈出視窗的預設寬度";s:10:"printintro";s:18:"顯示頁面說明";s:17:"printintroexplain";s:36:"在內容上方顯示頁面說明？";s:17:"printlastmodified";s:24:"顯示上次修改日期";s:24:"printlastmodifiedexplain";s:41:"Display last modified date below content?";s:16:"privacy:metadata";s:58:"The Page resource plugin does not store any personal data.";s:15:"search:activity";s:12:"頁面活動";}

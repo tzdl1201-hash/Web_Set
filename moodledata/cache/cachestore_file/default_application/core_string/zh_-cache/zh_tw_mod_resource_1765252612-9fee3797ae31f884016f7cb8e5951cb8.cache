@@ -1,0 +1,30 @@
+a:81:{s:15:"clicktodownload";s:38:"點選 {$a}鏈結來下載這檔案。";s:12:"clicktoopen2";s:38:"點選 {$a}鏈結來檢視這檔案。";s:20:"configdisplayoptions";s:106:"選擇可以使用的選項，現有的設定不會被改變。按住CTRL鍵可一次選擇多個欄位。";s:15:"configframesize";s:124:"當一網頁或一上傳的檔案顯示在框架中，這個值是上層框架(包含導覽)的高度(以像素為單位)。";s:23:"configparametersettings";s:138:"在此設定，新增資源的表格中，參數設定面版的預設值。用戶一旦使用後，會變成用戶個人的偏好設定。";s:11:"configpopup";s:126:"當新增一個新資源時，這個資源是否要採用彈出式視窗，以提供閱讀。這個選項預設是啟用的。";s:22:"configpopupdirectories";s:45:"彈出視窗是否顯示預設目錄連結？";s:17:"configpopupheight";s:24:"新視窗預設高度？";s:19:"configpopuplocation";s:36:"彈出視窗是否顯示位址欄？";s:18:"configpopupmenubar";s:39:"彈出視窗是否顯示功能表欄？";s:20:"configpopupresizable";s:39:"彈出視窗是否可以調整大小？";s:21:"configpopupscrollbars";s:30:"彈出視窗是否可滾動？";s:17:"configpopupstatus";s:36:"彈出視窗是否顯示狀態欄？";s:18:"configpopuptoolbar";s:36:"彈出視窗是否顯示工具欄？";s:16:"configpopupwidth";s:24:"新視窗預設寬度？";s:13:"contentheader";s:6:"內容";s:14:"displayoptions";s:24:"可使用的顯示選項";s:13:"displayselect";s:6:"顯示";s:18:"displayselect_help";s:725:"這一設定，加上檔案類型和瀏覽器是否允許嵌入，決定了檔案是如何呈現？
+
+選項可以包括:
+* 自動的 - 讓系統依據檔案類型自動為您選擇最佳顯示方式。
+* 嵌入的 - 檔案被顯示在Moodle頁面內，有導覽列、檔案說明和任何區塊。
+* 強迫下載 - 用戶被提示要下載檔案
+* 以原視窗開啟 - 只有這檔案被顯示在瀏覽器視窗
+* 用彈出式視窗開啟 - 檔案被顯示在一彈出的小的新視窗中(可用滑鼠調整大小)，而沒有工具列和位址列
+* 用框架開啟 - 檔案被顯示在一框架上端有導覽列和檔案說明
+* 以新視窗開啟 - 檔案被顯示在另一新瀏覽器視窗，有工具列和位址列。";s:18:"displayselect_link";s:12:"mod/file/mod";s:20:"displayselectexplain";s:78:"選擇顯示類型，不幸的是，不是所有類型都適合所有檔案。";s:17:"dnduploadresource";s:18:"建立檔案資源";s:13:"encryptedcode";s:21:"已加密的程式碼";s:12:"filenotfound";s:27:"找不到檔案，抱歉。";s:11:"filterfiles";s:30:"對檔案內容使用過濾器";s:18:"filterfilesexplain";s:157:"選擇檔案內容過濾的類型，
+請注意，這可能造成某些 Flash 和 Java小程式出問題。
+請確定所有的文字檔是以  UTF-8 編碼。";s:10:"filtername";s:25:"資源名稱 自動連結";s:13:"forcedownload";s:12:"強迫下載";s:9:"framesize";s:12:"頁框高度";s:24:"indicator:cognitivedepth";s:14:"File cognitive";s:29:"indicator:cognitivedepth_help";s:89:"This indicator is based on the cognitive depth reached by the student in a File resource.";s:27:"indicator:cognitivedepthdef";s:14:"File cognitive";s:32:"indicator:cognitivedepthdef_help";s:156:"The participant has reached this percentage of the cognitive engagement offered by the File resources during this analysis interval (Levels = No view, View)";s:32:"indicator:cognitivedepthdef_link";s:45:"Learning_analytics_indicators#Cognitive_depth";s:23:"indicator:socialbreadth";s:11:"File social";s:28:"indicator:socialbreadth_help";s:88:"This indicator is based on the social breadth reached by the student in a File resource.";s:26:"indicator:socialbreadthdef";s:11:"File social";s:31:"indicator:socialbreadthdef_help";s:175:"The participant has reached this percentage of the social engagement offered by the File resources during this analysis interval (Levels = No participation, Participant alone)";s:31:"indicator:socialbreadthdef_link";s:44:"Learning_analytics_indicators#Social_breadth";s:11:"legacyfiles";s:21:"移植舊課程檔案";s:17:"legacyfilesactive";s:6:"啟用";s:15:"legacyfilesdone";s:9:"已完成";s:12:"modifieddate";s:13:"修改於{$a}";s:10:"modulename";s:6:"檔案";s:15:"modulename_help";s:633:"這檔案模組可以讓教師提供一檔案做為課程資源。若可能的話，這檔案會顯示在這課程介面；否則會提示學生下載它。這檔案可以包含支持性檔案，比如說，一個HTML頁面可以鑲有圖片或Flash物件。
+
+請注意您提供的檔案格式，學生的電腦上是不是需要有適當的軟體才能開啟這檔案。
+
+檔案模組可以用來：
+
+* 分享上課時撥放的簡報檔。
+* 用來包含一個迷你網站作為課程資源。
+* 提供某些應用程式的草稿檔(例如Photoshop .psd)，作為學生作業的底稿，讓他們編輯、修改，然後再上傳。";s:15:"modulename_link";s:17:"mod/resource/view";s:16:"modulenameplural";s:6:"檔案";s:11:"notmigrated";s:63:"這一繼承的資源類型({$a})還沒有被移植，抱歉。";s:13:"optionsheader";s:12:"顯示選項";s:19:"page-mod-resource-x";s:30:"任何檔案資源模組頁面";s:20:"pluginadministration";s:24:"檔案資源模組管理";s:10:"pluginname";s:6:"檔案";s:11:"popupheight";s:35:"彈出視窗高度(以像素表示)";s:18:"popupheightexplain";s:36:"指定彈出式視窗的預設高度";s:13:"popupresource";s:36:"這個資源應顯示在彈出視窗";s:17:"popupresourcelink";s:41:"如果未生效，請點選這裡： {$a}";s:10:"popupwidth";s:35:"彈出視窗寬度(以像素表示)";s:17:"popupwidthexplain";s:36:"指定彈出式視窗的預設寬度";s:10:"printintro";s:18:"顯示資源描述";s:17:"printintroexplain";s:108:"在內容的下方顯示資源說明？某些顯示類型可能無法顯示說明，即使它已被啟用。";s:16:"privacy:metadata";s:58:"The File resource plugin does not store any personal data.";s:20:"resource:addinstance";s:15:"新增一資源";s:15:"resourcecontent";s:24:"檔案和下層資料夾";s:24:"resourcedetails_sizetype";s:21:"{$a->size} {$a->type}";s:24:"resourcedetails_sizedate";s:21:"{$a->size} {$a->date}";s:24:"resourcedetails_typedate";s:21:"{$a->type} {$a->date}";s:28:"resourcedetails_sizetypedate";s:32:"{$a->size} {$a->type} {$a->date}";s:23:"resource:exportresource";s:12:"匯出資源";s:13:"resource:view";s:12:"查看資源";s:15:"search:activity";s:6:"檔案";s:14:"selectmainfile";s:60:"請點選檔案旁邊的圖示，以便選出主要檔案。";s:8:"showdate";s:25:"顯示上傳/修改日期";s:13:"showdate_desc";s:46:"在課程頁面上顯示上傳/修改日期？";s:13:"showdate_help";s:160:"在這檔案的鏈結旁邊顯示上傳/修改日期。
+
+如果在這一資源中有多個檔案，那第一個檔案的上傳/修改日期會被顯示出來。";s:8:"showsize";s:18:"顯示檔案大小";s:13:"showsize_help";s:153:"顯示這檔案的大小，如，"3.1MB"，於檔案鏈結的旁邊。
+
+若在這一資源有多個檔案，則會顯示出所有檔案的總共大小。";s:13:"showsize_desc";s:39:"要在課程頁中顯示檔案大小？";s:8:"showtype";s:18:"顯示檔案類型";s:13:"showtype_desc";s:52:"在課程頁中顯示檔案類型(如，
+WORD文件)";s:13:"showtype_help";s:185:"在鏈結旁邊，顯示檔案的類型，比如"WORD文件"
+
+
+若有多個檔案在資源，所有檔案的總共大會顯示出來。
+
+若系統認不出類型，哪將不會顯示。";s:12:"uploadeddate";s:13:"上傳於{$a}";}

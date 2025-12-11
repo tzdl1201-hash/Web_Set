@@ -1,0 +1,3 @@
+a:10:{s:10:"invalidxml";s:50:"無效的XML檔案---應該有字串(使用CDATA?)";s:10:"pluginname";s:17:"Moodle XML 格式";s:15:"pluginname_help";s:66:"這是一個Moodle指定的格式，用來匯入和匯出試題。";s:15:"pluginname_link";s:11:"qformat/xml";s:16:"privacy:metadata";s:64:"The XML question format plugin does not store any personal data.";s:20:"truefalseimporterror";s:224:"<b>警告</b>：這是非題"{$a->questiontext}"無法正常地匯入，它無法查明正確答案為"是"或"非"。
+
+此試題暫時以答案為"{$a->answer}"匯入，如果不正確，你需要事後再編輯這試題。";s:17:"unsupportedexport";s:41:"以XML檔匯出時，不支援題型 {$a}";s:15:"xmlimportnoname";s:39:"在XML檔裡，少了試題概念名稱";s:19:"xmlimportnoquestion";s:33:"在XML檔裡，少了試題文字";s:18:"xmltypeunsupported";s:38:"在XML匯入時，不支援題型 {$a}";}

@@ -1,0 +1,1 @@
+a:6:{s:12:"contextlevel";s:12:"情境層級";s:5:"count";s:6:"數量";s:13:"confirmdelete";s:104:"你確實要刪除所有未支援的角色指派，為角色"{$a->role}"在情境層級 "{$a->level}"？";s:10:"noprolbems";s:36:"沒有發現未支援的角色指派";s:10:"pluginname";s:24:"未支援的角色指派";s:16:"privacy:metadata";s:73:"The Unsupported role assignments plugin does not store any personal data.";}

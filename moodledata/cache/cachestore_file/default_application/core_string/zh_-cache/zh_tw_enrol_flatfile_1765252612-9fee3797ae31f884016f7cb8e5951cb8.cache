@@ -1,0 +1,23 @@
+a:26:{s:8:"encoding";s:15:"檔案編碼中";s:13:"expiredaction";s:18:"註冊過期動作";s:18:"expiredaction_help";s:48:"當使用者註冊終止時，選出該執行之";s:14:"filelockedmail";s:185:"您所使用註冊課程的文字檔({$a}) 無法被排程程序刪除,這通常是權限上的錯誤,請修正權限,讓moodle可以刪除這個檔案,否則它會被一直重複處理";s:21:"filelockedmailsubject";s:23:"重大錯誤: 註冊檔";s:15:"flatfile:manage";s:39:"以手動方式管理使用者的註冊";s:16:"flatfile:unenrol";s:51:"以手動方式將已註冊之使用者移出課程";s:18:"flatfileenrolments";s:26:"Flat file (CSV) enrolments";s:12:"flatfilesync";s:27:"以純文字檔同步選課";s:8:"location";s:12:"檔案位置";s:13:"location_desc";s:66:"指定註冊之完整路徑。這個檔案之後會自動被刪除";s:11:"notifyadmin";s:15:"通知管理者";s:14:"notifyenrolled";s:24:"通知已選課之用戶";s:14:"notifyenroller";s:24:"通知註冊之使用者";s:34:"messageprovider:flatfile_enrolment";s:30:"一般檔案對應選課資訊";s:7:"mapping";s:21:"文字檔角色對應";s:10:"pluginname";s:17:"一般檔案(CSV)";s:15:"pluginname_desc";s:867:"這一方法是讓系統在你所指定的地方重複地檢查並處理一個特定格式的文字檔。
+這檔案格式是每一行包含有以逗點隔開的四到六個欄位：
+
+    operation, role, user idnumber, course idnumber [, starttime [, endtime]]
+
+其意義是:
+
+* operation - add | del
+* role - student | teacher | teacheredit
+* user idnumber - 在用戶資料表的編號， NB 代表無編號
+* course idnumber - 在課程資料表的編號， NB 代表無編號
+* starttime - 開始時間 (從紀元開始以秒計) - 可有可無
+* endtime - 結束時間 (從紀元開始以秒計) - 可有可無l
+
+它看起來像是這樣：
+<pre class="informationbox">
+   add, student, 5, CF101
+   add, teacher, 6, CF101
+   add, teacheredit, 7, CF101
+   del, student, 8, CF101
+   del, student, 17, CF101
+   add, student, 21, CF101, 1091115000, 1091215000
+</pre>";s:31:"privacy:metadata:enrol_flatfile";s:119:"The Flat file (CSV) enrolment plugin may store personal data relating to future enrolments in the enrol_flatfile table.";s:38:"privacy:metadata:enrol_flatfile:action";s:47:"The enrolment action expected on the given date";s:40:"privacy:metadata:enrol_flatfile:courseid";s:44:"The course ID to which the enrolment relates";s:38:"privacy:metadata:enrol_flatfile:roleid";s:47:"The ID of the role to be assigned or unassigned";s:41:"privacy:metadata:enrol_flatfile:timestart";s:34:"The time when the enrolment starts";s:39:"privacy:metadata:enrol_flatfile:timeend";s:32:"The time when the enrolment ends";s:44:"privacy:metadata:enrol_flatfile:timemodified";s:39:"The time when the enrolment is modified";s:38:"privacy:metadata:enrol_flatfile:userid";s:55:"The ID of the user to which the role assignment relates";}

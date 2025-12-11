@@ -1,0 +1,4 @@
+a:9:{s:13:"answeroptions";s:15:"答案的選項";s:18:"answeroptions_help";s:63:"建議的答案計算公式是 ...<strong>{={x}+..}</strong>...";s:10:"pluginname";s:18:"選擇式計算題";s:15:"pluginname_help";s:292:"計算的選擇題就像選擇題，其選項是數值經過公式計算的結果
+
+例如，如果這試題是“長度{l}和寬度{w}的矩形面積為多少？” 那選項之一就要是 {= {l}*{w}} (其中*表示乘號)，錯誤的選項可以是{= {l}-{w}}或{= {l}/{w}}或{= {l}+{w}}。";s:15:"pluginname_link";s:29:"question/type/calculatedmulti";s:16:"pluginnameadding";s:27:"新增一選擇式計算題";s:17:"pluginnameediting";s:27:"編輯一選擇式計算題";s:17:"pluginnamesummary";s:166:"選擇式計算題就像選擇題，其選項是數值經過公式計算的結果。
+而這些數值是在做測驗時，是由一資料集合中隨機挑選出來。";s:16:"privacy:metadata";s:81:"The Calculated multichoice question type plugin does not store any personal data.";}

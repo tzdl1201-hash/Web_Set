@@ -1,0 +1,159 @@
+a:396:{s:6:"accept";s:6:"接受";s:8:"accepted";s:9:"已接受";s:13:"accept_grades";s:24:"從這工具接受分數";s:19:"accept_grades_admin";s:24:"從這工具接受分數";s:24:"accept_grades_admin_help";s:305:"指定的工具提供者可以新增、更新、讀取、刪除分數。
+
+某些工具提供者可以加入、更新、讀取、刪除、與這個工具類型實體的成績。一些工具提供支援報告等級到Moodle在該工具中所採取的行動基礎上，建立一個更加一體化的體驗。";s:18:"accept_grades_help";s:286:"指定這工具提供者能否添加、更新、讀取和刪除與這外部工具有關的分數。
+
+一些工具提供者能夠把學生在工具上參與活動的成績報告到Moodle上，而建立一個更加一體化的體驗。
+
+注意！這一設定可能會覆寫工具配置。";s:23:"accept_grades_from_tool";s:41:"Allow {$a} to add grades in the gradebook";s:6:"action";s:6:"動作";s:8:"activate";s:6:"啟用";s:24:"activatetoadddescription";s:63:"在你添加一段說明之前，你需要先啟動這一工具";s:6:"active";s:6:"活動";s:8:"activity";s:6:"活動";s:10:"add_ltiadv";s:17:"Add LTI Advantage";s:13:"add_ltilegacy";s:14:"Add Legacy LTI";s:9:"addnewapp";s:24:"啟用外部應用程式";s:9:"addserver";s:30:"新增一可信任的伺服器";s:7:"addtool";s:8:"Add tool";s:7:"addtype";s:27:"新增事先配置的工具";s:5:"allow";s:6:"允許";s:12:"allowsetting";s:41:"允許工具在Moodle儲存8K的設定值";s:6:"always";s:6:"永遠";s:9:"automatic";s:30:"自動的，依據啟動網址";s:11:"autoaddtype";s:12:"添加工具";s:7:"baseurl";s:31:"基本網址/工具註冊名稱";s:8:"basiclti";s:18:"學習工具互通";s:20:"basiclti_base_string";s:45:"外部工具互動的官方授權基礎字串";s:17:"basiclti_endpoint";s:33:"學習工具互通性啟動端點";s:22:"basiclti_in_new_window";s:33:"活懂已經顯示在新的視窗";s:27:"basiclti_in_new_window_open";s:45:"若新視窗沒優開啟，就點選這裡。";s:19:"basiclti_parameters";s:33:"學習工具互通性啟動參數";s:18:"basicltiactivities";s:27:"學習工具互通性活動";s:16:"basicltifieldset";s:21:"自訂範例欄位集";s:13:"basicltiintro";s:12:"活動說明";s:12:"basicltiname";s:12:"活動名稱";s:16:"basicltisettings";s:38:"基本學習工具互通性(LTI)設定";s:15:"cachedef_keyset";s:38:"Caches the keyset information of tools";s:6:"cancel";s:6:"取消";s:9:"cancelled";s:9:"已取消";s:12:"capabilities";s:6:"能力";s:20:"capabilitiesrequired";s:51:"這一工具需要存取下列資料才能啟用：";s:17:"capabilities_help";s:90:"選擇你希望提供給這工具供應者的一些能力，你可以選擇多種能力。";s:17:"cleanaccesstokens";s:46:"External tool removal of expired access tokens";s:17:"click_to_continue";s:54:"<a href="{$a->link}" target="_top">擊點可繼續</a>";s:13:"clientidadmin";s:9:"Client ID";s:18:"clientidadmin_help";s:274:"The client ID is a unique value used to identify a tool. It is created automatically for each tool which uses the JWT security profile introduced in LTI 1.3 and should be part of the details passed to the tool provider so that they can configure the connection at their end.";s:7:"comment";s:6:"評論";s:14:"configpassword";s:24:"預設遠端工具密碼";s:18:"configpreferheight";s:21:"預設偏好的高度";s:18:"configpreferwidget";s:30:"設定小工具為預設發動";s:17:"configpreferwidth";s:21:"預設偏好的寬度";s:17:"configresourceurl";s:18:"預設資源網址";s:13:"configtoolurl";s:24:"預設遠端工具網址";s:11:"configtypes";s:33:"啟用學習工具互通性應用";s:10:"configured";s:6:"配置";s:21:"confirmtoolactivation";s:36:"你確定你要啟用這一工具？";s:23:"contentitem_deeplinking";s:44:"Supports Deep Linking (Content-Item Message)";s:28:"contentitem_deeplinking_help";s:86:"If ticked, the option 'Select content' will be available when adding an external tool.";s:32:"contentitem_multiple_description";s:49:"The following items will be added to your course:";s:27:"contentitem_multiple_graded";s:37:"Graded activity (Maximum grade: {$a})";s:15:"contentselected";s:16:"Content selected";s:27:"courseactivitiesorresources";s:21:"課程活動或資源";s:21:"courseexternaltooladd";s:25:"Add new LTI External tool";s:28:"courseexternaltooladdsuccess";s:11:"{$a} added.";s:22:"courseexternaltooledit";s:9:"Edit {$a}";s:29:"courseexternaltooleditsuccess";s:15:"變更已儲存";s:25:"courseexternaltooliconalt";s:13:"Icon for {$a}";s:19:"courseexternaltools";s:18:"LTI External tools";s:23:"courseexternaltoolsinfo";s:181:"LTI External tools are add-on apps you can integrate into your course, such as interactive content or assessments. Your students can access and use them without leaving your course.";s:36:"courseexternaltoolsnoeditpermissions";s:43:"You don't have permission to edit this tool";s:36:"courseexternaltoolsnoviewpermissions";s:26:"View course external tools";s:8:"courseid";s:12:"課程編號";s:17:"courseinformation";s:12:"課程資訊";s:10:"courselink";s:15:"跳到這課程";s:13:"coursemisconf";s:18:"課程設定錯誤";s:17:"coursetooldeleted";s:12:"{$a} deleted";s:9:"createdon";s:9:"建立於";s:18:"curllibrarymissing";s:56:"要使用學習工具互通必須安裝PHP Curl函式庫";s:6:"custom";s:12:"自訂參數";s:11:"custom_help";s:311:"自訂參數是工具提供者所使用的設定。例如一個自訂參數可被用來顯示來自工具提供者的特定資源。
+每一參數應該各自成一行輸入，並使用"name=value"的格式，例如，"chapter=3"。
+
+不要更改這一欄位會比較安全，除非這工具提供者有指示。";s:11:"custominstr";s:12:"自訂參數";s:11:"debuglaunch";s:12:"除錯選項";s:14:"debuglaunchoff";s:12:"正常啟動";s:13:"debuglaunchon";s:12:"除錯啟動";s:7:"default";s:6:"預設";s:24:"default_launch_container";s:18:"預設啟動容器";s:29:"default_launch_container_help";s:713:"當從課程中啟動外部學習工具時，啟動容器會影響這工具的顯示方式。有些啟動容器提供更多的螢幕空間給這工具，而有些則提供更強調與Moodle 環境整合的感覺。
+
+* **預設**--使用工具配置所指定的啟動容器。
+* **鑲入**--外部工具會顯示在現有的Moodle視窗，看起來就像是其他的活動類型。
+* **鑲入，沒有區塊**--外部工具會顯示在現有的Moodle視窗，但只伴隨在這一頁頂端的導覽控制。
+* **新視窗**--外部工具會開啟新視窗，且占據所有可用空間。它會開啟一新分頁或是一彈出式視窗，要看瀏覽器而定，也有可能瀏覽器會阻止新視窗的開啟。";s:8:"delegate";s:15:"委派給教師";s:13:"delegate_tool";s:62:"As specified in Deep Linking definition or Delegate to teacher";s:6:"delete";s:6:"刪除";s:19:"delete_confirmation";s:51:"您確定要刪除這個外部工具的設定嗎？";s:16:"deletecoursetool";s:11:"Delete {$a}";s:23:"deletecoursetoolconfirm";s:66:"This will delete {$a} from the available LTI tools in your course.";s:32:"deletecoursetoolwithusageconfirm";s:187:"{$a} is currently being used in at least one activity in your course. If you delete this tool, the activities that use it will no longer work.<br><br>Are you sure you want to delete {$a}?";s:19:"display_description";s:27:"啟動後顯示活動敘述";s:24:"display_description_help";s:247:"如果啟用，上面設定的活動描述會顯示在工具提供者的內容之上。
+
+此描述可以用來提供工具未提供的各種說明，不過這不是必須的。
+
+如果工具是在新視窗中啟動，則永遠不會顯示描述。";s:12:"display_name";s:27:"啟動後顯示活動名稱";s:17:"display_name_help";s:268:"如果啟用，上面設定的活動名稱會顯示在工具提供者的內容之上。
+
+因為工具提供者也有可能會顯示活動名稱。此選項可以避免活動名稱被顯示兩次。
+
+如果工具是在新視窗中啟動，則永遠不會顯示描述。";s:5:"donot";s:12:"不要送出";s:11:"donotaccept";s:12:"不要接受";s:10:"donotallow";s:12:"不要允許";s:18:"dynreg_update_text";s:151:"There are existing tools attached to the registration's domain. Do you want to update an already installed
+external tool or create a new external tool?";s:28:"dynreg_update_warn_dupdomain";s:76:"It is not recommended to have multiple external tools under the same domain.";s:18:"dynreg_update_name";s:9:"Tool name";s:17:"dynreg_update_url";s:8:"Base URL";s:21:"dynreg_update_version";s:11:"LTI version";s:21:"dynreg_update_notools";s:20:"No tools in context.";s:24:"dynreg_update_btn_update";s:6:"Update";s:21:"dynreg_update_btn_new";s:31:"Register as a new external tool";s:15:"duplicateregurl";s:36:"這一註冊的網址已經被使用";s:15:"editdescription";s:39:"點選這裡給這一工具加上描述";s:36:"editmanualinstancedeprecationwarning";s:581:"Manually configured External tool activities are no longer supported. Don't worry, this activity will still work as it is, but you can't make changes to the tool configuration here anymore.
+<br><br>
+To make any changes to the tool, or to create new activities with it, the tool needs to be added to your course in Course > More > LTI External tools. Then, you will be able to create new activities, selecting the tool directly in the Activity chooser.
+<br><br>
+You can read more about adding LTI External tools in the documentation <a href="{$a}" target="_blank">External tool</a>.";s:5:"embed";s:6:"嵌入";s:15:"embed_no_blocks";s:21:"不使用區塊嵌入";s:23:"enableemailnotification";s:18:"發送郵件通知";s:28:"enableemailnotification_help";s:78:"若啟用，當學生的提交打完分數後，他們會收到郵件通知。";s:17:"enterkeyandsecret";s:39:"輸入你的客戶密鑰和共用密碼";s:22:"enterkeyandsecret_help";s:79:"若你有拿到一個客戶密鑰和/或共用的密碼，把它們輸入這裡";s:25:"entitycourseexternaltools";s:18:"LTI External tools";s:11:"errorbadurl";s:48:"網址不是一個有效的工具網址或載具";s:25:"errorincorrectconsumerkey";s:21:"客戶密鑰不正確";s:16:"errorinvaliddata";s:22:"無效的資料：{$a}";s:21:"errorinvalidmediatype";s:28:"無效的媒體類型：{$a}";s:26:"errorinvalidresponseformat";s:34:"無效的內容-項目反應格式";s:14:"errormisconfig";s:81:"配置錯誤的工具。請要求你的Moodle管理員修護這工具的設定。";s:21:"errortooltypenotfound";s:30:"沒有找到外部工具類型";s:15:"existing_window";s:15:"現存的視窗";s:10:"extensions";s:33:"學習工具互通性擴展服務";s:18:"external_tool_type";s:21:"預先配置的工具";s:23:"external_tool_type_help";s:1813:"工具配置的主要目的是為 Moodle 和工具提供商之間提供一個安全的溝通管道。
+它也提供了由此工具提供的預設配置以及設定這工具提供的附加服務。
+
+* **自動的，基於 Launch URL** - 該項設置幾乎應該被應用在所有情況下。 Moodle 會基於Launch URL 選擇最合適的工具配置。由管理員或者課程內配置的工具將會被用到。
+       當指定了 Launch URL， 無論是否識別該 URL ，  Moodle都會提供一個回饋。如果 Moodle 未能識別 Launch URL，您可能需要手動進入工具配置細節。
+
+* **一種特殊的工具類型** - 通過選擇一種特殊的工具類型，在與外部工具提供者進行交流的時候，您可以強制 Moodle 使用該工具配置。如果該 Launch URL 並不屬於該工具提供者，一個警告將會出現。在某些情況下，沒有必要在提供一種特殊的工具類型時進入一個 Launch URL （如果對於工具提供者沒有連接到特定的資源）。
+
+* **自定義配置** - 為了在這個實例中開始自定義工具配置，顯示高級選項並進入使用者密匙和共用密匙。如果您沒有用戶密匙和共用密匙，您可以從工具提供者獲得他們。
+       並不是所有的工具都需要一個用戶密匙和共用密匙，在這種情況下相應的填寫密匙處可以留空不填。
+
+### 工具類型編輯
+
+在外部工具類型的下拉選單中，有三個圖示可供使用：
+
+* **添加** - 建立一個課程層級的工具配置。在該課程下的所有外部工具實例都可以使用該工具配置。
+
+* **編輯** - 從該下拉選單中選擇課程層級工具類型，然後點擊該圖示。工具配置的細節可以被編輯。
+
+* **刪除** - 刪除選出的課程層級的工具類型。";s:19:"external_tool_types";s:18:"外部工具類型";s:15:"failedtoconnect";s:33:"Moodle無法與"{$a}"系統通訊";s:22:"failedtocreatetooltype";s:54:"建立新工具失敗，請檢察網址並再試一次";s:23:"failedtodeletetoolproxy";s:107:"無法刪除工具註冊。你可能需要去到"管理外部工具註冊"然後以手動方式刪除它。";s:26:"filter_basiclti_configlink";s:42:"設定您首選的網站及它們的密碼";s:24:"filter_basiclti_password";s:18:"必須輸入密碼";s:12:"filterconfig";s:24:"學習工具互通管理";s:10:"filtername";s:18:"學習工具互通";s:15:"fixexistingconf";s:51:"對錯誤的設定使用一個已經存在的實體";s:6:"fixnew";s:9:"新配置";s:10:"fixnewconf";s:54:"對錯誤配置的實例重新使用一個新的配置";s:6:"fixold";s:18:"使用現有設定";s:9:"force_ssl";s:15:"強制使用SSL";s:14:"force_ssl_help";s:235:"勾選這個選項目，將強制這工具提供者使用SSL。
+
+此外，來自這工具提供者提出的所有網頁服務請求都將使用SSL。
+
+若使用此選項，請確認這一Moodle網站和這工具提供者都支援SSL。";s:11:"generaltool";s:12:"一般工具";s:7:"grading";s:12:"分數路由";s:8:"icon_url";s:15:"圖示的網址";s:13:"icon_url_help";s:190:"這個圖示網址可讓顯示在課程列表的圖示所代表的活動能被修改。
+除了使用預設的學習工具互動圖示之外，一個圖示可以傳達特定的活動類型。";s:2:"id";s:2:"id";s:24:"indicator:cognitivedepth";s:13:"LTI cognitive";s:29:"indicator:cognitivedepth_help";s:89:"This indicator is based on the cognitive depth reached by the student in an LTI activity.";s:27:"indicator:cognitivedepthdef";s:13:"LTI cognitive";s:32:"indicator:cognitivedepthdef_help";s:179:"The participant has reached this percentage of the cognitive engagement offered by the LTI activities during this analysis interval (Levels = No view, View, Submit, View feedback)";s:32:"indicator:cognitivedepthdef_link";s:45:"Learning_analytics_indicators#Cognitive_depth";s:23:"indicator:socialbreadth";s:10:"LTI social";s:28:"indicator:socialbreadth_help";s:88:"This indicator is based on the social breadth reached by the student in an LTI activity.";s:26:"indicator:socialbreadthdef";s:10:"LTI social";s:31:"indicator:socialbreadthdef_help";s:200:"The participant has reached this percentage of the social engagement offered by the LTI activities during this analysis interval (Levels = No participation, Participant alone, Participant with others)";s:31:"indicator:socialbreadthdef_link";s:44:"Learning_analytics_indicators#Social_breadth";s:13:"initiatelogin";s:18:"Initiate login URL";s:18:"initiatelogin_help";s:146:"The tool URL to which requests for initiating a login are to be sent.  This URL is required before a message can be successfully sent to the tool.";s:9:"invalidid";s:36:"學習工具互通的編號不正確";s:11:"jwtsecurity";s:7:"LTI 1.3";s:7:"keytype";s:15:"Public key type";s:12:"keytype_help";s:52:"The authentication method used to validate the tool.";s:14:"keytype_keyset";s:10:"Keyset URL";s:11:"keytype_rsa";s:7:"RSA key";s:16:"launch_in_moodle";s:24:"在moodle中啟動工具";s:15:"launch_in_popup";s:27:"啟動工具在彈出視窗";s:10:"launch_url";s:15:"發動用網址";s:15:"launch_url_help";s:424:"啟動網址是指一外部工具的網際網路位址，且可能包含額外的資訊，比如要顯示的資源。
+
+若你不確定要在啟動網址輸入什麼，請聯絡工具提供者已娶得更多資訊。
+
+若你已經選擇一特定的工具類型，你可能不需要輸入啟動網址。如果這工具連結只是用來啟動這工具提供者的系統，而不是去到特定的資源，就可以這樣做。";s:13:"launchinpopup";s:12:"啟動容器";s:18:"launchinpopup_help";s:713:"當從課程中啟動外部學習工具時，啟動容器會影響這工具的顯示方式。有些啟動容器提供更多的螢幕空間給這工具，而有些則提供更強調與Moodle 環境整合的感覺。
+
+* **預設**--使用工具配置所指定的啟動容器。
+* **鑲入**--外部工具會顯示在現有的Moodle視窗，看起來就像是其他的活動類型。
+* **鑲入，沒有區塊**--外部工具會顯示在現有的Moodle視窗，但只伴隨在這一頁頂端的導覽控制。
+* **新視窗**--外部工具會開啟新視窗，且占據所有可用空間。它會開啟一新分頁或是一彈出式視窗，要看瀏覽器而定，也有可能瀏覽器會阻止新視窗的開啟。";s:13:"launchoptions";s:15:"啟動的選項";s:3:"lti";s:18:"學習工具互通";s:17:"lti:addcoursetool";s:33:"添加課程特定的工具配置";s:36:"lti:addmanualinstanceprohibitederror";s:167:"The manual creation of tools without a course tool definition is no longer supported. Please create a course tool first and then use that to create activity instances.";s:15:"lti:addinstance";s:30:"添加一新外部工具活動";s:28:"lti:addpreconfiguredinstance";s:24:"Add a preconfigured tool";s:9:"lti:grade";s:36:"檢視由外部工具傳回的分數";s:10:"lti:manage";s:36:"當這工具啟動時，成為教師";s:9:"lti:admin";s:45:"Be an administrator when the tool is launched";s:18:"lti:requesttooladd";s:54:"要求一外部工具配置成整個網站都可使用";s:8:"lti:view";s:24:"啟動外部工具活動";s:11:"ltisettings";s:24:"學習工具互通設定";s:18:"lti_administration";s:27:"學習工具互通性管理";s:12:"lti_errormsg";s:42:"這工具傳回下列錯誤訊息："{$a}"";s:16:"lti_launch_error";s:39:"當啟動外部工具時發生錯誤：";s:29:"lti_launch_error_tool_request";s:131:"要提交一個要求，請求管理員完成工具配置，請點選 <a href="{$a->admin_request_url}" target="_top">這裡</a>。";s:30:"lti_launch_error_unsigned_help";s:327:"這個錯誤可能是少了來自工具提供者的客戶編號和共用密碼。
+
+如果你有一個客戶編號和共用密碼，你可以在編輯外部工具實例時輸入它(要確定可以看到進階選項)。
+
+或者，你可以<a href="{$a->course_tool_editor}">建立一個課程層次的工具提供者配置</a>。";s:22:"lti_tool_request_added";s:114:"工具配置的要求已經順利地提交出去。你可能需要聯絡網站管理員來完成工具的配置。";s:25:"lti_tool_request_existing";s:66:"一個為這工具網域而設的工具配置已經提交出去。";s:24:"ltiunknownserviceapicall";s:48:"學習工具互動性未知的服務的API呼叫";s:10:"ltiversion";s:11:"LTI version";s:15:"ltiversion_help";s:154:"The version of LTI being used for signing messages and service requests: LTI 1.0/1.1 and LTI 2.0 use the OAuth 1.0A security profile; LTI 1.3.0 uses JWTs.";s:10:"main_admin";s:12:"一般幫助";s:15:"main_admin_help";s:1187:"External tools allow Moodle users to interact with learning resources hosted remotely. Through a special launch protocol, the remote tool has access to general information about the launching user. For example, the institution name, course ID, user ID, and other information such as the user's name or email address.
+
+Tools listed on this page are separated into three categories:
+
+* **Active** - These tool providers have been approved and configured by an administrator. They can be used from within any course on this site. If a consumer key and shared secret are entered, a trust relationship is established between this site and the remote tool, providing a secure communication channel.
+* **Pending** - These tool providers came in through a package import, but have not been configured by an administrator. Teachers may still use tools from these providers if they have a consumer key and shared secret, or if none is required.
+* **Rejected** - These tools providers are flagged as ones which an administrator has no intention of making available on the site. Teachers may still use tools from these providers if they have a consumer key and shared secret, or if none is required.";s:21:"manage_external_tools";s:12:"管理工具";s:12:"manage_tools";s:27:"管理預先配置的工具";s:19:"manage_tool_proxies";s:24:"管理外部工具註冊";s:15:"manuallyaddtype";s:74:"另一個方式，你可以 <a href="{$a}">手動配置一個工具</a>。";s:13:"miscellaneous";s:6:"雜項";s:18:"misconfiguredtools";s:36:"檢測到錯誤配置的工具實例";s:22:"missingparameterserror";s:31:"頁面配置錯誤：“{$a}”";s:17:"module_class_type";s:18:"Moodle模組類型";s:10:"modulename";s:12:"外部工具";s:15:"modulename_help";s:757:"這外部工具活動模組可以讓學生與在其他網站上的學習資源和活動進行互動。
+
+要建立一個外部工具活動，需要有一個支援學習工具互通性(Learning Tools Interoperability, LTI)的工具提供者。教師可以建立一個外部工具活動，或者直接使用網站管理員所配置的工具。
+
+外部工具活動與一般的網路資源有一些差異：
+
+* 外部工具是情境敏感的，比如說，他們會取得啟動這工具的用戶的資訊，例如機構、課程、學生姓名等。
+* 外部工具支援閱讀、更新、和刪除與這活動有關的分數。
+* 外部工具的配置會在你的網站和工具提供者之間建立一個信任關係，允需他們之間進行安全的溝通。";s:15:"modulename_link";s:12:"mod/lti/view";s:24:"modulename_shortcut_link";s:19:"mod/lti/view/custom";s:16:"modulenameplural";s:12:"外部工具";s:25:"modulenamepluralformatted";s:24:"學習工具互通實例";s:4:"name";s:6:"名稱";s:5:"never";s:6:"從未";s:10:"new_window";s:9:"新視窗";s:17:"no_lti_configured";s:33:"沒有可用的外部工具配置";s:14:"no_lti_pending";s:30:"沒有被懸置的外部工具";s:15:"no_lti_rejected";s:30:"沒有被拒絕的外部工具";s:12:"no_lti_tools";s:33:"沒有已配置好的外部工具";s:14:"no_tp_accepted";s:36:"沒有被接受的外部工具註冊";s:15:"no_tp_cancelled";s:36:"沒有已取消的外部工具註冊";s:16:"no_tp_configured";s:42:"沒有未註冊的外部工具註冊配置";s:13:"no_tp_pending";s:36:"沒有被懸置的外部工具註冊";s:14:"no_tp_rejected";s:36:"沒有被拒絕的外部工具註冊";s:10:"noattempts";s:39:"對該工具實例沒有做任何嘗試";s:27:"nocourseexternaltoolsnotice";s:36:"There are no LTI External tools yet.";s:6:"noltis";s:27:"沒有外部工具的實例";s:16:"noprofileservice";s:33:"沒有發現個人資料表服務";s:9:"noservers";s:18:"找不到伺服器";s:7:"notypes";s:107:"目前在 Moodle 中沒有學習工具互通性工具設置。點擊上方的安裝按鈕去添加一些。";s:11:"noviewusers";s:51:"沒有找到擁有使用該工具許可權的用戶";s:13:"oauthsecurity";s:11:"LTI 1.0/1.1";s:16:"optionalsettings";s:12:"選項設定";s:12:"organization";s:12:"組織細節";s:17:"organizationdescr";s:12:"組織說明";s:22:"organizationid_default";s:23:"Default organisation ID";s:6:"siteid";s:7:"Site ID";s:8:"sitehost";s:13:"Site hostname";s:27:"organizationid_default_help";s:93:"The default value to use for Organisation ID. Site ID identifies this installation of Moodle.";s:18:"organizationidguid";s:15:"Organisation ID";s:23:"organizationidguid_help";s:156:"A unique identifier for this Moodle instance passed to the tool as the Platform Instance GUID.
+
+If this field is left blank, the default value will be used.";s:15:"organizationurl";s:12:"組織網址";s:20:"organizationurl_help";s:122:"Moodle 實例的基本 URL 。
+
+若這一欄位被留空，那麼根據網站的配置，一個預設值將會被使用。";s:8:"pagesize";s:27:"每一頁顯示的作品數";s:9:"parameter";s:15:"工具的參數";s:14:"parameter_help";s:93:"工具參數是指要通過工具提供者的工具代理伺服器時，所必要的設定。";s:8:"password";s:15:"共享的密鑰";s:14:"password_admin";s:15:"共享的密鑰";s:19:"password_admin_help";s:277:"共用密鑰可以被看作是用來授權存取工具的一個密碼。它應該同用戶密鑰一同由工具供應商提供。
+
+那些不需要使用 Moodle 的保密通信，以及不提供額外服務（例如成績報告）的工具，可能不需要一個共用密鑰。";s:13:"password_help";s:583:"對於預先配置的工具，此處沒有必要輸入共用密鑰，因為該共用密鑰在配置過程中將會被提供。
+
+如果向工具建立的連接沒有配置，該區域應該填寫。
+
+如果在此課程中工具將會被多次使用，添加一個課程工具配置會是一個好主意。
+
+共用密鑰可以被看作是用來授權訪問工具的一個密鑰。它應該同用戶密鑰一同由工具供應商提供。
+
+那些不需要使用 Moodle 的保密通信，以及不提供額外服務（例如成績報告）的工具，可能不需要一個共用密鑰。";s:7:"pending";s:6:"待決";s:20:"pluginadministration";s:24:"學習工具互通管理";s:10:"pluginname";s:18:"學習工具互通";s:12:"preferheight";s:15:"偏好的高度";s:12:"preferwidget";s:15:"偏好小工具";s:11:"preferwidth";s:15:"偏好的寬度";s:15:"press_to_submit";s:27:"按下來發動這一活動";s:7:"privacy";s:9:"隱私權";s:25:"privacy:metadata:courseid";s:64:"The ID of the course the user is accessing the LTI Consumer from";s:31:"privacy:metadata:courseidnumber";s:71:"The ID number of the course the user is accessing the LTI Consumer from";s:31:"privacy:metadata:coursefullname";s:70:"The fullname of the course the user is accessing the LTI Consumer from";s:32:"privacy:metadata:courseshortname";s:71:"The shortname of the course the user is accessing the LTI Consumer from";s:26:"privacy:metadata:createdby";s:31:"The user who created the record";s:22:"privacy:metadata:email";s:56:"The email address of the user accessing the LTI Consumer";s:32:"privacy:metadata:externalpurpose";s:80:"The LTI Consumer provides user information and context to the LTI Tool Provider.";s:26:"privacy:metadata:firstname";s:52:"The firstname of the user accessing the LTI Consumer";s:25:"privacy:metadata:fullname";s:51:"The fullname of the user accessing the LTI Consumer";s:25:"privacy:metadata:lastname";s:51:"The lastname of the user accessing the LTI Consumer";s:31:"privacy:metadata:lti_submission";s:14:"LTI submission";s:45:"privacy:metadata:lti_submission:datesubmitted";s:53:"The timestamp indicating when the submission was made";s:43:"privacy:metadata:lti_submission:dateupdated";s:57:"The timestamp indicating when the submission was modified";s:44:"privacy:metadata:lti_submission:gradepercent";s:38:"The grade for the user as a percentage";s:45:"privacy:metadata:lti_submission:originalgrade";s:31:"The original grade for the user";s:38:"privacy:metadata:lti_submission:userid";s:53:"The ID of the user who submitted for the LTI activity";s:33:"privacy:metadata:lti_tool_proxies";s:11:"LTI proxies";s:38:"privacy:metadata:lti_tool_proxies:name";s:14:"LTI proxy name";s:26:"privacy:metadata:lti_types";s:9:"LTI types";s:31:"privacy:metadata:lti_types:name";s:13:"LTI type name";s:21:"privacy:metadata:role";s:62:"The role in the course for the user accessing the LTI Consumer";s:28:"privacy:metadata:timecreated";s:36:"The time when the record was created";s:29:"privacy:metadata:timemodified";s:37:"The time when the record was modified";s:23:"privacy:metadata:userid";s:45:"The ID of the user accessing the LTI Consumer";s:29:"privacy:metadata:useridnumber";s:52:"The ID number of the user accessing the LTI Consumer";s:25:"privacy:metadata:username";s:51:"The username of the user accessing the LTI Consumer";s:9:"publickey";s:10:"Public key";s:12:"publickeyset";s:13:"Public keyset";s:17:"publickeyset_help";s:148:"Public keyset from where this site will retrieve the tool's public key to allow signatures of incoming messages and service requests to be verified.";s:14:"publickey_help";s:129:"The public key (in PEM format) provided by the tool to allow signatures of incoming messages and service requests to be verified.";s:10:"quickgrade";s:18:"允許快速計分";s:15:"quickgrade_help";s:164:"若啟用，多種工具可以在一個頁面上被評分。加上分數及評語，然後點選"儲存我所有的回饋"按鈕以儲存在此頁面上的更改。";s:8:"redirect";s:69:"你將在幾秒內被重新導向，若沒有，請按下這按鈕。";s:15:"redirectionuris";s:18:"Redirection URI(s)";s:20:"redirectionuris_help";s:173:"A list of URIs (one per line) which the tool uses when making authorisation requests.  At least one must be registered before a message can be successfully sent to the tool.";s:8:"register";s:9:"註冊者";s:16:"register_warning";s:248:"這註冊頁面似乎需要花點時間才能開啟。若它沒有出現，請檢查你在配置設定上所輸入的網址是否正確。如果 Moodle 是使用 https，要確定你配置的工具有支援 https，且你在網址上有用 https。";s:12:"registertype";s:33:"配置一個新外部工具註冊";s:20:"registration_options";s:12:"註冊選項";s:16:"registrationname";s:21:"工具提供者名稱";s:21:"registrationname_help";s:39:"輸入要註冊的工具提供者名稱";s:15:"registrationurl";s:12:"註冊網址";s:20:"registrationurl_help";s:84:"註冊網址是由工具提供者所提供，它是註冊申請要送去的地方。";s:6:"reject";s:6:"拒絕";s:8:"rejected";s:12:"已被拒絕";s:8:"resource";s:6:"資源";s:11:"resourcekey";s:12:"資源密鑰";s:17:"resourcekey_admin";s:12:"客戶密鑰";s:22:"resourcekey_admin_help";s:553:"用戶密鑰可以被看作是用來做認證工具存取權限的一個用戶名稱。
+
+它可以由工具用來唯一識別 Moodle網站，通過 Moodle網站，用戶可以使用這種工具
+
+用戶密鑰必須由工具提供者提供。獲得用戶密鑰的方法會隨著工具提供者的不同而有差異。它可以是一個自動的過程，或者它可能需要和工具提供者進行對話。
+
+那些不需要使用 Moodle 的保密通信，以及不提供額外服務（例如成績報告）的工具，可能不需要一個用戶密鑰。";s:16:"resourcekey_help";s:843:"就預先配置的工具而言，它不需要在此輸入資源密鑰，因為在配置的過程就會提供客戶密鑰。
+
+如果你建立一個連結到一工具提供者，而它還沒有被配置，這一欄位就需要輸入資料。如果一個工具提供者在此課程中被使用多次，添加一個課程工具配置是比較好的主意。
+
+客戶密鑰可以被想成是一個用戶名稱用來被認證以便存取這工具。它也可以被工具提供者用來辨識啟動這工具的用戶是來自哪一個 Moodle 網站。
+
+這客戶密鑰必須是由工具提供者提供。而獲得密鑰的方法各不相同，它可能是個自動的過程，也可能需要與工具提供者對話。
+
+那些不需要與Moodle做安全溝通，和不提供額外服務(如成績報告)的工具，可能不需要一個資源密鑰。";s:11:"resourceurl";s:12:"資源網址";s:18:"restricttocategory";s:20:"Restrict to category";s:23:"restricttocategory_help";s:107:"To restrict use of this tool to courses within a category, select the category or categories from the list.";s:16:"return_to_course";s:66:"點擊<a href="{$a->link}" target="_top">這裏</a>返回課程。";s:15:"saveallfeedback";s:24:"儲存所有我的回饋";s:15:"search:activity";s:24:"學習工具互動活動";s:15:"secure_icon_url";s:21:"安全圖示的網址";s:20:"secure_icon_url_help";s:241:"類似一般圖示網址，但只有在用戶為了安全透過 SSL 存取 Moodle 時使用它。這一欄位的主要目的是讓瀏覽器警告用戶，如果基礎頁面是透過SSL存取，但是卻要求顯示一個不安全的圖像。";s:17:"secure_launch_url";s:18:"安全起動網址";s:22:"secure_launch_url_help";s:349:"類似啟動網址，但若需要高度安全性時，可用來代替啟動網址。
+如果Moodle網站是透過SSL來存取，或這工具配置是設定永遠透過SSL啟動，那安全啟動網址將會取代啟動網址。
+
+這啟動網址也可以設定為以 https 開頭的位址，以強迫從SSL啟動，而這一欄位就可以留空白。";s:13:"selectcontent";s:12:"選擇內容";s:4:"send";s:6:"傳送";s:8:"services";s:6:"服務";s:13:"services_help";s:93:"選出你希望提供給工具提供者的那些服務。可以選擇一個以上的服務。";s:12:"setupoptions";s:12:"設定選項";s:11:"share_email";s:32:"與工具共用啟動者的email";s:17:"share_email_admin";s:32:"與工具共用啟動者的email";s:22:"share_email_admin_help";s:206:"請指明是否要將啟動這一工具的用戶的email位址，提供給這一工具提供者。
+
+工具提供者需要啟動者的email位址來區別有相同姓名的學生，或者送email給學生。";s:16:"share_email_help";s:271:"請指明是否要將啟動這一工具的用戶的email位址，提供給這一工具提供者。
+
+工具提供者需要啟動者的email位址來區別有相同姓名的學生，或者送email給學生。
+
+注意，這一設定可能在工具配置中被覆寫過去。";s:10:"share_name";s:36:"與這工具共用啟動者的名稱";s:16:"share_name_admin";s:33:"與工具共用啟動者的名稱";s:21:"share_name_admin_help";s:169:"決定這一啟動工具者的完整姓名是否要告知工具提供者。
+工具提供者可能需要啟動者的名字，以便在工具中顯示有意義的訊息。";s:15:"share_name_help";s:235:"決定這一啟動工具者的完整姓名是否要告知工具提供者。
+
+工具提供者可能需要啟動者的名字，以便在工具中顯示有意義的訊息。
+
+注意，這一設定可以在工具配置中被覆寫過去。";s:12:"share_roster";s:39:"允許這工具存取這一課程名冊";s:18:"share_roster_admin";s:24:"太多存取課程名冊";s:23:"share_roster_admin_help";s:126:"若一個課程有啟用這一類型工具，請指明這一工具是否可以存取有選修這一課程的用戶的清單。";s:17:"share_roster_help";s:143:"指明這一工具是否可以存取有選修這一課程的用戶的清單。
+
+注意，這一設定可以被在工具配置中加以覆蓋。";s:31:"show_in_course_activity_chooser";s:60:"以預先配置的工具的形式顯示在活動挑選器上";s:21:"showinactivitychooser";s:24:"Show in activity chooser";s:25:"dontshowinactivitychooser";s:30:"Don't show in activity chooser";s:19:"show_in_course_lti1";s:18:"工具配置用法";s:24:"show_in_course_lti1_help";s:342:"This tool may be shown in the activity chooser for a teacher to select to add to a course. Alternatively, it may be shown in the preconfigured tool drop-down menu when adding an external tool to a course. A further option is for the tool configuration to only be used if the exact tool URL is entered when adding an external tool to a course.";s:19:"show_in_course_lti2";s:18:"工具配置用法";s:24:"show_in_course_lti2_help";s:175:"This tool can be shown in the activity chooser for a teacher to select to add to a course or in the preconfigured tool drop-down menu when adding an external tool to a course.";s:17:"show_in_course_no";s:69:"不要顯示；只用在有輸入配對的工具的網址時才使用";s:28:"show_in_course_preconfigured";s:60:"當添加一外部工具時，顯示為預先配置的工具";s:4:"size";s:12:"大小參數";s:20:"opensslconfiginvalid";s:172:"LTI 1.3 requires a valid openssl.cnf to be configured and available to your web server. Please contact the site administrator to configure and enable openssl for this site.";s:10:"submission";s:12:"提交作品";s:11:"submissions";s:6:"提交";s:14:"submissionsfor";s:13:"{$a}的提交";s:27:"successfullycreatedtooltype";s:28:"已經成功建立新工具!";s:47:"successfullyfetchedtoolconfigurationfromcontent";s:51:"已經從所選出內容中成功提取工具配置";s:25:"subplugintype_ltiresource";s:30:"學習工具互通服務資源";s:32:"subplugintype_ltiresource_plural";s:30:"學習工具互通服務資源";s:24:"subplugintype_ltiservice";s:24:"學習工具互通服務";s:31:"subplugintype_ltiservice_plural";s:24:"學習工具互通服務";s:23:"subplugintype_ltisource";s:24:"學習工具互通資源";s:30:"subplugintype_ltisource_plural";s:24:"學習工具互通資源";s:17:"toggle_debug_data";s:18:"切換除錯資料";s:13:"tool_settings";s:18:"工具各項設定";s:15:"tooldescription";s:12:"工具描述";s:20:"tooldescription_help";s:161:"這一工具的描述將會在活動清單上顯示給教師看。
+
+它應該描述這工具的用途、功能，以及教師需要知道的任何額外訊息。";s:25:"tooldetailsaccesstokenurl";s:16:"Access token URL";s:25:"tooldetailsauthrequesturl";s:26:"Authentication request URL";s:19:"tooldetailsclientid";s:9:"Client ID";s:23:"tooldetailsdeploymentid";s:13:"Deployment ID";s:24:"tooldetailsmailtosubject";s:22:"LTI tool configuration";s:21:"tooldetailsmodalemail";s:5:"Email";s:20:"tooldetailsmodallink";s:26:"View configuration details";s:21:"tooldetailsmodaltitle";s:26:"Tool configuration details";s:21:"tooldetailsplatformid";s:11:"Platform ID";s:26:"tooldetailspublickeyseturl";s:17:"Public keyset URL";s:15:"toolisbeingused";s:37:"這一工具已經被使用過{$a}次";s:18:"toolisnotbeingused";s:30:"這一工具還沒被使用過";s:9:"toolproxy";s:18:"外部工具設定";s:14:"toolproxy_help";s:1084:"外部工具註冊允許Moodle網站管理員從一工具代理伺服器去配置外部工具，若它是來自支援學習工具互動性(LTI)2.0的工具提供者。
+管理員必須經由工具提供者所提供的註冊網址是來開始這一註冊程序。在配置一個新註冊時，管理員需要選擇要提供給工具提供者的權限和服務。
+
+列在本頁上的各種工具註冊狀態可分成四類：
+
+* **已被配置**--這些工具註冊已經被設定好，但是註冊程序還沒有開始。
+* **擱置中**--這些工具註冊的註冊程序已經開始，但不知為何卻沒有完成，開啟後修改它並儲存這些設定，就可以把它移回到"已被配置"這一類，這樣註冊程序就可以重新開始。
+* **已被接受**--工具註冊已經被核准，在這工具代理伺服器的指定資源將會出現在外部工具類型頁面。
+* **已被拒絕**--這些是在註冊過程中被拒絕的，開啟後修改它並儲存這些設定，就可以把它移回到"已被配置"這一類，這樣註冊程序就可以重新開始。";s:21:"toolproxyregistration";s:18:"外部工具設定";s:16:"toolregistration";s:18:"外部工具設定";s:9:"toolsetup";s:18:"外部工具配置";s:21:"tooltypenotfounderror";s:114:"The LTI tool used in this activity has been deleted. If you need help, contact your teacher or site administrator.";s:9:"tooltypes";s:6:"工具";s:7:"toolurl";s:34:"工具基本網址/承載器網址";s:18:"toolurlplaceholder";s:15:"工具網址...";s:12:"toolurl_help";s:747:"工具的基本網址用是來和工具啟動網址相配對，以確定使用正確的工具配置。網址前端的http(s) 是可有可無。
+
+除此之外，若再外部工具實例中未指定啟動 URL，則會使用此基本網址作為啟動網址。
+
+舉例來說，*tool.com*的基本網址將會配對成：
+
+* tool.com
+* tool.com/quizzes
+* tool.com/quizzes/quiz.php?id=10
+* www.tool.com/quizzes
+
+*www.tool.com/quizzes* 的基本往知將會配對成:
+
+* www.tool.com/quizzes
+* tool.com/quizzes
+* tool.com/quizzes/take.php?id=10
+
+*quiz.tool.com*的基本網址將會配對成：
+
+* quiz.tool.com
+* quiz.tool.com/take.php?id=10
+
+
+如果有兩個不同的工具配置是使用同一個網域，那麼會使用符合程度最高的那個。";s:35:"toolurl_contentitemselectionrequest";s:21:"Content Selection URL";s:40:"toolurl_contentitemselectionrequest_help";s:141:"The Content Selection URL will be used to launch the content selection page from the tool provider. If it is empty, the Tool URL will be used";s:8:"typename";s:12:"工具名稱";s:13:"typename_help";s:143:"工具名稱是用來辨識在Moodle內的工具提供者。
+
+教師在課程內添加外部工具時，就可以看到這個輸入的名稱。";s:5:"types";s:6:"類型";s:22:"unabletocreatetooltype";s:18:"無法建立工具";s:20:"unabletofindtooltype";s:30:"無法為 {$a->id}找到工具";s:12:"unknownstate";s:15:"未知的狀態";s:6:"update";s:6:"更新";s:5:"usage";s:11:"Usage count";s:22:"useraccountinformation";s:18:"用戶帳戶訊息";s:23:"userpersonalinformation";s:18:"用戶個人資訊";s:8:"validurl";s:47:"有效的網址必須以http(s)://
+作為開頭";s:15:"viewsubmissions";s:33:"檢視提交作品和評分螢幕";s:28:"selectcontentvalidationerror";s:45:"You need to select content for this activity.";}

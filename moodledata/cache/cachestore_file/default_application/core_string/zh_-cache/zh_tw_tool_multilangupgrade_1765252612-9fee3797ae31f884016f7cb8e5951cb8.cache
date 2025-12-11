@@ -1,0 +1,5 @@
+a:3:{s:20:"multilangupgradeinfo";s:277:"多語言過濾器句法在 1.8已經被更改， <lang> tag 標籤不再被支援。
+
+舉例: &lt;span lang="en" class="multilang"&gt;Hello!&lt;/span&gt;&lt;span lang="es" class="multilang"&gt;Hola!&lt;/span&gt;
+
+你想要將在所有文字中的這種語法加以升級嗎？";s:10:"pluginname";s:15:"多語言升級";s:16:"privacy:metadata";s:62:"The Multilang upgrade plugin does not store any personal data.";}

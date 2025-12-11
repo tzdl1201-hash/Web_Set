@@ -1,0 +1,13 @@
+s:852:"<p>資料夾模組可以讓教師在一個單一資料夾裡展示一堆相關的檔案，減少在課程頁面上下捲動。</p>
+
+<p>一個壓縮的資料夾可以被上傳並解壓縮以供顯示，或者建立一個空資料夾並把檔案上傳到裡面。</p>
+
+<p>資料夾模組可以用於：</p>
+
+<ul>
+<li>存放同一主題的一系列檔案，例如，一整套考古題的 .pdf 檔，或供學生寫作業用的一堆圖片檔。</li>
+<li>在課程頁中提供教師上傳共用檔案的空間，(保持資料夾隱藏狀態，只有教師能看到)</li>
+</ul>
+
+<div class="helpdoclink"><a href="https://docs.moodle.org/500/zh_tw/mod/folder/view" target="_blank" rel="noreferrer noopener"><i class="icon fa fa-book fa-fw"></i>更多輔助<i class="icon fa fa-arrow-up-right-from-square fa-fw ms-1" title="於新視窗開啟"></i></a></div>
+";

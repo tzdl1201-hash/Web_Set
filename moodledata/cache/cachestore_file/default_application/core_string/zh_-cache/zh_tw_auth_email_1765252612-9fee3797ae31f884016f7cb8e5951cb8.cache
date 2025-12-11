@@ -1,0 +1,3 @@
+a:7:{s:21:"auth_emaildescription";s:595:"以電子郵件自我註冊是系統預設認證方式。當用戶在登入頁按下"建立新帳號"按鈕，即可建立自己的帳號時，在選擇帳號名稱與密碼之後，系統將以電子郵件送出確認訊息。
+申請者須閱在讀電子郵件之後，按下內容內確認連結，即可啟動帳號使用權。以上動作只要一次即可，之後登入時只要帳號名稱與密碼相符便可登入。
+注意：要啟用這一外掛套件，必須在"管理>>用戶>>帳號>>新增一位用戶>>選擇身分認驗證方法"的下拉選單中選擇"電子郵件確認"。";s:17:"auth_emailnoemail";s:42:"嘗試寄送郵件給您時發生錯誤！";s:19:"auth_emailrecaptcha";s:278:"針對以電子郵件註冊的用戶，在其登入的頁面中，增加一個視覺/聲音確認的表單元件。它可以提供一個圖形或語音驗證的服務，保護你的網站，防範惡意註冊與濫用攻擊。詳細說明請參見http://www.google.com/recaptcha";s:23:"auth_emailrecaptcha_key";s:33:"啟動reCAPTCHA字詞驗證元件";s:18:"auth_emailsettings";s:6:"設定";s:10:"pluginname";s:18:"電子郵件確認";s:16:"privacy:metadata";s:89:"The Email-based self-registration authentication plugin does not store any personal data.";}

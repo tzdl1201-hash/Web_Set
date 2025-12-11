@@ -1,0 +1,13 @@
+a:30:{s:12:"check_backup";s:15:"自動化備份";s:28:"check_backup_comment_disable";s:90:"備份過程可能會影響網站效能。若啟用，備份應該安排在離峰時段。";s:27:"check_backup_comment_enable";s:90:"備份過程可能會影響網站效能。若啟用，備份應該安排在離峰時段。";s:20:"check_backup_details";s:188:"啟用自動化備份，將會自動在你指定的時間將在這伺服器上的所有課程建立壓縮檔。
+
+在這過程中它將會消耗更多伺服器資源並可能影響效能。";s:29:"check_cachejs_comment_disable";s:42:"若啟用，頁面裝載效能會改進。";s:28:"check_cachejs_comment_enable";s:39:"若關閉。頁面可能速度變慢。";s:21:"check_cachejs_details";s:124:"Javascript的放入快取和壓縮，大大提高頁面裝載效能。我們強烈建議使用在正式運作的網站上。";s:19:"check_dbschema_name";s:21:"Database schema check";s:17:"check_dbschema_ok";s:27:"Database schema is correct.";s:21:"check_dbschema_errors";s:31:"Database schema is not aligned.";s:34:"check_debugmsg_comment_nodeveloper";s:63:"如果設定為程式開發者，性能可能會略受影響。";s:32:"check_debugmsg_comment_developer";s:69:"如果設定為程式開發者以外，性能可能會略有改進。";s:22:"check_debugmsg_details";s:311:"這是提供程式執行中的錯誤訊息，除非您正好是一位程式發展者，否則沒有什麼好處。
+
+一旦你取得錯誤訊息，趕快複製並貼到別處。然後把"除錯"切換回去"無"的狀態。
+
+除錯訊息可能洩漏有關你網站的設定的線索給駭客，並影響效能。";s:33:"check_enablestats_comment_disable";s:87:"統計處理過程可能會影響效能。若啟用，統計設定應該非常小心。";s:32:"check_enablestats_comment_enable";s:75:"統計處理過程可能會影響效能。統計設定應該非常小心。";s:25:"check_enablestats_details";s:214:"若啟用，它將會定期處理日誌檔並蒐集一些統計量。
+
+若你的網站流量大，它可能需要多花一點時間。
+
+在這統計過程，它會消耗更多伺服器資源並可能影響效能。";s:38:"check_themedesignermode_comment_enable";s:87:"若關閉，會把圖像和樣式單放入快取中，而造成效能顯著地改進。";s:39:"check_themedesignermode_comment_disable";s:90:"若啟用，不會把圖像和樣式單放入快取中，而造成效能顯著地降低。";s:31:"check_themedesignermode_details";s:146:"這通常造成Moodle網站運作緩慢。
+
+若啟用主題布景設計者模式，一般而言，它要花至少兩倍CPU時間來運作Moodle。";s:8:"comments";s:6:"評論";s:4:"edit";s:6:"編輯";s:7:"enabled";s:6:"啟用";s:8:"disabled";s:6:"關閉";s:5:"issue";s:6:"問題";s:8:"morehelp";s:12:"更多說明";s:16:"performance:view";s:18:"檢視效能報告";s:21:"performancereportdesc";s:67:"這一報告會列出可能會影響這網站{$a}效能的問題。";s:10:"pluginname";s:12:"效能綜覽";s:5:"value";s:6:"數值";s:16:"privacy:metadata";s:65:"The Performance overview plugin does not store any personal data.";}

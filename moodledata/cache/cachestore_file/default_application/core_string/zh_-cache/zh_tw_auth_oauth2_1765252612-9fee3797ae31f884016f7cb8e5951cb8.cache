@@ -1,0 +1,36 @@
+a:51:{s:13:"accountexists";s:192:"在這網站已經有一個人使用這一用戶名稱，若這是您的帳號，請輸入您的用戶名稱和密碼，並透過您的個人偏好頁面，把它加入成為連結式登入。";s:22:"auth_oauth2description";s:30:"依據 OAuth 2 標準的認證";s:19:"auth_oauth2settings";s:23:"OAuth 2 的認證設定";s:19:"confirmaccountemail";s:401:"{$a->fullname} 您好,
+
+在'{$a->sitename}' 有人使用您的電子郵件申請了一個新帳號。
+
+要確認您的新帳戶，請連結到此網址：
+{$a->link}
+
+在大多數郵件程式中，應該顯示為您可以點按的藍色連結。 如果不行，請將超連結剪下並貼到您的瀏覽器視窗上方的位址欄中。
+
+如果您需要幫助，請聯繫網站管理員，
+{$a->admin}";s:26:"confirmaccountemailsubject";s:19:"{$a}：帳號確認";s:19:"confirmationinvalid";s:103:"確認的超連結無效或已過期。 請再次登入，系統會再傳送新的確認電子郵件。";s:19:"confirmationpending";s:36:"此帳號正等待電子郵件確認";s:23:"confirmlinkedloginemail";s:627:"{$a->fullname}，您好
+
+我們收到您要求綁定 {$a->issuername} 帳號 {$a->linkedemail} 作為您登入 '{$a->sitename}' 的帳號和電子郵件信箱。
+
+若確定您真的要求綁定這些登入資訊，請點按下列網址連結，即可完成綁定：
+
+{$a->link}
+
+在大多數郵件程式中，應該顯示為您可以點按的藍色連結。 如果不行，請將超連結剪下並貼到您的瀏覽器視窗上方的位址欄中。
+
+如果您需要幫助，請聯繫網站管理員，
+{$a->admin}
+
+如果不是您要這麼做，則可能是其他人試圖破壞您的帳戶。
+請立即網站管理員聯繫。";s:30:"confirmlinkedloginemailsubject";s:34:"{$a}：綁定登入帳號的資訊";s:21:"createaccountswarning";s:160:"This authentication plugin allows users to create accounts on your site. You may want to enable the setting "authpreventaccountcreation" if you use this plugin.";s:20:"createnewlinkedlogin";s:28:"綁定一個新帳戶 ({$a})";s:16:"emailconfirmlink";s:18:"綁定您的帳戶";s:20:"emailconfirmlinksent";s:368:"<p>發現此電子郵件地址屬於現有帳戶的，但是尚未完成綁定。</p>
+   <p>在您可以登入前，帳戶必須先完成綁定確認。</p>
+   <p>一封電子郵件應該已發送到您的信箱<b>{$a}</b>。</p>
+   <p>它包含簡易的指引如何連結綁定到您的帳戶。</p>
+   <p>如果您有任何困難，請與網站管理員聯繫。</p>";s:23:"emailpasswordchangeinfo";s:283:"Hi {$a->firstname},
+
+Someone (probably you) has requested a new password for your account on '{$a->sitename}'.
+
+However your password cannot be reset because you are using your account on another site to log in.
+
+Please log in as before, using the link on the login page.
+{$a->admin}";s:30:"emailpasswordchangeinfosubject";s:29:"{$a} ：更改密碼的資訊";s:4:"info";s:12:"外部帳戶";s:6:"issuer";s:14:"OAuth 2 服務";s:13:"issuernologin";s:33:"這一發行者無法用來登入";s:3:"key";s:3:"Key";s:12:"linkedlogins";s:18:"綁定登入方式";s:16:"linkedloginshelp";s:33:"綁定登入方式的輔助說明";s:8:"loggedin";s:46:"User successfully authenticated with provider.";s:25:"loginerror_userincomplete";s:126:"The user information returned did not contain a username and email address. The OAuth 2 service may be configured incorrectly.";s:21:"loginerror_nouserinfo";s:64:"沒有回傳用戶訊息，這OAuth 2服務可能配置錯誤。";s:24:"loginerror_invaliddomain";s:54:"在這一網站不允許使用這一電子郵件地址";s:31:"loginerror_authenticationfailed";s:21:"認證過程已失敗";s:31:"loginerror_cannotcreateaccounts";s:40:"找不到有你的 email 位址的帳號";s:16:"noconfiguredidps";s:41:"There are no configured OAuth2 providers.";s:18:"noissuersavailable";s:66:"所有配置的 OAuth 2 服務都不允許你連結到登入帳號";s:16:"notloggedindebug";s:28:"登入失敗。理由：{$a}";s:18:"notwhileloggedinas";s:64:"Linked logins cannot be managed while logged in as another user.";s:25:"oauth2:managelinkedlogins";s:33:"管理自己綁定的登入帳戶";s:10:"notenabled";s:50:"抱歉，OAuth 2 認證外掛程式沒有被啟用";s:17:"plugindescription";s:200:"This authentication plugin displays a list of the configured identity providers on the login page. Selecting an identity provider allows users to login with their credentials from an OAuth 2 provider.";s:10:"pluginname";s:7:"OAuth 2";s:13:"alreadylinked";s:51:"外部帳戶已經綁定到本站的一個帳戶了";s:28:"privacy:metadata:auth_oauth2";s:22:"OAuth 2 authentication";s:42:"privacy:metadata:auth_oauth2:authsubsystem";s:57:"This plugin is connected to the authentication subsystem.";s:41:"privacy:metadata:auth_oauth2:confirmtoken";s:23:"The confirmation token.";s:48:"privacy:metadata:auth_oauth2:confirmtokenexpires";s:50:"The timestamp when the confirmation token expires.";s:34:"privacy:metadata:auth_oauth2:email";s:45:"The external email that maps to this account.";s:37:"privacy:metadata:auth_oauth2:issuerid";s:51:"The ID of the OAuth 2 issuer for this OAuth 2 login";s:45:"privacy:metadata:auth_oauth2:tableexplanation";s:51:"OAuth 2 accounts linked to a user's Moodle account.";s:40:"privacy:metadata:auth_oauth2:timecreated";s:68:"The timestamp when the user account was linked to the OAuth 2 login.";s:41:"privacy:metadata:auth_oauth2:timemodified";s:44:"The timestamp when this record was modified.";s:35:"privacy:metadata:auth_oauth2:userid";s:64:"The ID of the user account which the OAuth 2 login is linked to.";s:41:"privacy:metadata:auth_oauth2:usermodified";s:45:"The ID of the user who modified this account.";s:37:"privacy:metadata:auth_oauth2:username";s:48:"The external username that maps to this account.";s:12:"testidplogin";s:16:"Test login with:";s:8:"userinfo";s:24:"User data from provider:";s:5:"value";s:5:"Value";}

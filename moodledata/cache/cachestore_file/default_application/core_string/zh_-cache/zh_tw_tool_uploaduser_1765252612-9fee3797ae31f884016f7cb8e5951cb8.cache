@@ -1,0 +1,34 @@
+a:90:{s:12:"allowdeletes";s:12:"允許刪除";s:12:"allowrenames";s:12:"允許更名";s:13:"allowsuspends";s:30:"允許帳號的休學和復學";s:15:"assignedsysrole";s:25:"指派的系統角色{$a}";s:10:"clidefault";s:8:"Default:";s:16:"clierrorargument";s:74:"Value for argument --{$a->name} is not valid. Allowed values: {$a->values}";s:7:"clifile";s:46:"Path to CSV file with the user data. Required.";s:18:"clifilenotreadable";s:43:"File {$a} does not exist or is not readable";s:7:"clihelp";s:20:"Print out this help.";s:18:"climissingargument";s:27:"Argument --{$a} is required";s:8:"clititle";s:30:"Command line Upload user tool.";s:18:"clivalidationerror";s:17:"Validation error:";s:12:"csvdelimiter";s:16:"CSV 分隔符號";s:13:"defaultvalues";s:9:"預設值";s:12:"deleteerrors";s:12:"刪除錯誤";s:14:"duplicateemail";s:39:"Multiple users with email {$a} detected";s:8:"encoding";s:6:"編碼";s:12:"errormnetadd";s:24:"無法添加遠端用戶";s:11:"errorprefix";s:6:"Error:";s:6:"errors";s:6:"錯誤";s:10:"examplecsv";s:17:"Example text file";s:15:"examplecsv_help";s:414:"To use the example text file, download it then open it with a text or spreadsheet editor. Leave the first line unchanged, then edit the following lines (records) and add your user data, adding more lines as necessary. Save the file as CSV then upload it.
+
+The example text file may also be used for testing, as you are able to preview user data and can choose to cancel the action before user accounts are created.";s:10:"infoprefix";s:5:"Info:";s:17:"invalidupdatetype";s:66:"依據所選用的上傳檔案類型，你不能選擇這一選項";s:21:"invaliduserdatavalues";s:101:"Incorrect data ({$a->values}) found for user {$a->username}. This data has been corrected or deleted.";s:12:"invalidtheme";s:50:"Theme "{$a}" is not installed and will be ignored.";s:5:"linex";s:9:"Line {$a}";s:10:"matchemail";s:22:"Match on email address";s:9:"nochanges";s:9:"不變更";s:7:"notheme";s:34:"No theme is defined for this user.";s:10:"pluginname";s:12:"用戶上傳";s:12:"renameerrors";s:27:"修改名稱時發生錯誤";s:16:"requiredtemplate";s:119:"必需的，您可使用此樣版語法( (%l = 姓, %f = 名, %u = 用戶名稱)。細節及實例，請參見說明。";s:13:"rowpreviewnum";s:18:"預覽資料筆數";s:17:"unassignedsysrole";s:25:"指派的系統角色{$a}";s:20:"userthemesnotallowed";s:86:"User themes are not enabled, so any included in the upload users file will be ignored.";s:26:"uploadpicture_baduserfield";s:42:"指定的用戶屬性無效，請重試。";s:27:"uploadpicture_cannotmovezip";s:39:"無法搬移zip檔案到暫存目錄。";s:30:"uploadpicture_cannotprocessdir";s:33:"無法處理解壓縮的檔案。";s:24:"uploadpicture_cannotsave";s:67:"無法儲存用戶{$a}的圖片，請檢查原來的圖片檔案。";s:25:"uploadpicture_cannotunzip";s:24:"無法解壓縮圖片檔";s:29:"uploadpicture_invalidfilename";s:55:"圖片檔{$a}的檔名中有無效的字元，略過。";s:23:"uploadpicture_overwrite";s:27:"覆寫現有的用戶相片";s:23:"uploadpicture_userfield";s:36:"配合圖片使用的用戶屬性：";s:26:"uploadpicture_usernotfound";s:67:"具有'{$a->uservalue}' 的 '{$a->userfield}' 不存在，略過。";s:25:"uploadpicture_userskipped";s:37:"略過用戶{$a} (已經有圖片了)";s:25:"uploadpicture_userupdated";s:25:"用戶{$a}圖片已更新";s:14:"uploadpictures";s:18:"上傳用戶相片";s:19:"uploadpictures_help";s:238:"用戶照片可以將所有圖檔壓縮成一個zip檔後上傳。
+
+"圖檔名稱"要與"用戶名稱"相一致，例如，若有一位學生申請帳號時，以Paul_Ou為用戶名稱 ，那它的照片的圖檔要取名為Paul_Ou.jpg。";s:11:"uploadusers";s:18:"批次建立用戶";s:16:"uploadusers_help";s:2648:"<p align="center"><b>上傳用戶</b></p>
+<p>首先，要注意，<strong>通常是沒有必要大量上傳用戶的</strong> - 要讓您自己的維護工作比較輕鬆，首先應當看一下是否有合適的無需手工維護的認證模式，
+如鏈結到已有的外部資料庫或讓用戶自己創建他們的帳號。請看一下管理功能表中的認證部分。</p>
+<p>如果您確定要從文字檔案中匯入眾多用戶帳號時，您應當將該檔以下述格式儲存：</p>
+<ul>
+  <li>檔案中的每一行只能包含一筆記錄</li>
+  <li>每筆記錄都是一系列以逗號分隔的資料</li>
+  <li>檔案的第一條記錄很特殊，它包含著欄位名稱的列表。這定義了檔案中剩下部分的格式。
+    <blockquote>
+    <p><strong>必需的欄位名：</strong>這些欄位名必須包含在第一條記錄中，並且每個用戶都需要有。</p>
+      <p></p>
+      <font color="#990000" face="Courier New, Courier, mono">username, password, firstname, lastname, email</font></p>
+</p>
+      <p><strong>預設的欄位名：</strong>這些是可選的——如果並未包含它們，則會使用主管理員的值作為預設值。</p>
+      <p><font color="#990000" face="Courier New, Courier, mono">institution, department, city, country, lang, auth, timezone</font> </p>
+      <p><strong>可選的欄位名：</strong>所有這些都是可選的。課程名稱是課程的“簡稱”——如果存在，則用戶會自動選該課程。小組名稱是和課程對應的，例如course1中的group1。</p>
+      <p> <font color="#990000" face="Courier New, Courier, mono">idnumber, icq, phone1, phone2, address, url, description, mailformat, maildisplay, htmleditor, autosubscribe, course1, course2, course3, course4, course5, group1, group2, group3, group4, group5</font></p>
+    </blockquote>
+    </li>
+  <li>資料中的逗號應當重新編碼為&amp;#44——系統會自動將其解碼。</li>
+  <li>對於布林欄位，是用0表示假、1表示真。</li>
+  <li>注意：如果用戶已經在用戶資料庫中註冊，系統會返回用戶已有的 userid 號(資料庫中的索引)，以及將他加入到相應的課程中，但不會更新其他的資料。</li>
+</ul>
+
+
+<p>以下是一個合法的匯入檔：</p>
+<p><font size="-1" face="Courier New, Courier, mono">username, password, firstname, lastname, email, lang, idnumber, maildisplay, course1, group1<br />
+jonest, verysecret, Tom, Jones, jonest@someplace.edu, en, 3663737, 1, Intro101, Section 1<br />
+reznort, somesecret, Trent, Reznor, reznort@someplace.edu, en_us, 6736733, 0, Advanced202, Section 3</font></p>
+　　";s:16:"uploadusers_link";s:27:"admin/tool/uploaduser/index";s:18:"uploaduserspreview";s:27:"預覽上傳的用戶帳號";s:17:"uploadusersresult";s:27:"批次建立用戶的結果";s:29:"uploaduser:uploaduserpictures";s:18:"上傳用戶照片";s:18:"useraccountupdated";s:18:"已更新的用戶";s:19:"useraccountuptodate";s:27:"用戶帳號已是最新的";s:11:"userdeleted";s:18:"已刪除的用戶";s:11:"userrenamed";s:18:"已改名的用戶";s:12:"userscreated";s:18:"已建立的用戶";s:12:"usersdeleted";s:18:"已刪除的用戶";s:12:"usersrenamed";s:24:"已修改名稱的用戶";s:12:"usersskipped";s:18:"忽略過的用戶";s:12:"usersupdated";s:18:"已更新的用戶";s:17:"usersweakpassword";s:33:"用戶使用不夠安全的密碼";s:6:"uubulk";s:36:"選擇已進行大批用戶的處理";s:9:"uubulkall";s:12:"所有用戶";s:9:"uubulknew";s:9:"新用戶";s:13:"uubulkupdated";s:18:"已更新的用戶";s:9:"uucsvline";s:6:"CSV列";s:13:"uulegacy1role";s:22:"(原初學生) typeN=1";s:13:"uulegacy2role";s:22:"(原初教師) typeN=2";s:13:"uulegacy3role";s:28:"(原初助理教師) typeN=3";s:19:"uunoemailduplicates";s:30:"防止電子郵件信箱重覆";s:8:"uuoptype";s:12:"上傳類型";s:15:"uuoptype_addinc";s:60:"全部加入，如果需要，在用戶名稱後加入計數";s:15:"uuoptype_addnew";s:42:"只加入新的，略過已存在的用戶";s:18:"uuoptype_addupdate";s:42:"加入新的並且更新已存在的用戶";s:15:"uuoptype_update";s:27:"只更新已存在的用戶";s:14:"uupasswordcron";s:19:"Cron所用的密碼";s:13:"uupasswordnew";s:18:"新的用戶密碼";s:13:"uupasswordold";s:21:"現在的用戶密碼";s:19:"uustandardusernames";s:18:"標準用戶名稱";s:11:"uuupdateall";s:33:"以檔案及預設值整個覆寫";s:16:"uuupdatefromfile";s:21:"以檔案整個覆寫";s:15:"uuupdatemissing";s:36:"以檔案及預設值填滿缺少的";s:12:"uuupdatetype";s:27:"現有的用戶詳細資料";s:18:"uuusernametemplate";s:18:"用戶名稱樣板";s:16:"privacy:metadata";s:56:"The User upload plugin does not store any personal data.";s:13:"warningprefix";s:8:"Warning:";}

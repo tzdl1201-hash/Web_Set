@@ -1,0 +1,1 @@
+a:5:{s:18:"confirmstartheader";s:12:"時間限制";s:12:"confirmstart";s:175:"這回測驗有 {$a} 的時間限制。當您開始時，計時器將開始倒計時且無法暫停。您必須在時限內完成您的作答。 您確定要現在開始嗎？";s:10:"pluginname";s:35:"時間限制/ 測驗的存取規則";s:16:"privacy:metadata";s:72:"The Time limit quiz access rule plugin does not store any personal data.";s:13:"quiztimelimit";s:19:"時間限制：{$a}";}

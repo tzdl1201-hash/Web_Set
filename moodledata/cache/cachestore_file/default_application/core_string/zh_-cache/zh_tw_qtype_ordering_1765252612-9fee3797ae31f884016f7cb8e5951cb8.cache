@@ -1,0 +1,26 @@
+a:72:{s:16:"absoluteposition";s:12:"絕對位置";s:18:"addmultipleanswers";s:19:"Add {$a} more items";s:15:"addsingleanswer";s:17:"Add one more item";s:12:"allornothing";s:15:"全有或全無";s:6:"answer";s:12:"項目文字";s:18:"correctitemsnumber";s:19:"Correct items: {$a}";s:12:"correctorder";s:42:"這些項目的正確順序應該如下：";s:19:"defaultanswerformat";s:18:"預設答案格式";s:19:"defaultquestionname";s:48:"拖拉下列的項目到正確的順序位置上";s:15:"draggableitemno";s:19:"Draggable item {no}";s:14:"draggableitems";s:15:"Draggable items";s:20:"duplicatesnotallowed";s:101:"Duplication of draggable items is not allowed. The string "{$a->text}" is already used in {$a->item}.";s:15:"editingordering";s:15:"編輯排序題";s:12:"gradedetails";s:21:"成績的詳細資料";s:11:"gradingtype";s:12:"評分類型";s:16:"gradingtype_help";s:2227:"選擇評分計算的類型。
+
+**全有或全無**
+如果所有項目都在正確的位置，可以得到滿分。否則，分數將會是零。
+
+**絕對位置**
+如果項目同樣是正確答案的位置上，項目將會視為正確。題目的最高分數將會與項目的顯示數目**一樣**。
+
+**與之後的項目有關（除了最後）**
+如果項目同樣是正確答案的位置上，項目將會視為正確。在最後位置的項目將不被評核。所以題目的最高分數將會比項目的顯示數目**少一分**。
+
+**與之後的項目有關（包括最後）**
+如果項目同樣是正確答案的位置上，項目將會視為正確。這包括了最後的答案不會有跟隨的項目。題目的最高分數將會與項目的顯示數目**一樣**。
+
+**與之前及之後的項目有關**
+如果項目與之前及之後的項目相同，項目將會視為正確。第一個項目的前方不會有任何項目，而最後的項目亦不會尾隨的項目。因此，每個項目將會有兩個可能的分數，題目的最高分數將會與項目顯示數目的**兩倍**。
+
+**與之前所有及之後的項目有關**
+如果項目的前方與正確答案相同，並跟從正確答案中的所有項目。前方項目的順序及之後項目的順廁都不緊要。因此，如果 顯示了***n*** 個項目，每個項目的的得分是***(n - 1)***，題目的最高分數是***n x (n - 1)***或等於***(n² - n)***。
+
+**最長的順序子集**
+分數將是項目的最長順序子集。題目的最高分數與顯示題目的數目相同。子集最少要有兩個項目。子集不一定以第一個頂目作開始（但可以這樣做）及不一定是連續（但可以這樣做）。當多於一個相同長度的子集，開始的項目將從由左至右搜尋顯示為正確。其他項見會視為錯誤。
+
+
+**最長的連續子集**
+分數將是項目的最長連續子集。題目的最高分數與顯示題目的數目相同。子集最少要有兩個項目。子集不一定以第一個頂目作開始（但可以這樣做）及必須是連續。當多於一個相同長度的子集，開始的項目將從由左至右搜尋顯示為正確。其他項見會視為錯誤。";s:17:"highlightresponse";s:42:"Highlight response as correct or incorrect";s:10:"horizontal";s:9:"水平的";s:20:"incorrectitemsnumber";s:21:"Incorrect items: {$a}";s:10:"layouttype";s:21:"項目的排列方式";s:15:"layouttype_help";s:54:"選擇這些項目是要以垂直或水平方式顯示";s:23:"longestcontiguoussubset";s:21:"最長的連續子集";s:20:"longestorderedsubset";s:21:"最長的順序子集";s:5:"moved";s:85:"{$a->item} 已移動。新位置：第 {$a->position} 項（共 {$a->total} 項）。";s:8:"moveleft";s:9:"Move left";s:9:"moveright";s:10:"Move right";s:17:"noresponsedetails";s:57:"抱歉，沒有正確的排列順序可以用來計分。";s:7:"noscore";s:12:"沒有分數";s:16:"notenoughanswers";s:52:"重組題必須至少有{$a}個項目供學生排列";s:20:"notenoughsubsetitems";s:39:"A subset must have at least {$a} items.";s:14:"numberingstyle";s:19:"Number the choices?";s:17:"numberingstyle123";s:15:"1., 2., 3., ...";s:18:"numberingstyleABCD";s:15:"A., B., C., ...";s:18:"numberingstyleIIII";s:18:"I., II., III., ...";s:19:"numberingstyle_desc";s:28:"The default numbering style.";s:19:"numberingstyle_help";s:64:"Choose the numbering style for draggable items in this question.";s:17:"numberingstyleabc";s:15:"a., b., c., ...";s:17:"numberingstyleiii";s:18:"i., ii., iii., ...";s:18:"numberingstylenone";s:12:"No numbering";s:18:"partialitemsnumber";s:29:"Partially correct items: {$a}";s:10:"pluginname";s:12:"重新排序";s:15:"pluginname_help";s:123:"有幾個項目以錯誤雜亂的順序顯示出來，學生需要把這些項目拖放排列成一個有意義的順序。";s:15:"pluginname_link";s:22:"question/type/ordering";s:16:"pluginnameadding";s:21:"新增一個重組題";s:17:"pluginnameediting";s:21:"編輯一個重組題";s:17:"pluginnamesummary";s:54:"把錯雜的項目重新排列成有意義的順序。";s:9:"positionx";s:13:"Position {$a}";s:30:"privacy:preference:gradingtype";s:17:"The grading type.";s:29:"privacy:preference:layouttype";s:20:"The layout of items.";s:33:"privacy:preference:numberingstyle";s:35:"The numbering style of the choices.";s:30:"privacy:preference:selectcount";s:17:"The select count.";s:29:"privacy:preference:selecttype";s:24:"The item selection type.";s:30:"privacy:preference:showgrading";s:32:"Whether to show grading details.";s:27:"regradeissuenumitemschanged";s:42:"The number of draggable items has changed.";s:26:"relativeallpreviousandnext";s:39:"與之前所有及之後的項目有關";s:23:"relativenextexcludelast";s:42:"與之後的項目有關（除了最後）";s:23:"relativenextincludelast";s:42:"與之後的項目有關（包括最後）";s:26:"relativeonepreviousandnext";s:33:"與之前及之後的項目有關";s:17:"relativetocorrect";s:28:"Relative to correct position";s:12:"removeeditor";s:19:"移除HTML編輯器";s:10:"removeitem";s:21:"移除可拖拉項目";s:12:"scoredetails";s:39:"這是此回答中每個項目的分數";s:9:"selectall";s:18:"選出所有項目";s:16:"selectcontiguous";s:45:"選出項目的一個連續性的下層集合";s:11:"selectcount";s:21:"下層集合的大小";s:16:"selectcount_help";s:87:"當這一試題出現在一測驗上時，將會顯示出幾個項目供學生排列。";s:12:"selectrandom";s:39:"選出項目的一個隨機下層集合";s:10:"selecttype";s:18:"項目選擇類型";s:15:"selecttype_help";s:63:"選擇是否要顯示所有項目或是項目的下層集合。";s:11:"showgrading";s:12:"評分細節";s:16:"showgrading_help";s:124:"Choose whether to show or hide details of the score calculation when a student reviews a response to this Ordering question.";s:8:"vertical";s:9:"垂直的";}

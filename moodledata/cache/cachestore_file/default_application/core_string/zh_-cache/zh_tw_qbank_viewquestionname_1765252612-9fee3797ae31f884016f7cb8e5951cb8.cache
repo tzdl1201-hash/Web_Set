@@ -1,0 +1,1 @@
+a:6:{s:10:"pluginname";s:18:"檢視試題名稱";s:16:"privacy:metadata";s:63:"檢視試題名稱題庫外掛不會儲存任何個人資料。";s:25:"questionidnumbercondition";s:16:"試題 ID 編號";s:21:"questionnamecondition";s:12:"試題名稱";s:23:"edit_question_name_hint";s:18:"編輯試題名稱";s:24:"edit_question_name_label";s:20:"{$a->name} 的新值";}
