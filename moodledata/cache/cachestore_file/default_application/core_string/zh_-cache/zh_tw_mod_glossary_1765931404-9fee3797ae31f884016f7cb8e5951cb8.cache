@@ -1,0 +1,88 @@
+a:290:{s:10:"addcomment";s:12:"新增評論";s:11:"addcategory";s:12:"Add category";s:8:"addentry";s:12:"新增詞目";s:14:"addsingleentry";s:9:"Add entry";s:13:"addingcomment";s:12:"新增評論";s:5:"alias";s:18:"關鍵詞或別名";s:7:"aliases";s:18:"關鍵詞或別名";s:12:"aliases_help";s:441:"<p align="center"><b>同義字(別名)</b></p>
+<p>辭彙表中的每一個詞目都可以有一系列相關的同義字(或別名)。</p>
+<p><b>每行輸入一個同義字(或別名)</b> (不是以逗號分割).</p>
+<p>同義字和別名提供了訪問詞條的另外一種方式。例如，如果您使用辭彙表自動鏈結篩檢程式，則在決定哪些字詞會被自動鏈結時，同義字也會(和主名稱一樣)被使用。</p>";s:13:"allcategories";s:12:"全部類別";s:10:"allentries";s:12:"全部詞目";s:13:"allowcomments";s:27:"允許對詞目加上評論";s:18:"allowcomments_help";s:96:"若啟用，所有具有撰寫評論權限的用戶將可以對詞彙表的條目加上評論。";s:22:"allowduplicatedentries";s:18:"允許詞目重複";s:27:"allowduplicatedentries_help";s:66:"若啟用，則允許有多個條目使用相同的概念名稱。";s:14:"allowprintview";s:18:"允許列印預覽";s:19:"allowprintview_help";s:76:"啟用此選項，會提供教師及學生詞彙表的友善列印連結</p>";s:17:"andmorenewentries";s:25:"和{$a}個更新的詞目";s:6:"answer";s:6:"解答";s:7:"approve";s:6:"核准";s:21:"approvaldisplayformat";s:24:"核准時的顯示格式";s:26:"approvaldisplayformat_help";s:60:"核准詞彙表詞目時，可以變更要顯示的格式。";s:14:"areaattachment";s:6:"附件";s:9:"areaentry";s:6:"解釋";s:16:"areyousuredelete";s:30:"確定要刪除這詞目嗎？";s:23:"areyousuredeletecomment";s:30:"確定要刪除這評論嗎？";s:16:"areyousureexport";s:24:"確定匯出這詞目到";s:9:"ascending";s:6:"遞增";s:10:"attachment";s:6:"附件";s:15:"attachment_help";s:63:"你可以選擇新增一個或多個附件到詞彙表詞目中";s:6:"author";s:6:"作者";s:10:"authorview";s:15:"依作者瀏覽";s:4:"back";s:6:"返回";s:17:"cachedef_concepts";s:12:"概念連結";s:13:"cantinsertcat";s:18:"無法插入類別";s:13:"cantinsertrec";s:18:"無法插入記錄";s:13:"cantinsertrel";s:34:"無法插入相關的類別-詞目";s:13:"casesensitive";s:27:"詞目區分字母大小寫";s:18:"casesensitive_help";s:227:"<p>此選項設定了當對此詞目產生自動鏈結時，是否要求兩者的大小寫完全符合。</p>
+<p>例如，如果開啟此項，則討論區中的“html”將不會鏈結到辭彙表中的詞目“HTML”。</p>";s:3:"cat";s:6:"類別";s:10:"categories";s:6:"類別";s:8:"category";s:6:"類別";s:15:"categorydeleted";s:18:"已刪除的類別";s:12:"categoryview";s:15:"依類別瀏覽";s:16:"cnfallowcomments";s:51:"預設詞彙表是否接受對任一詞目的評論";s:18:"cnfallowdupentries";s:62:"預設辭彙表中是否允許有(詞目名稱)重複的詞目";s:17:"cnfapprovalstatus";s:45:"預設學生所提交的詞目的待審狀態";s:16:"cnfcasesensitive";s:60:"當詞目被連結時，預設是否要區分字母大小寫";s:14:"cnfdefaulthook";s:69:"當辭彙表第一次被觀看時，預設以何種方式顯示條目";s:14:"cnfdefaultmode";s:63:"選擇當詞彙表第一次被瀏覽時，預設的顯示框架";s:12:"cnffullmatch";s:78:"當進行超連結時，預設是否目標文字要完全符合詞目的概念";s:12:"cnflinkentry";s:36:"預設條目是否要被自動連結";s:17:"cnflinkglossaries";s:42:"預設辭彙表是否要被自動超連結";s:14:"cnfrelatedview";s:54:"選擇自動超連結和項目瀏覽時的顯示格式";s:12:"cnfshowgroup";s:36:"指定是否顯示群組分隔符號";s:10:"cnfsortkey";s:27:"選擇預設的排序鍵值";s:12:"cnfsortorder";s:38:"選擇預設的排序(遞增或遞減)";s:17:"cnfstudentcanpost";s:33:"預設學生是否能提交詞目";s:7:"cnftabs";s:45:"為這一詞彙表格式選擇可見的分頁";s:7:"comment";s:6:"評論";s:14:"commentdeleted";s:15:"評論已刪除";s:8:"comments";s:6:"評論";s:10:"commentson";s:9:"評論在";s:14:"commentupdated";s:18:"評論已經更新";s:24:"completiondetail:entries";s:13:"填寫：{$a}";s:17:"completionentries";s:30:"學生須建立的詞目數：";s:21:"completionentriesdesc";s:34:"學生至少要建立{$a}個條目";s:7:"concept";s:12:"詞目名稱";s:8:"concepts";s:12:"詞目名稱";s:20:"configenablerssfeeds";s:120:"此設定將啟動所有詞彙表的RSS彙集功能，您仍然需要在每一個詞彙表的設定中開啟RSS彙集。";s:7:"current";s:20:"目前的排序 {$a}";s:15:"currentglossary";s:18:"目前的詞彙表";s:4:"date";s:6:"日期";s:8:"dateview";s:15:"依日期瀏覽";s:15:"defaultapproval";s:24:"預設為已審核通過";s:20:"defaultapproval_help";s:182:"這個選項允許教師設定學生所提交詞目的預設狀態。它可以是自動處於已審核狀態(立即可以被所有人看到)，或者需要等待教師逐一審核。";s:11:"defaulthook";s:12:"預設鉤子";s:11:"defaultmode";s:12:"預設模式";s:14:"defaultsortkey";s:21:"預設的排序鍵值";s:16:"defaultsortorder";s:15:"預設的排序";s:10:"definition";s:6:"解釋";s:11:"definitions";s:6:"解釋";s:11:"deleteentry";s:12:"刪除詞目";s:14:"deletecategory";s:15:"Delete category";s:12:"deleteentrya";s:19:"刪除條目：{$a}";s:17:"deletenotenrolled";s:33:"刪除未選課使用者的詞目";s:15:"deletingcomment";s:12:"刪除評論";s:25:"deletingnoneemptycategory";s:92:"刪除此類別，不會刪除所包含的詞目，而會將這些詞目歸類成"未分類"";s:10:"descending";s:6:"遞減";s:11:"destination";s:24:"匯入詞目的目的地";s:16:"destination_help";s:282:"條目可以被匯入到：
+
+* <strong>當前辭彙表：</strong>將匯入的詞條添加到當前開啟的辭彙表之中。
+
+* <strong>新辭彙表：</strong>建立一個新的辭彙表，其資訊取自要匯入入的XML檔，而匯入的詞條會添加到新辭彙表當中。";s:10:"disapprove";s:12:"取消核准";s:13:"displayformat";s:12:"顯示格式";s:18:"displayformat_help";s:1142:"<p align="center"><b>詞條的顯示格式</b></p>
+
+<p>這個選項設定了辭彙表中詞條的顯示方式。可選的預設格式有：</p>
+<blockquote>
+<dl>
+<dt><b>簡單字典</b>:</dt>
+<dd>看上去像一部傳統的字典，其中有多個不相干條目。不顯示作者，且附件顯示為一個鏈結。</dd>
+
+<dt><b>連續(不含作者)</b>:</dt>
+<dd>逐一顯示詞條，其間不加任何分割，但會顯示編輯圖示。</dd>
+
+<dt><b>詳細資訊(含作者)</b>:</dt>
+<dd>如論壇一樣的顯示格式，包括了作者資訊。附件顯示為一個鏈結。</dd>
+
+<dt><b>詳細資訊(不含作者)</b>:</dt>
+<dd>如論壇一樣的顯示格式，不包含作者資訊。附件顯示為一個鏈結。</dd>
+
+<dt><b>百科全書</b>:</dt>
+<dd>同“詳細資訊(含作者)”類似，但附件中的圖片會直接顯示在文章中。</dd>
+
+<dt><b>常見問題</b>:</dt>
+<dd>對於顯示一系列常見問題很有用。它自動添加“問題”和“答案”等字樣。</dd>
+</dl>
+</blockquote>
+
+<hr />
+<p>Moodle管理員可以創建新的格式，方法請參考<b>mod/glossary/formats/README.txt</b>中內容。</p>";s:23:"displayformatcontinuous";s:24:"連續顯示不含作者";s:20:"displayformatdefault";s:30:"預設為與顯示格式相同";s:23:"displayformatdictionary";s:19:"簡明,字典風格";s:25:"displayformatencyclopedia";s:12:"百科全書";s:22:"displayformatentrylist";s:12:"詞目列表";s:16:"displayformatfaq";s:12:"常見問題";s:27:"displayformatfullwithauthor";s:17:"詳細(含作者)";s:30:"displayformatfullwithoutauthor";s:20:"詳細(不含作者)";s:14:"displayformats";s:12:"顯示格式";s:19:"displayformatssetup";s:18:"顯示格式設定";s:17:"duplicatecategory";s:15:"重複的類別";s:14:"duplicateentry";s:15:"重複的詞目";s:10:"editalways";s:15:"可隨時編輯";s:15:"editalways_help";s:256:"此選項允許您設定是否總是允許學生修改他們的條目。您可以選擇：
+<ul>
+<li><b>是：</b>條目是隨時可以編輯的。</li>
+<li><b>否：</b>條目只可在貼上後一段時間內可以編輯(通常30分鐘以內)。</li>
+</ul>";s:14:"editcategories";s:12:"編輯類別";s:12:"editcategory";s:13:"Edit category";s:9:"editentry";s:12:"編輯詞目";s:10:"editentrya";s:19:"編輯條目：{$a}";s:14:"editingcomment";s:12:"編輯評論";s:9:"entbypage";s:24:"每頁顯示的詞目數";s:7:"entries";s:6:"詞目";s:22:"entrieswithoutcategory";s:18:"未分類的詞目";s:5:"entry";s:6:"詞目";s:17:"entryalreadyexist";s:15:"詞目已存在";s:13:"entryapproved";s:21:"詞目已通過審核";s:12:"entrydeleted";s:15:"詞目已刪除";s:13:"entryexported";s:18:"詞目匯出成功";s:13:"entryishidden";s:17:"(詞目已隱藏)";s:25:"entryleveldefaultsettings";s:21:"預設的詞目層級";s:9:"entrylink";s:16:"Entry link: {$a}";s:10:"entrysaved";s:15:"詞目已儲存";s:12:"entryupdated";s:15:"詞目已更新";s:16:"entryusedynalink";s:24:"詞目將被自動連結";s:21:"entryusedynalink_help";s:534:"若網站管理員已經開啟整體辭彙表的自動鏈結功能，而此選項也被勾選
+時，此詞彙表的概念字及同義字會產生自動連結。
+
+這個功能，將允許課程中其他部分的內容，若出現與條目相同的辭彙時，會自動加上指向該條目的鏈結。這範圍包括了討論區的貼文、內部資源、每週總結、心得報告等等。
+
+如果您不希望某一部分文字(如討論區的貼文)被自動加上鏈結，就需要在文字前後添加<nolink>和</nolink>標記。";s:19:"errcannoteditothers";s:36:"您無法編輯其他用戶的詞目";s:23:"errconceptalreadyexists";s:54:"詞目名稱已存在，此辭彙表不允許重複。";s:17:"errdeltimeexpired";s:39:"你無法刪除此詞目，因已逾時";s:18:"erredittimeexpired";s:39:"已經超過這詞目的可編輯時間";s:15:"errorparsingxml";s:59:"解析檔案時發生錯誤，請確認 XML 語法正確。";s:19:"errreservedkeywords";s:70:"One or more keywords contain a special character which cannot be used.";s:20:"eventcategorycreated";s:18:"類別已被建立";s:20:"eventcategorydeleted";s:18:"類別已被刪除";s:20:"eventcategoryupdated";s:18:"類別已被更新";s:18:"evententryapproved";s:18:"條目已被核准";s:17:"evententrycreated";s:18:"條目已被建立";s:17:"evententrydeleted";s:18:"條目已被刪除";s:21:"evententrydisapproved";s:18:"條目已被駁回";s:16:"evententryviewed";s:18:"條目已被檢視";s:17:"evententryupdated";s:18:"條目已被更新";s:15:"explainaddentry";s:80:"新增詞目到目前的詞彙表。<br> 詞目名稱和解釋是必填的欄位";s:10:"explainall";s:30:"在一頁中顯示所有詞目";s:15:"explainalphabet";s:30:"使用此索引瀏覽詞彙表";s:13:"explainexport";s:208:"點選下方按鈕以匯出詞彙表詞目。請將它下載並安全的保存。當您需要時，您可以將它們匯入這一或其他課程。
+
+請注意，附件(如：圖檔)和作者並未被匯出。";s:13:"explainimport";s:119:"您必須指定一檔案來匯入，並且定義這過程的規準。<p> 提交您的請求，並檢視這結果。</p>";s:14:"explainspecial";s:42:"顯示沒有由英文字母開頭的詞目";s:6:"export";s:6:"Export";s:13:"exportedentry";s:18:"已匯出的詞目";s:13:"exportentries";s:12:"匯出詞目";s:18:"exportentriestoxml";s:24:"匯出條目到XML檔案";s:10:"exportfile";s:21:"匯出詞目到檔案";s:14:"exportglossary";s:15:"匯出詞彙表";s:20:"exporttomainglossary";s:24:"匯出到主要詞彙表";s:12:"filetoimport";s:18:"要匯入的檔案";s:17:"filetoimport_help";s:45:"選取您的電腦上要匯入的詞目XML檔";s:10:"fillfields";s:39:"詞目名稱和解釋是必要的欄位";s:10:"filtername";s:24:"詞彙表自動超連結";s:9:"fullmatch";s:27:"要完全符合整個文字";s:14:"fullmatch_help";s:314:"<p align="center"><b>整個詞彙符合</b></p>
+<p>如果開啟了自動鏈結功能，再開啟此功能，將導致只有整個詞彙都完全符合時才會建立鏈結。</p>
+<p>例如，辭彙表中雖有詞條“construct”，但系統不會在“constructivism”這字彙上建立指向它的鏈結。</p>";s:20:"glossary:addinstance";s:18:"新增一辭彙表";s:16:"glossary:approve";s:27:"核准或取消核准詞目";s:16:"glossary:comment";s:12:"建立評論";s:15:"glossary:export";s:12:"匯出詞目";s:20:"glossary:exportentry";s:18:"匯出單一詞目";s:23:"glossary:exportownentry";s:24:"匯出你的單一詞目";s:15:"glossary:import";s:12:"匯入詞目";s:28:"glossaryleveldefaultsettings";s:30:"詞彙表層級的預設設定";s:25:"glossary:managecategories";s:12:"類別管理";s:23:"glossary:managecomments";s:12:"評論管理";s:22:"glossary:manageentries";s:12:"詞目管理";s:13:"glossary:rate";s:12:"詞目評分";s:13:"glossary:view";s:15:"檢視詞彙表";s:23:"glossary:viewallratings";s:30:"檢視個人給的所有評分";s:22:"glossary:viewanyrating";s:30:"檢視每個人收到的評分";s:19:"glossary:viewrating";s:21:"檢視你收到評分";s:14:"glossary:write";s:12:"新增詞目";s:12:"glossarytype";s:15:"詞彙表類型";s:17:"glossarytype_help";s:302:"　　<p align="center"><b>定義課程的主辭彙表</b></p>
+辭彙表系統允許您從任何二級辭彙表中匯出條目到課程的主辭彙表中。
+
+注意：每門課程只能擁有一個主辭彙表，教師應當指定哪個辭彙表作為主辭彙表，並且只有教師才能更新它。";s:11:"guestnoedit";s:30:"訪客不允許編輯詞彙表";s:8:"changeto";s:13:"變更為{$a}";s:16:"importcategories";s:12:"匯入類別";s:18:"importedcategories";s:21:"已經匯入的類別";s:15:"importedentries";s:21:"已經匯入的詞目";s:13:"importentries";s:12:"匯入詞目";s:20:"importentriesfromxml";s:26:"從 XML 檔案匯入詞目";s:18:"includegroupbreaks";s:24:"包含群組分隔符號";s:24:"indicator:cognitivedepth";s:18:"Glossary cognitive";s:29:"indicator:cognitivedepth_help";s:93:"This indicator is based on the cognitive depth reached by the student in a Glossary activity.";s:27:"indicator:cognitivedepthdef";s:18:"Glossary cognitive";s:32:"indicator:cognitivedepthdef_help";s:169:"The participant has reached this percentage of the cognitive engagement offered by the Glossary activities during this analysis interval (Levels = No view, View, Submit)";s:32:"indicator:cognitivedepthdef_link";s:45:"Learning_analytics_indicators#Cognitive_depth";s:23:"indicator:socialbreadth";s:15:"Glossary social";s:28:"indicator:socialbreadth_help";s:92:"This indicator is based on the social breadth reached by the student in a Glossary activity.";s:26:"indicator:socialbreadthdef";s:15:"Glossary social";s:31:"indicator:socialbreadthdef_help";s:180:"The participant has reached this percentage of the social engagement offered by the Glossary activities during this analysis interval (Levels = No participation, Participant alone)";s:31:"indicator:socialbreadthdef_link";s:44:"Learning_analytics_indicators#Social_breadth";s:8:"isglobal";s:25:"設定為全站詞彙表?";s:13:"isglobal_help";s:300:"只有管理員可以設定全站辭彙表，這些辭彙表可以是任何課程的一部分(但通常是放在首頁上)。
+全站辭彙表與普通的本地辭彙表之間的差別，主要在於自動鏈結時全域辭彙表是針對整個網站的，而不僅僅是辭彙表所涉及的課程。";s:6:"letter";s:6:"字母";s:12:"linkcategory";s:24:"自動連結這一類別";s:17:"linkcategory_help";s:280:"<p>您可以設定您是否想要此類別名稱被自動鏈結。</p>
+<p>注意：對類別名稱的自動鏈結總是區分大小寫的，且要整個詞彙完全符合的。</p>
+<p>當參與者點選類名稱鏈結時，會被帶到這詞彙表的"以類別瀏覽"頁面。</p>";s:7:"linking";s:12:"自動連結";s:12:"mainglossary";s:12:"主詞彙表";s:16:"maxtimehaspassed";s:64:"抱歉，但已超過了修改該評論的最大時限 ({$a}) !!";s:10:"modulename";s:9:"詞彙表";s:15:"modulename_help";s:976:"詞彙表活動允許參與者建立並維護一個定義的清單，就像一個詞彙表，或者蒐集並組織資源或訊息。
+
+教師可以允許將檔案附加到詞彙表條目上。附加的圖片檔會顯示在條目上。
+
+條目可以被搜尋，或依據字母順序、類別、日期、或作者來瀏覽。
+
+條目也可以預設為已經核准，或要等待教師核准才可以被其他人看到。
+
+若啟用詞彙表的自動連結過濾器，那在這課程裡出現相同於條目概念的文字都會產生自動鏈結。
+
+教師可以在條目上加上評論。教師、學生(同儕評鑑)都可以對條目加以評比，評比可以彙整成單一分數，記錄到成績簿上。
+
+詞彙表的用途，例如：
+
+* 分工撰寫課程關鍵詞彙的解釋
+
+* 新班級的每個人的自我介紹
+
+* 課程相關的影片、照片、聲音檔的分享區
+
+* 實習科目上可供他人參考的個人心得
+
+* 教科書上需要更新補充的說明";s:15:"modulename_link";s:17:"mod/glossary/view";s:16:"modulenameplural";s:9:"詞彙表";s:10:"newentries";s:21:"新增詞彙表詞目";s:11:"newglossary";s:15:"新增詞彙表";s:18:"newglossarycreated";s:24:"已經建立新詞彙表";s:18:"newglossaryentries";s:21:"新詞彙表詞目：";s:9:"nocomment";s:15:"未找到評論";s:10:"nocomments";s:23:"(本詞目尚無評論)";s:14:"noconceptfound";s:30:"找不到詞目名稱或定義";s:9:"noentries";s:33:"在此部分沒找到任何條目";s:7:"noentry";s:15:"沒找到詞目";s:24:"nopermissiontodelcomment";s:34:"你無法刪除其他人的評論!";s:27:"nopermissiontodelinglossary";s:37:"你無法在此詞彙表發表評論!";s:24:"nopermissiontoviewresult";s:33:"僅可檢視自己新增的詞目";s:14:"notcategorised";s:9:"未分類";s:11:"notapproved";s:27:"詞彙表詞目尚未核准";s:16:"entrynotapproved";s:18:"Entry not approved";s:15:"numberofentries";s:9:"詞目數";s:9:"onebyline";s:14:"(每行一個)";s:19:"page-mod-glossary-x";s:21:"任何詞彙表頁面";s:22:"page-mod-glossary-edit";s:36:"詞彙表 新增/編輯 詞目頁面";s:22:"page-mod-glossary-view";s:27:"檢視詞彙表編輯頁面";s:15:"pendingapproval";s:16:"Pending approval";s:20:"pendingapprovalcount";s:23:"Pending approval ({$a})";s:20:"pluginadministration";s:15:"詞彙表管理";s:10:"pluginname";s:9:"詞彙表";s:11:"popupformat";s:12:"彈出格式";s:5:"print";s:6:"列印";s:15:"printerfriendly";s:12:"友善列印";s:19:"printviewnotallowed";s:21:"不允許列印預覽";s:7:"privacy";s:18:"Privacy of results";s:30:"privacy:metadata:core_comments";s:74:"Comments made on glossary definitions are stored using core_comment system";s:27:"privacy:metadata:core_files";s:75:"Files linked to glossary definitions are stored using the core_files system";s:28:"privacy:metadata:core_rating";s:69:"Ratings added to glossary entries are stored using core_rating system";s:25:"privacy:metadata:core_tag";s:68:"Tags added to glossary definitions are stored using core_tag system ";s:33:"privacy:metadata:glossary_entries";s:66:"Information about the user's entries for a given glossary activity";s:44:"privacy:metadata:glossary_entries:attachment";s:42:"The attachment of the entry the user added";s:41:"privacy:metadata:glossary_entries:concept";s:39:"The concept of the entry the user added";s:44:"privacy:metadata:glossary_entries:definition";s:42:"The definition of the entry the user added";s:44:"privacy:metadata:glossary_entries:glossaryid";s:31:"The ID of the glossary activity";s:40:"privacy:metadata:glossary_entries:userid";s:53:"The ID of the user that is adding this glossary entry";s:46:"privacy:metadata:glossary_entries:timemodified";s:73:"The timestamp indicating when the glossary entry was modified by the user";s:8:"question";s:6:"問題";s:15:"rejectedentries";s:18:"被拒絕的詞目";s:12:"rejectionrpt";s:24:"被拒絕條目的報表";s:21:"removeallglossarytags";s:27:"移除所有詞彙表標籤";s:15:"resetglossaries";s:15:"刪除詞目由";s:18:"resetglossariesall";s:33:"從所有詞彙表中刪除詞目";s:11:"rssarticles";s:18:"最新的RSS文章";s:16:"rssarticles_help";s:200:"這個選項允許您設定包含在RSS彙集的詞目數目。
+
+對於大多數辭彙表來說，5到20之間的數目都是可以的。如果您的辭彙表經常更新，可以加大這個數字。";s:15:"rsssubscriberss";s:40:"顯示詞目名稱“{$a}”的RSS匯集";s:7:"rssfeed";s:8:"RSS feed";s:7:"rsstype";s:24:"這一活動的RSS彙集";s:12:"rsstype_help";s:309:"<p align="center"><b>辭彙表的RSS彙集</b></p>
+這個選項允許您啟動辭彙表的RSS匯集。您可以選擇兩種匯集：
+<ul>
+<li><b>概念含有作者資訊：</b>生成的彙集會包含作者資訊。</li>
+<li><b>概念不含作者資訊：</b>生成的彙集不包含作者資訊。</li>
+</ul>";s:15:"search:activity";s:20:"詞彙--活動資訊";s:12:"search:entry";s:16:"詞彙 -- 條目";s:18:"searchindefinition";s:12:"全文檢索";s:17:"secondaryglossary";s:15:"次級詞彙表";s:7:"showall";s:20:"顯示"全部"連結";s:12:"showall_help";s:51:"若啟用，用戶可以立刻瀏覽全部條目。";s:12:"showalphabet";s:29:"顯示"字母順序表"鏈結";s:17:"showalphabet_help";s:94:"若啟用，用戶可以用概念的英文字母順序，如A, B, C...，來瀏覽詞彙表。";s:11:"showspecial";s:26:"顯示"特殊字元"連結";s:16:"showspecial_help";s:77:"若啟用，用戶可以用特殊字元，比如@和#，來瀏覽詞彙表。";s:6:"sortby";s:15:"排序方式：";s:14:"sortbycreation";s:15:"按建立日期";s:16:"sortbylastupdate";s:21:"按最後更新日期";s:17:"sortchronogically";s:21:"依時間先後順序";s:7:"special";s:6:"特殊";s:12:"standardview";s:21:"依字母順序瀏覽";s:14:"studentcanpost";s:24:"允許學生新增詞目";s:24:"tagarea_glossary_entries";s:12:"詞彙條目";s:12:"totalentries";s:12:"詞目總數";s:11:"usedynalink";s:30:"自動連結辭彙表的詞目";s:16:"usedynalink_help";s:624:"　　<p align="center"><b>啟動辭彙表的自動鏈結</b></p>
+<p>啟動這個功能則允許課程中其他部分的內容出現詞條中辭彙的名稱時自動添加指向詞條的鏈結。這包括了討論區的貼文、內部資源、每週總結、心得報告等等。</p>
+<p>啟動辭彙表的自動鏈結功能並不意味著鏈結每個詞條——要使用自動鏈結，還要對每個詞條單獨設置。</p>
+<p>如果您不希望某一部分文字(如討論區的貼文)被自動鏈結，則需在文字周圍添加<nolink>和</nolink>標記。</p>
+<p>注意：分類名稱也會自動鏈結。</p>
+　　";s:11:"visibletabs";s:15:"可見的分頁";s:20:"warningstudentcapost";s:26:"(僅適用於非主詞彙)";s:10:"withauthor";s:23:"詞目名稱(含作者)";s:13:"withoutauthor";s:26:"詞目名稱(不含作者)";s:9:"writtenby";s:9:"作者是";s:18:"youarenottheauthor";s:54:"您不是該評論的作者，故您無權編輯它。";s:11:"tagsdeleted";s:33:"詞彙表的標籤已經被移除";}

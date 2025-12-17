@@ -1,0 +1,9 @@
+a:19:{s:10:"asyncpurge";s:30:"Asynchronously purge directory";s:15:"asyncpurge_help";s:135:"If enabled, the new directory is created with cache revision and the old directory will be deleted asynchronously via a scheduled task.";s:10:"autocreate";s:18:"自動建立目錄";s:15:"autocreate_help";s:90:"若啟用，在路徑上指定的目錄，若不是已事先存在，將會自動建立。";s:8:"lockwait";s:22:"Maximum lock wait time";s:13:"lockwait_help";s:188:"The maximum amount of time in seconds to wait for an exclusive lock before reading or writing a cache key. This is only used for cache definitions that have read or write locking required.";s:4:"path";s:12:"快取路徑";s:9:"path_help";s:220:"這一目錄將在快取儲存時會用來儲存檔案。若留空白(預設)，將會在Moodledata目錄下自動建立。
+
+它也可以把檔案儲存指向更有效率的磁碟機(比如在記憶體上)上的目錄。";s:10:"pluginname";s:12:"檔案快取";s:16:"privacy:metadata";s:125:"The File cache cachestore plugin stores data briefly as part of its caching functionality but this data is regularly cleared.";s:7:"prescan";s:18:"預先掃描目錄";s:12:"prescan_help";s:221:"若啟用，當快取第一次被使用時會掃描這目錄，並將對檔案的請求與這掃描的資料核對。
+
+若你的檔案系統運作很慢，而檔案操作造成你系統的瓶頸時，這會很有幫助。";s:19:"serializer_igbinary";s:18:"igbinary 串聯器";s:14:"serializer_php";s:21:"預設的PHP串聯器";s:15:"singledirectory";s:18:"單一目錄儲存";s:20:"singledirectory_help";s:489:"若啟用，檔案(放入快取的項目)將會儲存在單一目錄，而不是被分割成多個目錄。<br />
+啟用這一選項將加快檔案的互動，但是會增加達到檔案系統限制的風險。<br />
+勸你只有在下列情形才開啟：<br />
+ - 你確知快取的檔案數量很少，不會造成你的檔案系統的問題。<br />
+ - 被快取的資料的產生的代價不是很高。如果它是很高，那麼停留在預設狀態，可能才是較好的選擇。";s:15:"task_asyncpurge";s:62:"Asynchronously purge file store old cache revision directories";s:13:"useserializer";s:14:"Use serializer";s:18:"useserializer_help";s:193:"The serializer to use for serializing. The igbinary serializer, if available, can reduce the storage requirements for large caches. This is supported only when the igbinary extension is loaded.";}

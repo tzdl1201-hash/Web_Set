@@ -1,0 +1,1 @@
+a:4:{s:10:"pluginname";s:43:"作答次的間隔時間/測驗存取規則";s:16:"privacy:metadata";s:84:"The Delay between attempts quiz access rule plugin does not store any personal data.";s:13:"youcannotwait";s:69:"在你被允許進行另一次作答之前，測驗會對你關閉。";s:11:"youmustwait";s:100:"在你從新作這一測驗之前，你必須等待。你可以在{$a}之後開始另一次作答。";}

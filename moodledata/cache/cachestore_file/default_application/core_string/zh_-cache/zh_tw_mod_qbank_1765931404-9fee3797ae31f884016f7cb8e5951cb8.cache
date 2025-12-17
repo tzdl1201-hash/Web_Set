@@ -1,0 +1,5 @@
+a:23:{s:14:"addanotherbank";s:12:"新增題庫";s:14:"coursecategory";s:33:"類別 {$a} 的共用教學資源";s:13:"courserestore";s:12:"課程還原";s:11:"createqbank";s:25:"Create question bank {$a}";s:10:"modulename";s:6:"題庫";s:15:"modulename_help";s:184:"此活動可讓教師在試題類別資料庫中建立、預覽與編輯試題。
+
+然後在測驗或其他活動中使用試題。
+
+試題使用後，可進行版本控制和統計。";s:16:"modulenameplural";s:6:"題庫";s:16:"noqbankinstances";s:27:"本課程尚未有題庫。";s:20:"pluginadministration";s:12:"題庫管理";s:10:"pluginname";s:6:"題庫";s:16:"privacy:metadata";s:104:"題庫外掛程式不會儲存任何個人資料，core_question 會自動追蹤問題的各種資料。";s:20:"progress_createqbank";s:23:"Creating question banks";s:17:"qbank:addinstance";s:12:"新增題庫";s:10:"qbank:view";s:12:"瀏覽題庫";s:9:"qbankname";s:12:"題庫名稱";s:14:"qbankname_help";s:21:"輸入題庫名稱。";s:14:"saveanddisplay";s:15:"儲存並顯示";s:13:"saveandreturn";s:27:"儲存並返回題庫列表";s:10:"sharedbank";s:20:"{$a} 的共享題庫";s:15:"showdescription";s:33:"在題庫管理頁面顯示描述";s:20:"showdescription_help";s:87:"啟用後，以上描述將顯示於題庫管理頁面中，該題庫連結的下方。";s:19:"transfernotfinished";s:231:"背景任務 \mod_qbank\task\transfer_question_categories 尚未完成或執行失敗。部分預先安裝的試題庫可能尚未轉移至 mod_qbank 實例。其所包含的試題類別在任務完成前將無法共享或管理。";s:15:"unknownbanktype";s:26:"未知的題庫類型 {$a}";}

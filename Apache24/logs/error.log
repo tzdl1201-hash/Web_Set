@@ -884,3 +884,130 @@ pm_winnt:notice] [pid 6392:tid 456] AH00354: Child: Starting 64 worker threads.
 [Wed Dec 10 15:19:22.087125 2025] [fcgid:error] [pid 17996] FastCGI process 21380 still did not exit, terminating forcefully
 [Wed Dec 10 15:19:22.087125 2025] [fcgid:error] [pid 17996] FastCGI process 10032 still did not exit, terminating forcefully
 [Wed Dec 10 15:19:23.094509 2025] [mpm_winnt:notice] [pid 20036:tid 444] AH00430: Parent: Child process 17996 exited successfully.
+[Thu Dec 11 09:32:17.418917 2025] [mpm_winnt:notice] [pid 7996:tid 448] AH00455: Apache/2.4.65 (Win64) mod_fcgid/2.3.10-dev configured -- resuming normal operations
+[Thu Dec 11 09:32:17.418917 2025] [mpm_winnt:notice] [pid 7996:tid 448] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Thu Dec 11 09:32:17.418917 2025] [core:notice] [pid 7996:tid 448] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Dec 11 09:32:17.418917 2025] [mpm_winnt:notice] [pid 7996:tid 448] AH00418: Parent: Created child process 10168
+[Thu Dec 11 09:32:17.814440 2025] [mpm_winnt:notice] [pid 10168:tid 456] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 11 11:17:41.618996 2025] [mpm_winnt:notice] [pid 7996:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 11 11:17:43.640987 2025] [mpm_winnt:notice] [pid 10168:tid 456] AH00364: Child: All worker threads have exited.
+[Thu Dec 11 11:17:44.597690 2025] [mpm_winnt:notice] [pid 7996:tid 448] AH00430: Parent: Child process 10168 exited successfully.
+[Fri Dec 12 09:02:17.403104 2025] [mpm_winnt:notice] [pid 17124:tid 440] AH00455: Apache/2.4.65 (Win64) mod_fcgid/2.3.10-dev configured -- resuming normal operations
+[Fri Dec 12 09:02:17.403104 2025] [mpm_winnt:notice] [pid 17124:tid 440] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Fri Dec 12 09:02:17.403104 2025] [core:notice] [pid 17124:tid 440] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Dec 12 09:02:17.403104 2025] [mpm_winnt:notice] [pid 17124:tid 440] AH00418: Parent: Created child process 5304
+[Fri Dec 12 09:02:17.858046 2025] [mpm_winnt:notice] [pid 5304:tid 460] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 12 09:20:34.697256 2025] [mpm_winnt:notice] [pid 17124:tid 440] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 12 09:20:36.714048 2025] [mpm_winnt:notice] [pid 5304:tid 460] AH00364: Child: All worker threads have exited.
+[Fri Dec 12 09:20:45.140122 2025] [fcgid:error] [pid 5304] FastCGI process 19564 still did not exit, terminating forcefully
+[Fri Dec 12 09:20:45.140122 2025] [fcgid:error] [pid 5304] FastCGI process 19920 still did not exit, terminating forcefully
+[Fri Dec 12 09:20:45.140122 2025] [fcgid:error] [pid 5304] FastCGI process 20908 still did not exit, terminating forcefully
+[Fri Dec 12 09:20:45.141045 2025] [fcgid:error] [pid 5304] FastCGI process 16052 still did not exit, terminating forcefully
+[Fri Dec 12 09:20:46.165768 2025] [mpm_winnt:notice] [pid 17124:tid 440] AH00430: Parent: Child process 5304 exited successfully.
+[Fri Dec 12 09:26:45.629413 2025] [mpm_winnt:notice] [pid 15248:tid 460] AH00455: Apache/2.4.65 (Win64) mod_fcgid/2.3.10-dev configured -- resuming normal operations
+[Fri Dec 12 09:26:45.630410 2025] [mpm_winnt:notice] [pid 15248:tid 460] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Fri Dec 12 09:26:45.630410 2025] [core:notice] [pid 15248:tid 460] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Dec 12 09:26:45.633456 2025] [mpm_winnt:notice] [pid 15248:tid 460] AH00418: Parent: Created child process 15244
+[Fri Dec 12 09:26:45.999794 2025] [mpm_winnt:notice] [pid 15244:tid 452] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 12 15:41:46.750890 2025] [mpm_winnt:notice] [pid 15248:tid 460] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 12 15:42:16.760820 2025] [mpm_winnt:notice] [pid 15248:tid 460] AH00431: Parent: Forcing termination of child process 15244
+[Fri Dec 12 15:42:18.466259 2025] [mpm_winnt:notice] [pid 16160:tid 468] AH00455: Apache/2.4.65 (Win64) mod_fcgid/2.3.10-dev configured -- resuming normal operations
+[Fri Dec 12 15:42:18.466259 2025] [mpm_winnt:notice] [pid 16160:tid 468] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Fri Dec 12 15:42:18.466259 2025] [core:notice] [pid 16160:tid 468] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Dec 12 15:42:18.485213 2025] [mpm_winnt:notice] [pid 16160:tid 468] AH00418: Parent: Created child process 18632
+[Fri Dec 12 15:42:18.935045 2025] [mpm_winnt:notice] [pid 18632:tid 508] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 12 16:05:21.579517 2025] [core:error] [pid 18632:tid 1108] (20025)The given path contained wildcard characters: [client ::1:51374] AH00036: access to /check_api.php**\xef\xbc\x8c\xe6\x8a\x8a\xe7\xb5\x90\xe6\x9e\x9c\xe6\x88\xaa\xe5\x9c\x96\xe7\xb5\xa6\xe6\x88\x91\xe7\x9c\x8b\xe3\x80\x82 failed (filesystem path 'C:/Apache24/htdocs/check_api.php**\xef\xbc\x8c\xe6\x8a\x8a\xe7\xb5\x90\xe6\x9e\x9c\xe6\x88\xaa\xe5\x9c\x96\xe7\xb5\xa6\xe6\x88\x91\xe7\x9c\x8b\xe3\x80\x82')
+[Fri Dec 12 16:05:21.588624 2025] [core:error] [pid 18632:tid 1124] (20025)The given path contained wildcard characters: [client ::1:57577] AH00036: access to /check_api.php**\xef\xbc\x8c\xe6\x8a\x8a\xe7\xb5\x90\xe6\x9e\x9c\xe6\x88\xaa\xe5\x9c\x96\xe7\xb5\xa6\xe6\x88\x91\xe7\x9c\x8b\xe3\x80\x82 failed (filesystem path 'C:/Apache24/htdocs/check_api.php**\xef\xbc\x8c\xe6\x8a\x8a\xe7\xb5\x90\xe6\x9e\x9c\xe6\x88\xaa\xe5\x9c\x96\xe7\xb5\xa6\xe6\x88\x91\xe7\x9c\x8b\xe3\x80\x82')
+[Fri Dec 12 17:31:54.894075 2025] [mpm_winnt:notice] [pid 16160:tid 468] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 12 17:31:56.908947 2025] [mpm_winnt:notice] [pid 18632:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Dec 12 17:32:05.355098 2025] [fcgid:error] [pid 18632] FastCGI process 9364 still did not exit, terminating forcefully
+[Fri Dec 12 17:32:05.355098 2025] [fcgid:error] [pid 18632] FastCGI process 14224 still did not exit, terminating forcefully
+[Fri Dec 12 17:32:05.355098 2025] [fcgid:error] [pid 18632] FastCGI process 13468 still did not exit, terminating forcefully
+[Fri Dec 12 17:32:06.374373 2025] [mpm_winnt:notice] [pid 16160:tid 468] AH00430: Parent: Child process 18632 exited successfully.
+[Fri Dec 12 19:58:13.835528 2025] [mpm_winnt:notice] [pid 26424:tid 444] AH00455: Apache/2.4.65 (Win64) mod_fcgid/2.3.10-dev configured -- resuming normal operations
+[Fri Dec 12 19:58:13.835528 2025] [mpm_winnt:notice] [pid 26424:tid 444] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Fri Dec 12 19:58:13.835528 2025] [core:notice] [pid 26424:tid 444] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Dec 12 19:58:13.835528 2025] [mpm_winnt:notice] [pid 26424:tid 444] AH00418: Parent: Created child process 21692
+[Fri Dec 12 19:58:14.233410 2025] [mpm_winnt:notice] [pid 21692:tid 476] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 13 00:11:37.917202 2025] [mpm_winnt:notice] [pid 26424:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 13 00:11:39.926308 2025] [mpm_winnt:notice] [pid 21692:tid 476] AH00364: Child: All worker threads have exited.
+[Sat Dec 13 00:11:48.393230 2025] [fcgid:error] [pid 21692] FastCGI process 24572 still did not exit, terminating forcefully
+[Sat Dec 13 00:11:48.393230 2025] [fcgid:error] [pid 21692] FastCGI process 2420 still did not exit, terminating forcefully
+[Sat Dec 13 00:11:49.449504 2025] [mpm_winnt:notice] [pid 26424:tid 444] AH00430: Parent: Child process 21692 exited successfully.
+[Sat Dec 13 05:48:45.270755 2025] [mpm_winnt:notice] [pid 22488:tid 432] AH00455: Apache/2.4.65 (Win64) mod_fcgid/2.3.10-dev configured -- resuming normal operations
+[Sat Dec 13 05:48:45.272772 2025] [mpm_winnt:notice] [pid 22488:tid 432] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Sat Dec 13 05:48:45.272772 2025] [core:notice] [pid 22488:tid 432] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat Dec 13 05:48:45.344853 2025] [mpm_winnt:notice] [pid 22488:tid 432] AH00418: Parent: Created child process 12548
+[Sat Dec 13 05:48:48.852288 2025] [mpm_winnt:notice] [pid 12548:tid 448] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 13 07:09:15.333964 2025] [mpm_winnt:notice] [pid 22488:tid 432] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 13 07:09:17.350456 2025] [mpm_winnt:notice] [pid 12548:tid 448] AH00364: Child: All worker threads have exited.
+[Sat Dec 13 07:09:25.831070 2025] [fcgid:error] [pid 12548] FastCGI process 5768 still did not exit, terminating forcefully
+[Sat Dec 13 07:09:26.848738 2025] [mpm_winnt:notice] [pid 22488:tid 432] AH00430: Parent: Child process 12548 exited successfully.
+[Sun Dec 14 00:37:09.895430 2025] [mpm_winnt:notice] [pid 8868:tid 448] AH00455: Apache/2.4.65 (Win64) mod_fcgid/2.3.10-dev configured -- resuming normal operations
+[Sun Dec 14 00:37:09.895430 2025] [mpm_winnt:notice] [pid 8868:tid 448] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Sun Dec 14 00:37:09.895430 2025] [core:notice] [pid 8868:tid 448] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Dec 14 00:37:09.895430 2025] [mpm_winnt:notice] [pid 8868:tid 448] AH00418: Parent: Created child process 10696
+[Sun Dec 14 00:37:10.320871 2025] [mpm_winnt:notice] [pid 10696:tid 448] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 14 01:36:55.716839 2025] [mpm_winnt:notice] [pid 8868:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 14 01:36:57.732264 2025] [mpm_winnt:notice] [pid 10696:tid 448] AH00364: Child: All worker threads have exited.
+[Sun Dec 14 01:37:06.171491 2025] [fcgid:error] [pid 10696] FastCGI process 14192 still did not exit, terminating forcefully
+[Sun Dec 14 01:37:06.171491 2025] [fcgid:error] [pid 10696] FastCGI process 10576 still did not exit, terminating forcefully
+[Sun Dec 14 01:37:07.188808 2025] [mpm_winnt:notice] [pid 8868:tid 448] AH00430: Parent: Child process 10696 exited successfully.
+[Mon Dec 15 07:59:58.361953 2025] [mpm_winnt:notice] [pid 11868:tid 432] AH00455: Apache/2.4.65 (Win64) mod_fcgid/2.3.10-dev configured -- resuming normal operations
+[Mon Dec 15 07:59:58.363077 2025] [mpm_winnt:notice] [pid 11868:tid 432] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Mon Dec 15 07:59:58.363077 2025] [core:notice] [pid 11868:tid 432] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Dec 15 07:59:58.368072 2025] [mpm_winnt:notice] [pid 11868:tid 432] AH00418: Parent: Created child process 13360
+[Mon Dec 15 07:59:58.835854 2025] [mpm_winnt:notice] [pid 13360:tid 448] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 15 12:46:12.740440 2025] [fcgid:warn] [pid 13360:tid 1104] [client ::1:55080] mod_fcgid: read timeout from pipe, referer: http://localhost/moodle/admin/search.php
+[Mon Dec 15 12:46:12.741177 2025] [core:error] [pid 13360:tid 1104] [client ::1:55080] End of script output before headers: index.php, referer: http://localhost/moodle/admin/search.php
+[Mon Dec 15 17:24:58.850713 2025] [mpm_winnt:notice] [pid 11868:tid 432] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 15 17:25:00.877901 2025] [mpm_winnt:notice] [pid 13360:tid 448] AH00364: Child: All worker threads have exited.
+[Mon Dec 15 17:25:09.356588 2025] [fcgid:error] [pid 13360] FastCGI process 5600 still did not exit, terminating forcefully
+[Mon Dec 15 17:25:09.356588 2025] [fcgid:error] [pid 13360] FastCGI process 1712 still did not exit, terminating forcefully
+[Mon Dec 15 17:25:10.396231 2025] [mpm_winnt:notice] [pid 11868:tid 432] AH00430: Parent: Child process 13360 exited successfully.
+[Mon Dec 15 20:41:54.621314 2025] [mpm_winnt:notice] [pid 1088:tid 460] AH00455: Apache/2.4.65 (Win64) mod_fcgid/2.3.10-dev configured -- resuming normal operations
+[Mon Dec 15 20:41:54.621314 2025] [mpm_winnt:notice] [pid 1088:tid 460] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Mon Dec 15 20:41:54.621314 2025] [core:notice] [pid 1088:tid 460] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Dec 15 20:41:54.625212 2025] [mpm_winnt:notice] [pid 1088:tid 460] AH00418: Parent: Created child process 20356
+[Mon Dec 15 20:41:55.143235 2025] [mpm_winnt:notice] [pid 20356:tid 476] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 15 23:59:55.248428 2025] [mpm_winnt:notice] [pid 1088:tid 460] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 15 23:59:57.259467 2025] [mpm_winnt:notice] [pid 20356:tid 476] AH00364: Child: All worker threads have exited.
+[Tue Dec 16 00:00:05.700800 2025] [fcgid:error] [pid 20356] FastCGI process 5552 still did not exit, terminating forcefully
+[Tue Dec 16 00:00:05.700800 2025] [fcgid:error] [pid 20356] FastCGI process 24496 still did not exit, terminating forcefully
+[Tue Dec 16 00:00:05.700800 2025] [fcgid:error] [pid 20356] FastCGI process 18812 still did not exit, terminating forcefully
+[Tue Dec 16 00:00:06.737103 2025] [mpm_winnt:notice] [pid 1088:tid 460] AH00430: Parent: Child process 20356 exited successfully.
+[Tue Dec 16 08:00:18.399901 2025] [mpm_winnt:notice] [pid 8060:tid 452] AH00455: Apache/2.4.65 (Win64) mod_fcgid/2.3.10-dev configured -- resuming normal operations
+[Tue Dec 16 08:00:18.399901 2025] [mpm_winnt:notice] [pid 8060:tid 452] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Tue Dec 16 08:00:18.399901 2025] [core:notice] [pid 8060:tid 452] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Dec 16 08:00:18.399901 2025] [mpm_winnt:notice] [pid 8060:tid 452] AH00418: Parent: Created child process 11316
+[Tue Dec 16 08:00:18.875775 2025] [mpm_winnt:notice] [pid 11316:tid 448] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 16 17:18:09.465015 2025] [mpm_winnt:notice] [pid 8060:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 16 17:18:11.492424 2025] [mpm_winnt:notice] [pid 11316:tid 448] AH00364: Child: All worker threads have exited.
+[Tue Dec 16 17:18:19.945123 2025] [fcgid:error] [pid 11316] FastCGI process 10860 still did not exit, terminating forcefully
+[Tue Dec 16 17:18:19.945123 2025] [fcgid:error] [pid 11316] FastCGI process 23160 still did not exit, terminating forcefully
+[Tue Dec 16 17:18:19.945123 2025] [fcgid:error] [pid 11316] FastCGI process 8104 still did not exit, terminating forcefully
+[Tue Dec 16 17:18:19.945123 2025] [fcgid:error] [pid 11316] FastCGI process 1460 still did not exit, terminating forcefully
+[Tue Dec 16 17:18:19.945123 2025] [fcgid:error] [pid 11316] FastCGI process 16224 still did not exit, terminating forcefully
+[Tue Dec 16 17:18:19.945123 2025] [fcgid:error] [pid 11316] FastCGI process 10416 still did not exit, terminating forcefully
+[Tue Dec 16 17:18:19.945123 2025] [fcgid:error] [pid 11316] FastCGI process 11304 still did not exit, terminating forcefully
+[Tue Dec 16 17:18:20.989562 2025] [mpm_winnt:notice] [pid 8060:tid 452] AH00430: Parent: Child process 11316 exited successfully.
+[Tue Dec 16 19:50:04.722551 2025] [mpm_winnt:notice] [pid 11524:tid 440] AH00455: Apache/2.4.65 (Win64) mod_fcgid/2.3.10-dev configured -- resuming normal operations
+[Tue Dec 16 19:50:04.722551 2025] [mpm_winnt:notice] [pid 11524:tid 440] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Tue Dec 16 19:50:04.722551 2025] [core:notice] [pid 11524:tid 440] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Dec 16 19:50:04.738322 2025] [mpm_winnt:notice] [pid 11524:tid 440] AH00418: Parent: Created child process 10632
+[Tue Dec 16 19:50:05.106092 2025] [mpm_winnt:notice] [pid 10632:tid 460] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 17 00:39:57.592666 2025] [mpm_winnt:notice] [pid 11524:tid 440] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 17 00:39:59.608716 2025] [mpm_winnt:notice] [pid 10632:tid 460] AH00364: Child: All worker threads have exited.
+[Wed Dec 17 00:40:00.469464 2025] [mpm_winnt:notice] [pid 11524:tid 440] AH00430: Parent: Child process 10632 exited successfully.
+[Wed Dec 17 08:07:02.920318 2025] [mpm_winnt:notice] [pid 25520:tid 468] AH00455: Apache/2.4.65 (Win64) mod_fcgid/2.3.10-dev configured -- resuming normal operations
+[Wed Dec 17 08:07:02.920318 2025] [mpm_winnt:notice] [pid 25520:tid 468] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Wed Dec 17 08:07:02.920318 2025] [core:notice] [pid 25520:tid 468] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Dec 17 08:07:02.920318 2025] [mpm_winnt:notice] [pid 25520:tid 468] AH00418: Parent: Created child process 10632
+[Wed Dec 17 08:07:03.526866 2025] [mpm_winnt:notice] [pid 10632:tid 452] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 17 17:25:31.337206 2025] [mpm_winnt:notice] [pid 25520:tid 468] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 17 17:25:33.364597 2025] [mpm_winnt:notice] [pid 10632:tid 452] AH00364: Child: All worker threads have exited.
+[Wed Dec 17 17:25:41.815725 2025] [fcgid:error] [pid 10632] FastCGI process 12336 still did not exit, terminating forcefully
+[Wed Dec 17 17:25:41.815725 2025] [fcgid:error] [pid 10632] FastCGI process 12248 still did not exit, terminating forcefully
+[Wed Dec 17 17:25:41.815725 2025] [fcgid:error] [pid 10632] FastCGI process 9976 still did not exit, terminating forcefully
+[Wed Dec 17 17:25:41.815725 2025] [fcgid:error] [pid 10632] FastCGI process 20128 still did not exit, terminating forcefully
+[Wed Dec 17 17:25:42.855184 2025] [mpm_winnt:notice] [pid 25520:tid 468] AH00430: Parent: Child process 10632 exited successfully.

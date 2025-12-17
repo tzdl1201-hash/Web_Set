@@ -1,0 +1,4 @@
+a:12:{s:15:"audioextensions";s:16:"聲音檔：{$a}";s:12:"defaultwidth";s:12:"預設寬度";s:16:"defaultwidthdesc";s:129:"媒體播放器的預設寬度。當沒特別指定寬度或實際的媒體檔案寬度無法決定時，即使用此預設值。";s:13:"defaultheight";s:12:"預設高度";s:17:"defaultheightdesc";s:129:"媒體播放器的預設高度。當沒特別指定高度或實際的媒體檔案高度無法決定時，即使用此預設值。";s:10:"extensions";s:14:"副檔名:{$a}";s:18:"managemediaplayers";s:21:"管理媒體播放器";s:12:"mediaformats";s:18:"可用的播放器";s:17:"mediaformats_desc";s:500:"當啟用了這些播放器，媒體檔案可以使用多媒體外掛過濾器(若已啟用)來鑲入，或使用"檔案或網址"資源加上"鑲入"選項。<br />
+當未啟用時，這些格式不會被鑲入，而用戶可以手動下載或跟隨鏈結到這些資源。
+
+若兩個撥放器支援相同的格式，兩者都啟用可以增加在不同設備上(比如智慧型手機)的相容性。你也可以將一個聲音或影片檔轉換成多種不同格式的檔案，以增加相容性。";s:16:"privacy:metadata";s:49:"Media embedding does not store any personal data.";s:8:"supports";s:6:"支援";s:15:"videoextensions";s:16:"影片檔：{$a}";}

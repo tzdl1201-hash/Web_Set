@@ -1,0 +1,11 @@
+a:30:{s:13:"aggregatetype";s:18:"彙整統計類型";s:12:"aggregateavg";s:18:"評比平均分數";s:14:"aggregatecount";s:12:"評比次數";s:12:"aggregatemax";s:6:"最高";s:12:"aggregatemin";s:6:"最低";s:13:"aggregatenone";s:12:"不做評比";s:12:"aggregatesum";s:12:"累加總和";s:18:"aggregatetype_help";s:601:"這彙整統計類型定義了評比是如何合併成為成績簿上的最後分數。
+
+* 評比的平均數---以所有評比的算術平均數作為最後分數。
+* 評比的次數---以被評比的次數(有如按讚的人數)作為最後分數。注意，總和不能超過這活動所設定的最高分
+* 最大值---最高的評比將成為最後分數。
+* 最小值---最低的評比將成為最後分數。
+* 累加總和---將所有評比總加在一起。注意，總和不能超過這活動所設定的最高分。
+
+若選擇"不做評比"，那這活動將不會出現在成績簿上。";s:12:"allowratings";s:21:"允許項目被評比";s:17:"allratingsforitem";s:21:"所有提交的評比";s:27:"capabilitychecknotavailable";s:57:"無法進行權限檢查，除非活動已經被儲存。";s:21:"couldnotdeleteratings";s:69:"抱歉，這個無法刪除，因為有人已經對他做過評比。";s:6:"norate";s:31:"不允許對項目進行評比!";s:9:"noratings";s:21:"沒有評比被提交";s:13:"noviewanyrate";s:51:"你只能看到你自己做的項目的評比結果";s:10:"noviewrate";s:42:"你沒有權限去檢視項目評比結果";s:4:"rate";s:6:"評比";s:20:"ratepermissiondenied";s:36:"你沒有權限去評比這一項目";s:6:"rating";s:6:"評比";s:13:"ratinginvalid";s:12:"評比無效";s:10:"ratingtime";s:27:"限制在期限內評比：";s:7:"ratings";s:6:"評比";s:11:"rolewarning";s:27:"有權限去評比的角色";s:16:"rolewarning_help";s:241:"若要提交評比，用戶需要有moodle/rating:rate 權限，以及任何模組所指定的權限。
+被指派下列角色的用戶應該能夠評比項目。
+這一角色清單可以透過在"管理區塊"裡的"授權鏈結"來修改。";s:22:"scaleselectionrequired";s:105:"當你選擇一個評比的彙整類型時，你必須也選擇一個量尺或設定一個最大點數。";s:23:"privacy:metadata:rating";s:82:"The user-entered rating is stored alongside a mapping of the item which was rated.";s:30:"privacy:metadata:rating:userid";s:29:"The user who made the rating.";s:30:"privacy:metadata:rating:rating";s:41:"The numeric rating that the user entered.";s:35:"privacy:metadata:rating:timecreated";s:40:"The time that the rating was first made.";s:36:"privacy:metadata:rating:timemodified";s:42:"The time that the rating was last updated.";}

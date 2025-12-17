@@ -1,0 +1,5 @@
+a:7:{s:10:"pluginname";s:41:"Missing word格式(克漏字、填空題)";s:15:"pluginname_help";s:484:"Missing word格式能讓Moodle將克漏字題和填空題經由純文字檔匯入。你要用{ }標示出遺漏字的位置，用=表示正確答案，用~表示誘答。
+
+克漏字的格式為：一旦我們開始探索我們的身體部位，我們成為{=解剖和生理學 ~反思 ~科學 ~實驗}的學生，在某種意義上，我們保持學生的生活。
+
+填空題的格式為：您可以使用Missing word格式將試題匯入Moodle的題庫和{= 單元學習}活動中。";s:15:"pluginname_link";s:19:"qformat/missingword";s:19:"beginanswernotfound";s:68:"在匯入的檔案內容中，找不到一個必要的 "{" 字元。";s:17:"endanswernotfound";s:68:"在匯入的檔案內容中，找不到一個必要的 "}" 字元。";s:13:"noanswerfound";s:33:"在試題中找不到答案選項";s:16:"privacy:metadata";s:73:"The Missing word question format plugin does not store any personal data.";}

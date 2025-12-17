@@ -1,4 +1,4 @@
-a:583:{s:11:"rolesactive";s:1:"1";s:4:"auth";s:8:"email,db";s:21:"enrol_plugins_enabled";s:24:"manual,guest,self,cohort";s:5:"theme";s:7:"academi";s:26:"filter_multilang_converted";s:1:"1";s:14:"siteidentifier";s:41:"oU0rjfVCEbpGUQyGAYGAr9I8V0TjiMEalocalhost";s:14:"backup_version";s:10:"2025041400";s:14:"backup_release";s:3:"5.0";s:20:"mnet_dispatcher_mode";s:3:"off";s:14:"sessiontimeout";s:5:"28800";s:13:"stringfilters";s:0:"";s:9:"filterall";s:1:"0";s:11:"texteditors";s:13:"tiny,textarea";s:11:"antiviruses";s:0:"";s:23:"media_plugins_sortorder";s:15:"videojs,youtube";s:37:"upgrade_extracreditweightsstepignored";s:1:"1";s:35:"upgrade_calculatedgradeitemsignored";s:1:"1";s:29:"upgrade_letterboundarycourses";s:1:"1";s:24:"format_plugins_sortorder";s:34:"topics,weeks,singleactivity,social";s:17:"mnet_localhost_id";s:1:"1";s:17:"mnet_all_hosts_id";s:1:"2";s:9:"siteguest";s:1:"1";s:10:"siteadmins";s:1:"2";s:8:"themerev";s:10:"1765252612";s:5:"jsrev";s:10:"1765252612";s:11:"templaterev";s:10:"1765252612";s:9:"gdversion";s:1:"2";s:8:"licenses";s:95:"unknown,allrightsreserved,public,cc-4.0,cc-nc-4.0,cc-nd-4.0,cc-nc-nd-4.0,cc-nc-sa-4.0,cc-sa-4.0";s:18:"sitedefaultlicense";s:7:"unknown";s:7:"version";s:13:"2025041403.09";s:18:"enableuserfeedback";s:1:"0";s:25:"userfeedback_nextreminder";s:1:"1";s:24:"userfeedback_remindafter";s:2:"90";s:14:"enableoutcomes";s:1:"0";s:11:"usecomments";s:1:"1";s:7:"usetags";s:1:"1";s:11:"enablenotes";s:1:"1";s:16:"enableportfolios";s:1:"0";s:17:"enablewebservices";s:1:"1";s:11:"enablestats";s:1:"0";s:14:"enablerssfeeds";s:1:"0";s:11:"enableblogs";s:1:"1";s:16:"enablecompletion";s:1:"1";s:18:"enableavailability";s:1:"1";s:16:"enableplagiarism";s:1:"0";s:12:"enablebadges";s:1:"1";s:18:"enableglobalsearch";s:1:"0";s:12:"allowstealth";s:1:"0";s:15:"enableanalytics";s:1:"0";s:9:"messaging";s:1:"1";s:19:"enablecustomreports";s:1:"1";s:16:"allowemojipicker";s:1:"1";s:18:"userfiltersdefault";s:8:"realname";s:29:"defaultpreference_maildisplay";s:1:"2";s:28:"defaultpreference_mailformat";s:1:"1";s:28:"defaultpreference_maildigest";s:1:"0";s:31:"defaultpreference_autosubscribe";s:1:"1";s:29:"defaultpreference_trackforums";s:1:"0";s:45:"defaultpreference_core_contentbank_visibility";s:1:"1";s:19:"enroladminnewcourse";s:1:"1";s:15:"autologinguests";s:1:"0";s:16:"hiddenuserfields";s:0:"";s:16:"showuseridentity";s:5:"email";s:15:"fullnamedisplay";s:8:"language";s:25:"alternativefullnameformat";s:8:"language";s:15:"maxusersperpage";s:3:"100";s:14:"enablegravatar";s:1:"0";s:18:"gravatardefaulturl";s:2:"mm";s:29:"agedigitalconsentverification";s:1:"0";s:20:"agedigitalconsentmap";s:165:"*, 16
+a:583:{s:11:"rolesactive";s:1:"1";s:4:"auth";s:8:"email,db";s:21:"enrol_plugins_enabled";s:24:"manual,guest,self,cohort";s:5:"theme";s:5:"boost";s:26:"filter_multilang_converted";s:1:"1";s:14:"siteidentifier";s:41:"oU0rjfVCEbpGUQyGAYGAr9I8V0TjiMEalocalhost";s:14:"backup_version";s:10:"2025041400";s:14:"backup_release";s:3:"5.0";s:20:"mnet_dispatcher_mode";s:3:"off";s:14:"sessiontimeout";s:5:"28800";s:13:"stringfilters";s:0:"";s:9:"filterall";s:1:"0";s:11:"texteditors";s:13:"tiny,textarea";s:11:"antiviruses";s:0:"";s:23:"media_plugins_sortorder";s:15:"videojs,youtube";s:37:"upgrade_extracreditweightsstepignored";s:1:"1";s:35:"upgrade_calculatedgradeitemsignored";s:1:"1";s:29:"upgrade_letterboundarycourses";s:1:"1";s:24:"format_plugins_sortorder";s:34:"topics,weeks,singleactivity,social";s:17:"mnet_localhost_id";s:1:"1";s:17:"mnet_all_hosts_id";s:1:"2";s:9:"siteguest";s:1:"1";s:10:"siteadmins";s:1:"2";s:8:"themerev";s:10:"1765931404";s:5:"jsrev";s:10:"1765931404";s:11:"templaterev";s:10:"1765931404";s:9:"gdversion";s:1:"2";s:8:"licenses";s:95:"unknown,allrightsreserved,public,cc-4.0,cc-nc-4.0,cc-nd-4.0,cc-nc-nd-4.0,cc-nc-sa-4.0,cc-sa-4.0";s:18:"sitedefaultlicense";s:7:"unknown";s:7:"version";s:13:"2025041403.09";s:18:"enableuserfeedback";s:1:"0";s:25:"userfeedback_nextreminder";s:1:"1";s:24:"userfeedback_remindafter";s:2:"90";s:14:"enableoutcomes";s:1:"0";s:11:"usecomments";s:1:"1";s:7:"usetags";s:1:"1";s:11:"enablenotes";s:1:"1";s:16:"enableportfolios";s:1:"0";s:17:"enablewebservices";s:1:"1";s:11:"enablestats";s:1:"0";s:14:"enablerssfeeds";s:1:"0";s:11:"enableblogs";s:1:"1";s:16:"enablecompletion";s:1:"1";s:18:"enableavailability";s:1:"1";s:16:"enableplagiarism";s:1:"0";s:12:"enablebadges";s:1:"1";s:18:"enableglobalsearch";s:1:"0";s:12:"allowstealth";s:1:"0";s:15:"enableanalytics";s:1:"0";s:9:"messaging";s:1:"1";s:19:"enablecustomreports";s:1:"1";s:16:"allowemojipicker";s:1:"1";s:18:"userfiltersdefault";s:8:"realname";s:29:"defaultpreference_maildisplay";s:1:"2";s:28:"defaultpreference_mailformat";s:1:"1";s:28:"defaultpreference_maildigest";s:1:"0";s:31:"defaultpreference_autosubscribe";s:1:"1";s:29:"defaultpreference_trackforums";s:1:"0";s:45:"defaultpreference_core_contentbank_visibility";s:1:"1";s:19:"enroladminnewcourse";s:1:"1";s:15:"autologinguests";s:1:"0";s:16:"hiddenuserfields";s:0:"";s:16:"showuseridentity";s:5:"email";s:15:"fullnamedisplay";s:8:"language";s:25:"alternativefullnameformat";s:8:"language";s:15:"maxusersperpage";s:3:"100";s:14:"enablegravatar";s:1:"0";s:18:"gravatardefaulturl";s:2:"mm";s:29:"agedigitalconsentverification";s:1:"0";s:20:"agedigitalconsentmap";s:165:"*, 16
 AT, 14
 BE, 13
 BG, 14
@@ -22,7 +22,7 @@ US, 13";s:10:"sitepolicy";s:0:"";s:15:"sitepolicyguest";s:0:"";s:22:"activitycho
 Canada|https://ca.badgr.io|https://api.ca.badgr.io/v2
 Europe|https://eu.badgr.io|https://api.eu.badgr.io/v2
 Singapore|https://sg.badgr.io|https://api.sg.badgr.io/v2
-United States|https://badgr.io|https://api.badgr.io/v2";s:23:"rememberuserlicensepref";s:1:"1";s:13:"forcetimezone";s:2:"99";s:7:"country";s:1:"0";s:11:"defaultcity";s:0:"";s:15:"allcountrycodes";s:0:"";s:10:"geoip2file";s:35:"C:\moodledata/geoip/GeoIP-City.mmdb";s:14:"geoipdbedition";s:13:"GeoLite2-City";s:17:"geoipmaxmindaccid";s:0:"";s:22:"geoipmaxmindlicensekey";s:0:"";s:13:"googlemapkey3";s:0:"";s:15:"geopluginapikey";s:0:"";s:8:"autolang";s:1:"1";s:4:"lang";s:5:"zh_tw";s:20:"autolangusercreation";s:1:"1";s:8:"langmenu";s:1:"1";s:8:"langlist";s:0:"";s:7:"langrev";s:10:"1765252612";s:9:"langcache";s:1:"1";s:15:"langstringcache";s:1:"1";s:6:"locale";s:0:"";s:16:"latinexcelexport";s:1:"0";s:19:"enablepdfexportfont";s:1:"0";s:17:"messagingallusers";s:1:"0";s:26:"messagingdefaultpressenter";s:1:"1";s:37:"messagingdeletereadnotificationsdelay";s:6:"604800";s:36:"messagingdeleteallnotificationsdelay";s:7:"2620800";s:27:"messagingallowemailoverride";s:1:"0";s:15:"requiremodintro";s:1:"0";s:17:"authloginviaemail";s:1:"0";s:22:"allowaccountssameemail";s:1:"0";s:26:"authpreventaccountcreation";s:1:"0";s:18:"loginpageautofocus";s:1:"0";s:16:"guestloginbutton";s:1:"1";s:21:"limitconcurrentlogins";s:1:"0";s:17:"alternateloginurl";s:26:"http://localhost/index.php";s:13:"showloginform";s:1:"1";s:20:"forgottenpasswordurl";s:0:"";s:17:"auth_instructions";s:0:"";s:19:"allowemailaddresses";s:0:"";s:18:"denyemailaddresses";s:0:"";s:18:"verifychangedemail";s:1:"1";s:20:"enableloginrecaptcha";s:1:"0";s:18:"recaptchapublickey";s:0:"";s:19:"recaptchaprivatekey";s:0:"";s:19:"loginpasswordtoggle";s:1:"2";s:19:"filteruploadedfiles";s:1:"0";s:21:"filtermatchoneperpage";s:1:"0";s:21:"filtermatchonepertext";s:1:"0";s:33:"filternavigationwithsystemcontext";s:1:"1";s:19:"media_default_width";s:3:"640";s:20:"media_default_height";s:3:"360";s:37:"portfolio_moderate_filesize_threshold";s:7:"1048576";s:33:"portfolio_high_filesize_threshold";s:7:"5242880";s:31:"portfolio_moderate_db_threshold";s:2:"20";s:27:"portfolio_high_db_threshold";s:2:"50";s:20:"questiondefaultssave";s:1:"1";s:21:"repositorycacheexpire";s:3:"120";s:24:"repositorygetfiletimeout";s:2:"30";s:25:"repositorysyncfiletimeout";s:1:"1";s:26:"repositorysyncimagetimeout";s:1:"3";s:28:"repositoryallowexternallinks";s:1:"1";s:23:"legacyfilesinnewcourses";s:1:"0";s:21:"legacyfilesaddallowed";s:1:"1";s:12:"searchengine";s:8:"simpledb";s:23:"searchindexwhendisabled";s:1:"0";s:15:"searchindextime";s:3:"600";s:25:"searchallavailablecourses";s:1:"0";s:23:"searchincludeallcourses";s:1:"0";s:22:"searchenablecategories";s:1:"0";s:21:"searchdefaultcategory";s:8:"core-all";s:21:"searchhideallcategory";s:1:"0";s:19:"searchmaxtopresults";s:1:"3";s:18:"searchteacherroles";s:0:"";s:21:"searchenginequeryonly";s:0:"";s:18:"searchbannerenable";s:1:"0";s:12:"searchbanner";s:0:"";s:16:"allowbeforeblock";s:1:"0";s:9:"allowedip";s:0:"";s:9:"blockedip";s:0:"";s:16:"protectusernames";s:1:"1";s:10:"forcelogin";s:1:"0";s:21:"forceloginforprofiles";s:1:"1";s:25:"forceloginforprofileimage";s:1:"0";s:17:"opentowebcrawlers";s:1:"0";s:13:"allowindexing";s:1:"0";s:8:"maxbytes";s:1:"0";s:9:"userquota";s:9:"104857600";s:16:"allowobjectembed";s:1:"0";s:15:"enabletrusttext";s:1:"0";s:14:"maxeditingtime";s:4:"1800";s:21:"extendedusernamechars";s:1:"0";s:15:"keeptagnamecase";s:1:"1";s:28:"profilesforenrolledusersonly";s:1:"1";s:11:"cronclionly";s:1:"1";s:18:"cronremotepassword";s:0:"";s:16:"lockoutthreshold";s:1:"0";s:13:"lockoutwindow";s:4:"1800";s:15:"lockoutduration";s:4:"1800";s:14:"passwordpolicy";s:1:"1";s:17:"minpasswordlength";s:1:"8";s:17:"minpassworddigits";s:1:"1";s:16:"minpasswordlower";s:1:"1";s:16:"minpasswordupper";s:1:"1";s:22:"minpasswordnonalphanum";s:1:"1";s:24:"maxconsecutiveidentchars";s:1:"0";s:26:"passwordpolicycheckonlogin";s:1:"0";s:18:"passwordreuselimit";s:1:"0";s:11:"pwresettime";s:4:"1800";s:20:"passwordchangelogout";s:1:"1";s:27:"passwordchangetokendeletion";s:1:"0";s:13:"tokenduration";s:7:"7257600";s:23:"groupenrolmentkeypolicy";s:1:"1";s:17:"disableuserimages";s:1:"0";s:23:"emailchangeconfirmation";s:1:"1";s:16:"rememberusername";s:1:"2";s:19:"strictformsrequired";s:1:"0";s:12:"cookiesecure";s:1:"1";s:18:"allowframembedding";s:1:"0";s:24:"curlsecurityblockedhosts";s:100:"127.0.0.0/8
+United States|https://badgr.io|https://api.badgr.io/v2";s:23:"rememberuserlicensepref";s:1:"1";s:13:"forcetimezone";s:2:"99";s:7:"country";s:1:"0";s:11:"defaultcity";s:0:"";s:15:"allcountrycodes";s:0:"";s:10:"geoip2file";s:35:"C:\moodledata/geoip/GeoIP-City.mmdb";s:14:"geoipdbedition";s:13:"GeoLite2-City";s:17:"geoipmaxmindaccid";s:0:"";s:22:"geoipmaxmindlicensekey";s:0:"";s:13:"googlemapkey3";s:0:"";s:15:"geopluginapikey";s:0:"";s:8:"autolang";s:1:"1";s:4:"lang";s:5:"zh_tw";s:20:"autolangusercreation";s:1:"1";s:8:"langmenu";s:1:"1";s:8:"langlist";s:0:"";s:7:"langrev";s:10:"1765931404";s:9:"langcache";s:1:"1";s:15:"langstringcache";s:1:"1";s:6:"locale";s:0:"";s:16:"latinexcelexport";s:1:"0";s:19:"enablepdfexportfont";s:1:"0";s:17:"messagingallusers";s:1:"0";s:26:"messagingdefaultpressenter";s:1:"1";s:37:"messagingdeletereadnotificationsdelay";s:6:"604800";s:36:"messagingdeleteallnotificationsdelay";s:7:"2620800";s:27:"messagingallowemailoverride";s:1:"0";s:15:"requiremodintro";s:1:"0";s:17:"authloginviaemail";s:1:"0";s:22:"allowaccountssameemail";s:1:"0";s:26:"authpreventaccountcreation";s:1:"0";s:18:"loginpageautofocus";s:1:"0";s:16:"guestloginbutton";s:1:"1";s:21:"limitconcurrentlogins";s:1:"0";s:17:"alternateloginurl";s:26:"http://localhost/index.php";s:13:"showloginform";s:1:"1";s:20:"forgottenpasswordurl";s:0:"";s:17:"auth_instructions";s:0:"";s:19:"allowemailaddresses";s:0:"";s:18:"denyemailaddresses";s:0:"";s:18:"verifychangedemail";s:1:"1";s:20:"enableloginrecaptcha";s:1:"0";s:18:"recaptchapublickey";s:0:"";s:19:"recaptchaprivatekey";s:0:"";s:19:"loginpasswordtoggle";s:1:"2";s:19:"filteruploadedfiles";s:1:"0";s:21:"filtermatchoneperpage";s:1:"0";s:21:"filtermatchonepertext";s:1:"0";s:33:"filternavigationwithsystemcontext";s:1:"1";s:19:"media_default_width";s:3:"640";s:20:"media_default_height";s:3:"360";s:37:"portfolio_moderate_filesize_threshold";s:7:"1048576";s:33:"portfolio_high_filesize_threshold";s:7:"5242880";s:31:"portfolio_moderate_db_threshold";s:2:"20";s:27:"portfolio_high_db_threshold";s:2:"50";s:20:"questiondefaultssave";s:1:"1";s:21:"repositorycacheexpire";s:3:"120";s:24:"repositorygetfiletimeout";s:2:"30";s:25:"repositorysyncfiletimeout";s:1:"1";s:26:"repositorysyncimagetimeout";s:1:"3";s:28:"repositoryallowexternallinks";s:1:"1";s:23:"legacyfilesinnewcourses";s:1:"0";s:21:"legacyfilesaddallowed";s:1:"1";s:12:"searchengine";s:8:"simpledb";s:23:"searchindexwhendisabled";s:1:"0";s:15:"searchindextime";s:3:"600";s:25:"searchallavailablecourses";s:1:"0";s:23:"searchincludeallcourses";s:1:"0";s:22:"searchenablecategories";s:1:"0";s:21:"searchdefaultcategory";s:8:"core-all";s:21:"searchhideallcategory";s:1:"0";s:19:"searchmaxtopresults";s:1:"3";s:18:"searchteacherroles";s:0:"";s:21:"searchenginequeryonly";s:0:"";s:18:"searchbannerenable";s:1:"0";s:12:"searchbanner";s:0:"";s:16:"allowbeforeblock";s:1:"0";s:9:"allowedip";s:0:"";s:9:"blockedip";s:0:"";s:16:"protectusernames";s:1:"1";s:10:"forcelogin";s:1:"0";s:21:"forceloginforprofiles";s:1:"1";s:25:"forceloginforprofileimage";s:1:"0";s:17:"opentowebcrawlers";s:1:"0";s:13:"allowindexing";s:1:"0";s:8:"maxbytes";s:1:"0";s:9:"userquota";s:9:"104857600";s:16:"allowobjectembed";s:1:"0";s:15:"enabletrusttext";s:1:"0";s:14:"maxeditingtime";s:4:"1800";s:21:"extendedusernamechars";s:1:"0";s:15:"keeptagnamecase";s:1:"1";s:28:"profilesforenrolledusersonly";s:1:"1";s:11:"cronclionly";s:1:"1";s:18:"cronremotepassword";s:0:"";s:16:"lockoutthreshold";s:1:"0";s:13:"lockoutwindow";s:4:"1800";s:15:"lockoutduration";s:4:"1800";s:14:"passwordpolicy";s:1:"1";s:17:"minpasswordlength";s:1:"8";s:17:"minpassworddigits";s:1:"1";s:16:"minpasswordlower";s:1:"1";s:16:"minpasswordupper";s:1:"1";s:22:"minpasswordnonalphanum";s:1:"1";s:24:"maxconsecutiveidentchars";s:1:"0";s:26:"passwordpolicycheckonlogin";s:1:"0";s:18:"passwordreuselimit";s:1:"0";s:11:"pwresettime";s:4:"1800";s:20:"passwordchangelogout";s:1:"1";s:27:"passwordchangetokendeletion";s:1:"0";s:13:"tokenduration";s:7:"7257600";s:23:"groupenrolmentkeypolicy";s:1:"1";s:17:"disableuserimages";s:1:"0";s:23:"emailchangeconfirmation";s:1:"1";s:16:"rememberusername";s:1:"2";s:19:"strictformsrequired";s:1:"0";s:12:"cookiesecure";s:1:"1";s:18:"allowframembedding";s:1:"0";s:24:"curlsecurityblockedhosts";s:100:"127.0.0.0/8
 192.168.0.0/16
 10.0.0.0/8
 172.16.0.0/12
@@ -30,197 +30,1396 @@ United States|https://badgr.io|https://api.badgr.io/v2";s:23:"rememberuserlicens
 localhost
 169.254.169.254
 0000::1";s:23:"curlsecurityallowedport";s:7:"443
-80";s:14:"referrerpolicy";s:7:"default";s:20:"displayloginfailures";s:1:"0";s:19:"notifyloginfailures";s:0:"";s:20:"notifyloginthreshold";s:2:"10";s:12:"calendartype";s:9:"gregorian";s:21:"calendar_adminseesall";s:1:"0";s:24:"calendar_site_timeformat";s:1:"0";s:18:"calendar_startwday";s:1:"1";s:16:"calendar_weekend";s:2:"65";s:18:"calendar_lookahead";s:2:"21";s:18:"calendar_maxevents";s:2:"10";s:20:"enablecalendarexport";s:1:"1";s:21:"calendar_customexport";s:1:"1";s:24:"calendar_exportlookahead";s:3:"365";s:23:"calendar_exportlookback";s:1:"5";s:19:"calendar_exportsalt";s:60:"I7qgRMECWaSUitujfOpJve9Cvs1djqoBflootGPOtwbkQBmaCuVxprs9m90f";s:23:"calendar_showicalsource";s:1:"1";s:19:"useblogassociations";s:1:"1";s:9:"bloglevel";s:1:"4";s:16:"useexternalblogs";s:1:"1";s:20:"externalblogcrontime";s:5:"86400";s:23:"maxexternalblogsperuser";s:1:"1";s:15:"blogusecomments";s:1:"1";s:21:"blogshowcommentscount";s:1:"1";s:15:"enabledashboard";s:1:"1";s:15:"defaulthomepage";s:1:"1";s:18:"allowguestmymoodle";s:1:"1";s:22:"navshowfullcoursenames";s:1:"0";s:17:"navshowcategories";s:1:"1";s:25:"navshowmycoursecategories";s:1:"0";s:17:"navshowallcourses";s:1:"0";s:20:"navsortmycoursessort";s:9:"sortorder";s:26:"navsortmycourseshiddenlast";s:1:"1";s:14:"navcourselimit";s:2:"10";s:23:"usesitenameforsitepages";s:1:"0";s:19:"linkadmincategories";s:1:"1";s:20:"navshowfrontpagemods";s:1:"1";s:20:"navadduserpostslinks";s:1:"1";s:15:"sitenameintitle";s:9:"shortname";s:21:"formatstringstriptags";s:1:"1";s:9:"emoticons";s:3388:"[{"text":":-)","imagename":"s\/smiley","imagecomponent":"core","altidentifier":"smiley","altcomponent":"core_pix"},{"text":":)","imagename":"s\/smiley","imagecomponent":"core","altidentifier":"smiley","altcomponent":"core_pix"},{"text":":-D","imagename":"s\/biggrin","imagecomponent":"core","altidentifier":"biggrin","altcomponent":"core_pix"},{"text":";-)","imagename":"s\/wink","imagecomponent":"core","altidentifier":"wink","altcomponent":"core_pix"},{"text":":-\/","imagename":"s\/mixed","imagecomponent":"core","altidentifier":"mixed","altcomponent":"core_pix"},{"text":"V-.","imagename":"s\/thoughtful","imagecomponent":"core","altidentifier":"thoughtful","altcomponent":"core_pix"},{"text":":-P","imagename":"s\/tongueout","imagecomponent":"core","altidentifier":"tongueout","altcomponent":"core_pix"},{"text":":-p","imagename":"s\/tongueout","imagecomponent":"core","altidentifier":"tongueout","altcomponent":"core_pix"},{"text":"B-)","imagename":"s\/cool","imagecomponent":"core","altidentifier":"cool","altcomponent":"core_pix"},{"text":"^-)","imagename":"s\/approve","imagecomponent":"core","altidentifier":"approve","altcomponent":"core_pix"},{"text":"8-)","imagename":"s\/wideeyes","imagecomponent":"core","altidentifier":"wideeyes","altcomponent":"core_pix"},{"text":":o)","imagename":"s\/clown","imagecomponent":"core","altidentifier":"clown","altcomponent":"core_pix"},{"text":":-(","imagename":"s\/sad","imagecomponent":"core","altidentifier":"sad","altcomponent":"core_pix"},{"text":":(","imagename":"s\/sad","imagecomponent":"core","altidentifier":"sad","altcomponent":"core_pix"},{"text":"8-.","imagename":"s\/shy","imagecomponent":"core","altidentifier":"shy","altcomponent":"core_pix"},{"text":":-I","imagename":"s\/blush","imagecomponent":"core","altidentifier":"blush","altcomponent":"core_pix"},{"text":":-X","imagename":"s\/kiss","imagecomponent":"core","altidentifier":"kiss","altcomponent":"core_pix"},{"text":"8-o","imagename":"s\/surprise","imagecomponent":"core","altidentifier":"surprise","altcomponent":"core_pix"},{"text":"P-|","imagename":"s\/blackeye","imagecomponent":"core","altidentifier":"blackeye","altcomponent":"core_pix"},{"text":"8-[","imagename":"s\/angry","imagecomponent":"core","altidentifier":"angry","altcomponent":"core_pix"},{"text":"(grr)","imagename":"s\/angry","imagecomponent":"core","altidentifier":"angry","altcomponent":"core_pix"},{"text":"xx-P","imagename":"s\/dead","imagecomponent":"core","altidentifier":"dead","altcomponent":"core_pix"},{"text":"|-.","imagename":"s\/sleepy","imagecomponent":"core","altidentifier":"sleepy","altcomponent":"core_pix"},{"text":"}-]","imagename":"s\/evil","imagecomponent":"core","altidentifier":"evil","altcomponent":"core_pix"},{"text":"(h)","imagename":"s\/heart","imagecomponent":"core","altidentifier":"heart","altcomponent":"core_pix"},{"text":"(heart)","imagename":"s\/heart","imagecomponent":"core","altidentifier":"heart","altcomponent":"core_pix"},{"text":"(y)","imagename":"s\/yes","imagecomponent":"core","altidentifier":"yes","altcomponent":"core"},{"text":"(n)","imagename":"s\/no","imagecomponent":"core","altidentifier":"no","altcomponent":"core"},{"text":"(martin)","imagename":"s\/martin","imagecomponent":"core","altidentifier":"martin","altcomponent":"core_pix"},{"text":"( )","imagename":"s\/egg","imagecomponent":"core","altidentifier":"egg","altcomponent":"core_pix"}]";s:7:"docroot";s:23:"https://docs.moodle.org";s:7:"doclang";s:0:"";s:14:"doctonewwindow";s:1:"0";s:19:"coursecreationguide";s:39:"https://moodle.academy/coursequickstart";s:23:"coursecontactduplicates";s:1:"0";s:20:"courselistshortnames";s:1:"0";s:14:"coursesperpage";s:2:"20";s:25:"courseswithsummarieslimit";s:2:"10";s:24:"courseoverviewfileslimit";s:1:"1";s:22:"courseoverviewfilesext";s:9:"web_image";s:23:"coursegraceperiodbefore";s:1:"0";s:22:"coursegraceperiodafter";s:1:"0";s:15:"yuicomboloading";s:1:"1";s:7:"cachejs";s:1:"1";s:18:"additionalhtmlhead";s:0:"";s:23:"additionalhtmltopofbody";s:8751:"<style>
-    /* 1. 隱藏 Moodle 舊導覽列 */
-    nav.fixed-top, .navbar.fixed-top, .primary-navigation { display: none !important; }
+80";s:14:"referrerpolicy";s:7:"default";s:20:"displayloginfailures";s:1:"0";s:19:"notifyloginfailures";s:0:"";s:20:"notifyloginthreshold";s:2:"10";s:12:"calendartype";s:9:"gregorian";s:21:"calendar_adminseesall";s:1:"0";s:24:"calendar_site_timeformat";s:1:"0";s:18:"calendar_startwday";s:1:"1";s:16:"calendar_weekend";s:2:"65";s:18:"calendar_lookahead";s:2:"21";s:18:"calendar_maxevents";s:2:"10";s:20:"enablecalendarexport";s:1:"1";s:21:"calendar_customexport";s:1:"1";s:24:"calendar_exportlookahead";s:3:"365";s:23:"calendar_exportlookback";s:1:"5";s:19:"calendar_exportsalt";s:60:"I7qgRMECWaSUitujfOpJve9Cvs1djqoBflootGPOtwbkQBmaCuVxprs9m90f";s:23:"calendar_showicalsource";s:1:"1";s:19:"useblogassociations";s:1:"1";s:9:"bloglevel";s:1:"4";s:16:"useexternalblogs";s:1:"1";s:20:"externalblogcrontime";s:5:"86400";s:23:"maxexternalblogsperuser";s:1:"1";s:15:"blogusecomments";s:1:"1";s:21:"blogshowcommentscount";s:1:"1";s:15:"enabledashboard";s:1:"1";s:15:"defaulthomepage";s:1:"1";s:18:"allowguestmymoodle";s:1:"1";s:22:"navshowfullcoursenames";s:1:"0";s:17:"navshowcategories";s:1:"1";s:25:"navshowmycoursecategories";s:1:"0";s:17:"navshowallcourses";s:1:"0";s:20:"navsortmycoursessort";s:9:"sortorder";s:26:"navsortmycourseshiddenlast";s:1:"1";s:14:"navcourselimit";s:2:"10";s:23:"usesitenameforsitepages";s:1:"0";s:19:"linkadmincategories";s:1:"1";s:20:"navshowfrontpagemods";s:1:"1";s:20:"navadduserpostslinks";s:1:"1";s:15:"sitenameintitle";s:9:"shortname";s:21:"formatstringstriptags";s:1:"1";s:9:"emoticons";s:3388:"[{"text":":-)","imagename":"s\/smiley","imagecomponent":"core","altidentifier":"smiley","altcomponent":"core_pix"},{"text":":)","imagename":"s\/smiley","imagecomponent":"core","altidentifier":"smiley","altcomponent":"core_pix"},{"text":":-D","imagename":"s\/biggrin","imagecomponent":"core","altidentifier":"biggrin","altcomponent":"core_pix"},{"text":";-)","imagename":"s\/wink","imagecomponent":"core","altidentifier":"wink","altcomponent":"core_pix"},{"text":":-\/","imagename":"s\/mixed","imagecomponent":"core","altidentifier":"mixed","altcomponent":"core_pix"},{"text":"V-.","imagename":"s\/thoughtful","imagecomponent":"core","altidentifier":"thoughtful","altcomponent":"core_pix"},{"text":":-P","imagename":"s\/tongueout","imagecomponent":"core","altidentifier":"tongueout","altcomponent":"core_pix"},{"text":":-p","imagename":"s\/tongueout","imagecomponent":"core","altidentifier":"tongueout","altcomponent":"core_pix"},{"text":"B-)","imagename":"s\/cool","imagecomponent":"core","altidentifier":"cool","altcomponent":"core_pix"},{"text":"^-)","imagename":"s\/approve","imagecomponent":"core","altidentifier":"approve","altcomponent":"core_pix"},{"text":"8-)","imagename":"s\/wideeyes","imagecomponent":"core","altidentifier":"wideeyes","altcomponent":"core_pix"},{"text":":o)","imagename":"s\/clown","imagecomponent":"core","altidentifier":"clown","altcomponent":"core_pix"},{"text":":-(","imagename":"s\/sad","imagecomponent":"core","altidentifier":"sad","altcomponent":"core_pix"},{"text":":(","imagename":"s\/sad","imagecomponent":"core","altidentifier":"sad","altcomponent":"core_pix"},{"text":"8-.","imagename":"s\/shy","imagecomponent":"core","altidentifier":"shy","altcomponent":"core_pix"},{"text":":-I","imagename":"s\/blush","imagecomponent":"core","altidentifier":"blush","altcomponent":"core_pix"},{"text":":-X","imagename":"s\/kiss","imagecomponent":"core","altidentifier":"kiss","altcomponent":"core_pix"},{"text":"8-o","imagename":"s\/surprise","imagecomponent":"core","altidentifier":"surprise","altcomponent":"core_pix"},{"text":"P-|","imagename":"s\/blackeye","imagecomponent":"core","altidentifier":"blackeye","altcomponent":"core_pix"},{"text":"8-[","imagename":"s\/angry","imagecomponent":"core","altidentifier":"angry","altcomponent":"core_pix"},{"text":"(grr)","imagename":"s\/angry","imagecomponent":"core","altidentifier":"angry","altcomponent":"core_pix"},{"text":"xx-P","imagename":"s\/dead","imagecomponent":"core","altidentifier":"dead","altcomponent":"core_pix"},{"text":"|-.","imagename":"s\/sleepy","imagecomponent":"core","altidentifier":"sleepy","altcomponent":"core_pix"},{"text":"}-]","imagename":"s\/evil","imagecomponent":"core","altidentifier":"evil","altcomponent":"core_pix"},{"text":"(h)","imagename":"s\/heart","imagecomponent":"core","altidentifier":"heart","altcomponent":"core_pix"},{"text":"(heart)","imagename":"s\/heart","imagecomponent":"core","altidentifier":"heart","altcomponent":"core_pix"},{"text":"(y)","imagename":"s\/yes","imagecomponent":"core","altidentifier":"yes","altcomponent":"core"},{"text":"(n)","imagename":"s\/no","imagecomponent":"core","altidentifier":"no","altcomponent":"core"},{"text":"(martin)","imagename":"s\/martin","imagecomponent":"core","altidentifier":"martin","altcomponent":"core_pix"},{"text":"( )","imagename":"s\/egg","imagecomponent":"core","altidentifier":"egg","altcomponent":"core_pix"}]";s:7:"docroot";s:23:"https://docs.moodle.org";s:7:"doclang";s:0:"";s:14:"doctonewwindow";s:1:"0";s:19:"coursecreationguide";s:39:"https://moodle.academy/coursequickstart";s:23:"coursecontactduplicates";s:1:"0";s:20:"courselistshortnames";s:1:"0";s:14:"coursesperpage";s:2:"20";s:25:"courseswithsummarieslimit";s:2:"10";s:24:"courseoverviewfileslimit";s:1:"1";s:22:"courseoverviewfilesext";s:9:"web_image";s:23:"coursegraceperiodbefore";s:1:"0";s:22:"coursegraceperiodafter";s:1:"0";s:15:"yuicomboloading";s:1:"1";s:7:"cachejs";s:1:"1";s:18:"additionalhtmlhead";s:30351:"<!-- 
+    ============================================
+    雲嘉學習網 - Moodle 完整自訂主題 v4.0
+    ============================================
+    
+    貼到：「網站管理」→「外觀」→「額外的HTML」→「在HEAD區段內」
+    
+    ============================================
+-->
 
-    /* 2. ★★★ 高度修正區 ★★★ */
-    html, body {
+<!-- 載入 Google 字體 -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+    /* ==========================================
+   CSS 變數 (與入口網一致)
+   ========================================== */
+    :root {
+        --primary: #2563eb;
+        --primary-dark: #1d4ed8;
+        --primary-light: #3b82f6;
+        --accent: #06b6d4;
+        --accent-light: #22d3ee;
+        --text-primary: #1e293b;
+        --text-secondary: #475569;
+        --text-muted: #94a3b8;
+        --radius-sm: 8px;
+        --radius-md: 12px;
+        --radius-lg: 16px;
+        --radius-xl: 24px;
+        --transition-fast: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    /* ==========================================
+   隱藏 Moodle 原生導覽列
+   ========================================== */
+    header#header,
+    .navbar.fixed-top,
+    nav.navbar,
+    .primary-navigation,
+    .page-context-header,
+    header.navbar,
+    .navbar-academi,
+    .academi-header {
+        display: none !important;
+    }
+
+    /* 保留麵包屑導覽 */
+    #page-header {
+        background: transparent !important;
+        padding: 15px 30px !important;
+        margin-top: 5px !important;
+        margin-bottom: 20px !important;
+    }
+
+    #page-header .breadcrumb {
+        background: transparent !important;
+        backdrop-filter: none !important;
+        padding: 8px 0 !important;
+        border-radius: 0 !important;
+        box-shadow: none !important;
+    }
+
+    #page-header .breadcrumb a {
+        color: var(--primary) !important;
+    }
+
+    #page-header .breadcrumb-item.active {
+        color: var(--text-secondary) !important;
+    }
+
+    /* ==========================================
+   全域背景 - 淺藍漸層
+   ========================================== */
+    body {
+        background: linear-gradient(135deg, #e8f4fc 0%, #f0f4ff 25%, #f8f0ff 50%, #f0f8ff 75%, #e8f4fc 100%) !important;
+        background-attachment: fixed !important;
+        font-family: 'Inter', 'Microsoft JhengHei', -apple-system, sans-serif !important;
+        color: var(--text-primary) !important;
+        padding-top: 70px !important;
+    }
+
+    /* 漸層光暈動畫背景 */
+    body::before {
+        content: '';
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        pointer-events: none;
+        z-index: 0;
+        background:
+            radial-gradient(ellipse 600px 400px at 15% 20%, rgba(99, 179, 237, 0.25) 0%, transparent 70%),
+            radial-gradient(ellipse 500px 350px at 85% 25%, rgba(167, 139, 250, 0.2) 0%, transparent 70%),
+            radial-gradient(ellipse 450px 300px at 75% 80%, rgba(236, 72, 153, 0.12) 0%, transparent 70%),
+            radial-gradient(ellipse 550px 400px at 25% 75%, rgba(52, 211, 153, 0.15) 0%, transparent 70%);
+        animation: bgGradientFloat 25s ease-in-out infinite;
+    }
+
+    /* 浮游粒子效果 */
+    body::after {
+        content: '';
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        pointer-events: none;
+        z-index: 0;
+        background-image:
+            radial-gradient(3px 3px at 20px 30px, rgba(37, 99, 235, 0.25), transparent),
+            radial-gradient(3px 3px at 80px 70px, rgba(6, 182, 212, 0.2), transparent),
+            radial-gradient(2px 2px at 140px 40px, rgba(99, 102, 241, 0.2), transparent),
+            radial-gradient(3px 3px at 180px 90px, rgba(6, 182, 212, 0.2), transparent),
+            radial-gradient(2px 2px at 50px 120px, rgba(37, 99, 235, 0.15), transparent);
+        background-size: 200px 150px;
+        animation: bodyParticleFloat 30s linear infinite;
+    }
+
+    @keyframes bgGradientFloat {
+
+        0%,
+        100% {
+            transform: translate(0, 0) scale(1);
+        }
+
+        25% {
+            transform: translate(2%, 3%) scale(1.02);
+        }
+
+        50% {
+            transform: translate(-1%, 2%) scale(1);
+        }
+
+        75% {
+            transform: translate(3%, -2%) scale(1.01);
+        }
+    }
+
+    @keyframes bodyParticleFloat {
+        0% {
+            background-position: 0 0;
+        }
+
+        100% {
+            background-position: 150px -350px;
+        }
+    }
+
+    /* ==========================================
+   自訂導覽列樣式
+   ========================================== */
+    #portal-global-nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 70px;
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(25px) saturate(200%);
+        -webkit-backdrop-filter: blur(25px) saturate(200%);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.08);
+        z-index: 9999;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 30px;
+    }
+
+    .pg-brand {
+        font-size: 20px;
+        font-weight: 600;
+        color: #475569 !important;
+        text-decoration: none !important;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        transition: var(--transition-fast);
+        cursor: pointer !important;
+    }
+
+    .pg-brand:hover {
+        color: var(--accent-light) !important;
+    }
+
+    .pg-brand i {
+        font-size: 24px;
+        color: var(--accent-light);
+        background: none;
+        -webkit-background-clip: border-box;
+        -webkit-text-fill-color: initial;
+        filter: none;
+    }
+
+    .pg-menu {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        margin-left: 30px;
+    }
+
+    .pg-divider {
+        width: 1px;
+        height: 24px;
+        background: rgba(0, 0, 0, 0.1);
+        margin: 0 10px;
+    }
+
+    .pg-admin-only {
+        display: flex;
+        align-items: center;
+    }
+
+    .pg-link {
+        text-decoration: none !important;
+        /* Moodle 常強制加底線，保留 important */
+        color: var(--text-secondary) !important;
+        /* Moodle 連結預設為藍色，必須強制覆蓋 */
+        font-size: 14px;
+        font-weight: 500;
+        padding: 10px 16px;
+        border-radius: var(--radius-sm);
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        transition: var(--transition-fast);
+        cursor: pointer;
+    }
+
+    /* 增加選擇器權重以避免依賴 important */
+    #portal-global-nav .pg-link:hover {
+        color: var(--accent);
+        background: rgba(6, 182, 212, 0.08);
+    }
+
+    /* 增加選擇器權重 */
+    #portal-global-nav .pg-link-active {
+        color: var(--primary);
+        background: rgba(37, 99, 235, 0.08);
+    }
+
+    .pg-link i {
+        font-size: 15px;
+    }
+
+    /* 下拉選單 */
+    .pg-dropdown {
+        position: relative;
+        cursor: pointer;
+    }
+
+    .pg-dropdown-content {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        padding-top: 8px;
+        z-index: 100;
+        min-width: 200px;
+    }
+
+    .pg-dropdown-content>a,
+    .pg-dropdown-content>.pg-dropdown-divider {
+        background: rgba(255, 255, 255, 0.98);
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
+        display: block;
+    }
+
+    .pg-dropdown-content>a:first-child {
+        border-radius: var(--radius-md) var(--radius-md) 0 0;
+        border: 1px solid rgba(37, 99, 235, 0.1);
+        border-bottom: none;
+    }
+
+    .pg-dropdown-content>a:last-child {
+        border-radius: 0 0 var(--radius-md) var(--radius-md);
+        border: 1px solid rgba(37, 99, 235, 0.1);
+        border-top: none;
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+    }
+
+    .pg-dropdown-content>a:only-child {
+        border-radius: var(--radius-md);
+        border: 1px solid rgba(37, 99, 235, 0.1);
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+    }
+
+    .pg-dropdown-divider {
+        height: 1px;
+        background: rgba(0, 0, 0, 0.08) !important;
+        margin: 4px 0;
+        border-left: 1px solid rgba(37, 99, 235, 0.1);
+        border-right: 1px solid rgba(37, 99, 235, 0.1);
+    }
+
+    @keyframes dropdownFade {
+        from {
+            opacity: 0;
+            transform: translateY(-10px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    .pg-dropdown:hover .pg-dropdown-content {
+        display: block;
+        animation: dropdownFade 0.2s ease forwards;
+    }
+
+    .pg-dropdown-content a {
+        color: var(--text-secondary) !important;
+        padding: 12px 18px;
+        text-decoration: none !important;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-size: 14px;
+        transition: var(--transition-fast);
+        border-left: 1px solid rgba(37, 99, 235, 0.1);
+        border-right: 1px solid rgba(37, 99, 235, 0.1);
+    }
+
+    .pg-dropdown-content a:hover {
+        background: rgba(37, 99, 235, 0.08);
+        color: var(--primary) !important;
+    }
+
+    .pg-back-portal {
+        color: var(--accent) !important;
+    }
+
+    /* 右側區域 */
+    #pg-right-area {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .user-avatar-circle {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        background: linear-gradient(135deg, var(--accent) 0%, var(--accent-light) 100%);
+        color: white;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 16px;
+        transition: var(--transition-fast);
+    }
+
+    .user-avatar-circle:hover {
+        transform: scale(1.08);
+        box-shadow: 0 0 20px rgba(6, 182, 212, 0.3);
+    }
+
+    /* .admin-badge - 已停用
+    .admin-badge {
+        background: #e53e3e;
+        color: white;
+        font-size: 10px;
+        font-weight: 600;
+        padding: 3px 8px;
+        border-radius: 4px;
+        margin-left: 8px;
+        text-transform: uppercase;
+    }
+    */
+
+    /* ==========================================
+   編輯模式開關美化
+   ========================================== */
+    #custom-edit-mode-container {
+        display: flex;
+        align-items: center;
+        margin-right: 15px;
+    }
+
+    #custom-edit-mode-container .editmode-switch-form {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    #custom-edit-mode-container label {
+        color: var(--text-secondary);
+        font-size: 14px;
+        font-weight: 500;
+        margin: 0;
+    }
+
+    /* ==========================================
+   切換角色按鈕樣式
+   ========================================== */
+    #switch-role-link {
+        background: rgba(99, 102, 241, 0.08) !important;
+        border: 1px solid rgba(99, 102, 241, 0.2) !important;
+        transition: all 0.3s ease !important;
+        padding: 12px 18px !important;
+        /* 與下拉選單一致 */
+        font-size: 14px !important;
+        /* 與下拉選單一致 */
+    }
+
+    #switch-role-link:hover {
+        background: rgba(99, 102, 241, 0.15) !important;
+        border-color: rgba(99, 102, 241, 0.3) !important;
+        transform: translateY(-1px);
+        box-shadow: 0 2px 8px rgba(99, 102, 241, 0.2);
+    }
+
+    #switch-role-link i {
+        color: #6366f1 !important;
+        font-size: 15px !important;
+    }
+
+    #switch-role-link span {
+        color: var(--text-primary) !important;
+        font-size: 14px !important;
+    }
+
+
+
+    /* ==========================================
+   主要內容區域
+   ========================================== */
+    #page,
+    #page-wrapper,
+    #page-content,
+    #region-main,
+    .main-inner {
+        background: transparent !important;
+        position: relative;
+        z-index: 1;
         margin-top: 0 !important;
         padding-top: 0 !important;
+    }
+
+    /* ==========================================
+   主要內容區塊 - 完整複製入口網 hero-section 樣式
+   ========================================== */
+    #region-main-box {
+        /* 玻璃卡片 - 降低不透明度讓背景粒子可見 */
+        background: linear-gradient(145deg, rgba(255, 255, 255, 0.88) 0%, rgba(248, 250, 255, 0.82) 100%) !important;
+        backdrop-filter: blur(15px) !important;
+        -webkit-backdrop-filter: blur(15px) !important;
+        border: 1px solid rgba(255, 255, 255, 0.8) !important;
+        border-radius: var(--radius-xl) !important;
+        box-shadow:
+            0 4px 24px rgba(99, 179, 237, 0.12),
+            0 12px 48px rgba(167, 139, 250, 0.08),
+            inset 0 1px 0 rgba(255, 255, 255, 0.9) !important;
+        padding: 40px !important;
+        position: relative !important;
+        overflow: visible !important;
+        /* 改為 visible 讓下拉選單可以顯示 */
+    }
+
+    /* 噪點紋理 - 產生磨砂質感 (與 hero-section 一致) */
+    #region-main-box::before {
+        content: '' !important;
+        position: absolute !important;
         top: 0 !important;
-    }
-    
-    /* 這裡改成 70px，跟外層網站的 margin-top: 70px 對齊 */
-    #page-wrapper { 
-        padding-top: 60px !important; 
-        margin-top: 0 !important;
+        left: 0 !important;
+        right: 0 !important;
+        bottom: 0 !important;
+        background: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.06'/%3E%3C/svg%3E") !important;
+        pointer-events: none !important;
+        border-radius: var(--radius-xl) !important;
+        z-index: 0 !important;
     }
 
-    /* 3. 綠色全域導覽列 (鎖定 60px 高度) */
-    #portal-global-nav {
-        position: fixed; 
-        top: 0 !important; 
-        left: 0; 
-        width: 100%; 
-        height: 60px !important;       
-        min-height: 60px !important;   
-        line-height: 60px !important;  
-        background-color: #2c7768; 
-        box-shadow: 0 4px 10px rgba(0,0,0,0.2); 
-        z-index: 16777271; 
-        display: flex; 
-        align-items: center; 
-        justify-content: space-between;
-        padding: 0 20px !important; 
-        box-sizing: border-box !important;
-        font-family: "Microsoft JhengHei", sans-serif !important; 
+    /* 確保內容在紋理之上 - 只針對需要的元素 */
+    #region-main-box>.main-inner,
+    #region-main-box>section,
+    #region-main-box>div:not([class*="action"]):not([class*="menu"]):not([class*="dropdown"]) {
+        position: relative !important;
+        z-index: 1 !important;
     }
-    
-    /* 品牌 LOGO */
-    .pg-brand { font-size: 20px; font-weight: bold; color: white !important; text-decoration: none; display: flex; align-items: center; height: 100%; }
-    .pg-menu { display: flex; align-items: center; gap: 5px; margin-left: 20px; height: 100%; }
-    .pg-link { text-decoration: none; color: rgba(255,255,255,0.95); font-size: 15px; padding: 0 15px; height: 60px !important; line-height: 60px !important; display: inline-block; transition: all 0.2s; cursor: pointer; }
-    .pg-link:hover { background-color: rgba(0,0,0,0.1); color: white; }
-    
-    /* 下拉選單 */
-    .pg-dropdown { position: relative; display: inline-block; height: 60px; }
-    .pg-dropdown-content { display: none; position: absolute; top: 60px; background-color: #fff; min-width: 200px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); z-index: 999999; border-top: 3px solid #f1c40f; border-radius: 0 0 5px 5px; }
-    .pg-dropdown:hover .pg-dropdown-content { display: block; }
-    .pg-dropdown:hover .pg-link { background-color: rgba(0,0,0,0.2); }
-    .pg-dropdown-content a { color: #333; padding: 12px 16px; text-decoration: none; display: block; font-size: 14px; border-bottom: 1px solid #eee; line-height: 1.5 !important; height: auto !important; }
-    .pg-dropdown-content a:hover { background-color: #f1f1f1; color: #2c7768; font-weight: bold; }
 
-    /* 右側容器 */
-    #pg-right-area { display: flex; align-items: center; gap: 10px; height: 100%; }
-    
-    /* Admin 標籤 */
-    .admin-badge { background: #d9534f; color: white; font-size: 12px; padding: 3px 6px; border-radius: 4px; margin-left: 5px; vertical-align: middle; position: relative; top: -1px; }
+    /* 內層元素設為透明，避免巢狀玻璃效果 */
+    #region-main-box .generalbox,
+    #region-main-box .mform,
+    #region-main-box .card,
+    #region-main-box .box,
+    #region-main-box #adminsettings,
+    #region-main-box .admin-categories {
+        background: transparent !important;
+        border: none !important;
+        box-shadow: none !important;
+        backdrop-filter: none !important;
+        -webkit-backdrop-filter: none !important;
+        padding: 0 !important;
+        border-radius: 0 !important;
+    }
 
-    /* Moodle 元素修正 */
-    .usermenu .dropdown-toggle { color: white !important; font-weight: bold; }
-    .usermenu .userbutton .usertext { color: white !important; }
-    .popover-region-toggle i { color: white !important; } 
-    .editmode-switch-form label { color: white !important; margin-bottom: 0; margin-right: 0 !important; }
-    #pg-right-area .usermenu { display: block !important; margin: 0 !important; }
-    .dropdown-menu { z-index: 10000000 !important; position: absolute !important; }
+    /* 獨立的卡片元素（不在 region-main-box 內）*/
+    .block,
+    .course-card,
+    .dashboard-card {
+        background: linear-gradient(145deg, rgba(255, 255, 255, 0.95) 0%, rgba(248, 250, 255, 0.9) 100%) !important;
+        backdrop-filter: blur(20px) !important;
+        -webkit-backdrop-filter: blur(20px) !important;
+        border: 1px solid rgba(255, 255, 255, 0.8) !important;
+        border-radius: var(--radius-xl) !important;
+        box-shadow:
+            0 4px 24px rgba(99, 179, 237, 0.12),
+            0 12px 48px rgba(167, 139, 250, 0.08),
+            inset 0 1px 0 rgba(255, 255, 255, 0.9) !important;
+    }
+
+    .block:hover {
+        box-shadow:
+            0 8px 32px rgba(99, 179, 237, 0.18),
+            0 16px 56px rgba(167, 139, 250, 0.12),
+            inset 0 1px 0 rgba(255, 255, 255, 0.9) !important;
+        transform: translateY(-2px);
+        transition: all 0.3s ease !important;
+    }
+
+    .card-header,
+    .card-title {
+        color: var(--text-primary) !important;
+        font-weight: 600 !important;
+        background: transparent !important;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.05) !important;
+    }
+
+    /* ==========================================
+   頁籤導覽 - 簡潔扁平設計
+   ========================================== */
+    .nav-tabs,
+    .secondary-navigation .navigation {
+        background: transparent !important;
+        backdrop-filter: none !important;
+        -webkit-backdrop-filter: none !important;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+        border-radius: 0 !important;
+        padding: 0 !important;
+        box-shadow: none !important;
+        display: flex !important;
+        align-items: flex-end !important;
+        gap: 0 !important;
+        margin-bottom: 0px !important;
+        /* position: relative !important; */
+    }
+
+    /* 分隔線用偽元素,避免受容器高度影響 */
+    /* .nav-tabs::after,
+    .secondary-navigation .navigation::after {
+        content: '' !important;
+        position: absolute !important;
+        bottom: 0 !important;
+        left: 0 !important;
+        right: 0 !important;
+        height: 1px !important;
+        background: rgba(0, 0, 0, 0.08) !important;
+        pointer-events: none !important;
+    } */
+
+    .nav-tabs .nav-link,
+    .secondary-navigation .nav-link {
+        position: relative !important;
+        z-index: 1 !important;
+        color: var(--text-secondary) !important;
+        background: transparent !important;
+        border: none !important;
+        border-radius: 0 !important;
+        padding: 12px 24px !important;
+        font-weight: 500 !important;
+        font-size: 15px !important;
+        transition: all 0.2s ease !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+
+    .nav-tabs .nav-link:hover,
+    .secondary-navigation .nav-link:hover {
+        color: var(--primary) !important;
+        background: rgba(37, 99, 235, 0.04) !important;
+        border-bottom: 3px solid rgba(37, 99, 235, 0.3) !important;
+    }
+
+    .nav-tabs .nav-link.active,
+    .nav-tabs .nav-item.show .nav-link,
+    .secondary-navigation .nav-link.active {
+        color: var(--primary) !important;
+        background: rgba(37, 99, 235, 0.08) !important;
+        border-bottom: 3px solid var(--primary) !important;
+        box-shadow: none !important;
+        font-weight: 600 !important;
+    }
+
+    /* ==========================================
+   按鈕樣式
+   ========================================== */
+    .btn-primary {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%) !important;
+        border: none !important;
+        color: white !important;
+        border-radius: 30px !important;
+        padding: 12px 28px !important;
+        font-weight: 600 !important;
+        box-shadow: 0 4px 20px rgba(37, 99, 235, 0.3) !important;
+        transition: all 0.3s ease !important;
+    }
+
+    .btn-primary:hover {
+        transform: translateY(-3px) !important;
+        box-shadow: 0 8px 30px rgba(37, 99, 235, 0.4) !important;
+    }
+
+    .btn-secondary,
+    .btn-outline-secondary {
+        background: white !important;
+        border: 2px solid rgba(0, 0, 0, 0.08) !important;
+        color: var(--text-primary) !important;
+        border-radius: 30px !important;
+        padding: 10px 24px !important;
+        font-weight: 500 !important;
+        transition: all 0.3s ease !important;
+    }
+
+    .btn-secondary:hover,
+    .btn-outline-secondary:hover {
+        border-color: var(--primary) !important;
+        color: var(--primary) !important;
+        transform: translateY(-2px) !important;
+    }
+
+    /* ==========================================
+   課程卡片
+   ========================================== */
+    .coursebox,
+    .courses .coursebox {
+        background: rgba(255, 255, 255, 0.98) !important;
+        border-radius: var(--radius-xl) !important;
+        border: none !important;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04) !important;
+        transition: all 0.3s ease !important;
+    }
+
+    .coursebox:hover {
+        transform: translateY(-8px) !important;
+        box-shadow: 0 16px 48px rgba(0, 0, 0, 0.1) !important;
+    }
+
+    /* ==========================================
+   連結顏色
+   ========================================== */
+    a {
+        color: var(--primary) !important;
+        text-decoration: none !important;
+        transition: color 0.2s ease !important;
+    }
+
+    a:hover {
+        color: var(--accent) !important;
+    }
+
+    /* ==========================================
+   表格樣式
+   ========================================== */
+    .table,
+    .generaltable {
+        background: white !important;
+        border-radius: var(--radius-lg) !important;
+        overflow: hidden !important;
+        box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04) !important;
+    }
+
+    .table thead th,
+    .generaltable thead th {
+        background: #f1f5f9 !important;
+        color: var(--text-primary) !important;
+        border: none !important;
+        border-bottom: 2px solid #e2e8f0 !important;
+        font-weight: 600 !important;
+        padding: 14px 16px !important;
+    }
+
+    .table tbody tr:hover,
+    .generaltable tbody tr:hover {
+        background: rgba(37, 99, 235, 0.03) !important;
+    }
+
+    /* ==========================================
+   表單元素
+   ========================================== */
+    .form-control,
+    input[type="text"],
+    input[type="password"],
+    input[type="email"],
+    input[type="search"],
+    textarea,
+    select {
+        background: white !important;
+        border: 1px solid rgba(0, 0, 0, 0.1) !important;
+        border-radius: var(--radius-sm) !important;
+        color: var(--text-primary) !important;
+        transition: all 0.2s ease !important;
+        padding: 10px 14px !important;
+    }
+
+    .form-control:focus,
+    input:focus {
+        border-color: var(--primary) !important;
+        box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12) !important;
+        outline: none !important;
+    }
+
+    /* ==========================================
+   側邊抽屜與下拉選單
+   ========================================== */
+    /* 確保 Moodle 編輯模式的下拉選單和幫助選單能正常顯示 */
+    .dropdown-menu,
+    .action-menu,
+    .moodle-actionmenu,
+    [data-region="drawer"],
+    .popover-region-container,
+    .popover,
+    .tooltip,
+    .help-popover,
+    [role="tooltip"],
+    .popover-region,
+    .popover-region-content,
+    div[class*="popover"] {
+        z-index: 99999 !important;
+    }
+
+    .drawer,
+    .dropdown-menu,
+    .popover,
+    .modal-content {
+        background: rgba(255, 255, 255, 0.98) !important;
+        backdrop-filter: blur(20px) !important;
+        -webkit-backdrop-filter: blur(20px) !important;
+        border: 1px solid rgba(0, 0, 0, 0.05) !important;
+        border-radius: var(--radius-lg) !important;
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1) !important;
+    }
+
+    .dropdown-item {
+        color: var(--text-secondary) !important;
+        transition: all 0.2s ease !important;
+        padding: 10px 16px 10px 20px !important;
+    }
+
+    .dropdown-item:hover {
+        background: rgba(37, 99, 235, 0.06) !important;
+        color: var(--primary) !important;
+    }
+
+    /* 勾選圖示間距調整 - 支援多種實現方式 */
+    .dropdown-item::before {
+        margin-right: 8px !important;
+    }
+
+    /* 如果勾選符號是文字的一部分,增加首行縮排 */
+    .dropdown-item.active,
+    .dropdown-item.selected,
+    .dropdown-item[aria-current="true"] {
+        padding-left: 24px !important;
+    }
+
+    /* RWD: 小螢幕調整間距 */
+    @media (max-width: 768px) {
+        .dropdown-item {
+            padding: 8px 12px 8px 16px !important;
+        }
+
+        .dropdown-item.active,
+        .dropdown-item.selected {
+            padding-left: 20px !important;
+        }
+    }
+
+    /* ==========================================
+   頁腳 - 隱藏編輯模式下的頁腳區域
+   ========================================== */
+    #page-footer,
+    footer {
+        display: none !important;
+    }
+
+    /* ==========================================
+   標題樣式
+   ========================================== */
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        color: var(--text-primary) !important;
+        font-weight: 600 !important;
+    }
+
+    /* ==========================================
+   警告與提示
+   ========================================== */
+    .alert {
+        border-radius: var(--radius-md) !important;
+        border: none !important;
+        padding: 16px 20px !important;
+    }
+
+    .alert-info {
+        background: linear-gradient(135deg, rgba(37, 99, 235, 0.08) 0%, rgba(6, 182, 212, 0.08) 100%) !important;
+        color: var(--primary-dark) !important;
+    }
+
+    .alert-success {
+        background: rgba(52, 211, 153, 0.1) !important;
+        color: #047857 !important;
+    }
+
+    .alert-warning {
+        background: rgba(251, 191, 36, 0.12) !important;
+        color: #b45309 !important;
+    }
+
+    .alert-danger {
+        background: rgba(239, 68, 68, 0.1) !important;
+        color: #b91c1c !important;
+    }
+
+    /* ==========================================
+   進度條
+   ========================================== */
+    .progress {
+        background: rgba(0, 0, 0, 0.04) !important;
+        border-radius: 20px !important;
+        height: 8px !important;
+    }
+
+    .progress-bar {
+        background: linear-gradient(90deg, var(--primary) 0%, var(--accent) 100%) !important;
+        border-radius: 20px !important;
+    }
+
+    /* ==========================================
+   捲軸樣式
+   ========================================== */
+    ::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+    }
+
+    ::-webkit-scrollbar-track {
+        background: transparent;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background: #cbd5e1;
+        border-radius: 10px;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: #94a3b8;
+    }
+
+    * {
+        scrollbar-width: thin;
+        scrollbar-color: #cbd5e1 transparent;
+    }
+
+    /* ==========================================
+   響應式調整
+   ========================================== */
+    @media (max-width: 992px) {
+        .pg-menu {
+            gap: 2px;
+        }
+
+        .pg-link {
+            padding: 8px 12px;
+            font-size: 13px;
+        }
+
+        .pg-admin-only {
+            display: none !important;
+        }
+    }
+
+    @media (max-width: 768px) {
+        #portal-global-nav {
+            padding: 0 15px;
+        }
+
+        .pg-menu {
+            display: none;
+        }
+
+        .pg-brand span {
+            display: none;
+        }
+
+        #custom-edit-mode-container label span {
+            display: none;
+        }
+    }
+
+    /* ==========================================
+   隱藏批量操作工具列和底部空白區域 (編輯模式) - 超強化版
+   ========================================== */
+    .sticky-footer,
+    .sticky-footer-content,
+    .sticky-footer-content.bulkactions,
+    .bulkactions,
+    [data-region="sticky-footer"],
+    div[class*="sticky-footer"],
+    #page-footer,
+    #page-footer.sticky-footer,
+    footer,
+    .footer,
+    .course-content-footer,
+    .activity-navigation,
+    .stickyfooter,
+    [class*="sticky"][class*="footer"],
+    div[style*="bottom: 0"],
+    div[style*="position: fixed"][style*="bottom"],
+    div[style*="position: sticky"] {
+        display: none !important;
+        visibility: hidden !important;
+        height: 0 !important;
+        min-height: 0 !important;
+        max-height: 0 !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        overflow: hidden !important;
+        opacity: 0 !important;
+        position: absolute !important;
+        left: -99999px !important;
+        top: -99999px !important;
+        pointer-events: none !important;
+    }
+
+    /* 移除所有可能的底部空間預留 */
+    body,
+    html,
+    #page,
+    #page-wrapper,
+    .pagelayout-course,
+    .format-topics {
+        padding-bottom: 0 !important;
+        margin-bottom: 0 !important;
+    }
+
+    /* 確保主內容區不受影響 */
+    #region-main-box {
+        margin-bottom: 0 !important;
+        padding-bottom: 20px !important;
+    }
+
+    /* ==========================================
+   文字選取時的樣式 - 確保清晰可見
+   ========================================== */
+    ::selection {
+        background: #1e3a5f !important;
+        color: #ffffff !important;
+    }
+
+    ::-moz-selection {
+        background: #1e3a5f !important;
+        color: #ffffff !important;
+    }
+
+    /* ==========================================
+   課程索引側邊欄 - 當前項目樣式
+   ========================================== */
+    .courseindex-item.current,
+    .courseindex-section.current,
+    [data-for="courseindex"] .current,
+    .courseindex .draggable-item.current,
+    .courseindex .activity-item.current,
+    .course-index .current,
+    [class*="courseindex"][class*="current"],
+    .drawercontent .current {
+        background: rgba(37, 99, 235, 0.1) !important;
+        color: var(--text-primary) !important;
+    }
+
+    .courseindex-item.current a,
+    .courseindex-section.current a,
+    [data-for="courseindex"] .current a,
+    .courseindex .current a,
+    .drawercontent .current a {
+        color: var(--primary) !important;
+    }
+</style>";s:23:"additionalhtmltopofbody";s:5268:"<!-- 
+    ============================================
+    雲嘉學習網 - Moodle 自訂導覽列 (HTML 部分) v5.2
+    ============================================
+    
+    貼到：「網站管理」→「外觀」→「額外的HTML」→「當BODY標籤開始時」
+    
+    功能包含：
+    1. 完整的自訂導覽列 HTML 結構 (修復排版問題，與入口網完全一致)
+    2. 載入 Font Awesome 圖示庫
+    ============================================
+-->
+
+<!-- 載入 Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<!-- 修正 Moodle 課程索引側邊欄選中項目樣式 -->
+<style>
+    /* 課程索引 - 選中的區段和項目 */
+    .courseindex .courseindex-item.pageitem,
+    .courseindex .courseindex-section-title.pageitem {
+        background: rgba(219, 234, 254, 0.9) !important;
+        backdrop-filter: blur(8px) !important;
+        border-radius: 8px !important;
+        border-left: 3px solid #2563eb !important;
+        box-shadow: 0 2px 8px rgba(37, 99, 235, 0.15) !important;
+    }
+
+    /* 文字顏色 */
+    .courseindex .courseindex-item.pageitem,
+    .courseindex .courseindex-item.pageitem *,
+    .courseindex .courseindex-item.pageitem a,
+    .courseindex .courseindex-section-title.pageitem,
+    .courseindex .courseindex-section-title.pageitem * {
+        color: #1e40af !important;
+    }
 </style>
 
-<div id="portal-global-nav">
+<!-- 自訂導覽列結構 -->
+<nav id="portal-global-nav">
+    <!-- 左側區域：Logo + 選單 -->
     <div style="display:flex; align-items:center;">
-        <a href="http://localhost/index.php" class="pg-brand">
-            <i class="fas fa-hospital-alt me-2"></i> 慈濟醫療志業學習網
-            <span id="pg-admin-badge-container"></span>
+        <a href="/index.php" class="pg-brand">
+            <i class="fas fa-cloud"></i>
+            <span>雲嘉學習網</span>
         </a>
 
-        <div class="pg-menu" id="pg-menu-container">
-            <div id="pg-student-menu" style="display:flex; align-items:center;">
-                <a href="http://localhost/index.php?tab=quick-enroll" class="pg-link"><i class="fas fa-search-plus"></i> 快速選課</a>
-                
-                <div class="pg-dropdown">
-                    <span class="pg-link"><i class="fas fa-book"></i> 學習服務 <i class="fas fa-caret-down"></i></span>
-                    <div class="pg-dropdown-content" style="left:0;">
-                        <a href="http://localhost/index.php?tab=my-courses">📂 我的課程(所有課程)</a>
-                        <a href="http://localhost/index.php?tab=history">📜 學習歷程(按年份)</a>
-                    </div>
-                </div>
-
-                <a href="http://localhost/moodle/my/" class="pg-link">
-                    <i class="fas fa-tachometer-alt"></i> 儀表板
+        <div class="pg-menu">
+            <!-- 學生專用連結 (預設隱藏，由 JS 決定顯示) -->
+            <div id="pg-student-links" style="display:none; gap:5px; align-items:center;">
+                <a href="/index.php" class="pg-link">
+                    <i class="fas fa-home"></i> 個人主頁
                 </a>
-                
-                <a href="http://localhost/moodle/grade/report/overview/index.php" class="pg-link">
-                    <i class="fas fa-chart-line"></i> 成績
+                <a href="/index.php?tab=quick-enroll" class="pg-link">
+                    <i class="fas fa-compass"></i> 探索課程
+                </a>
+                <a href="/index.php?tab=my-courses" class="pg-link">
+                    <i class="fas fa-book-open"></i> 我的課程
+                </a>
+            </div>
+
+            <!-- 開課教師專用連結 (預設隱藏) -->
+            <div id="pg-teacher-links" style="display:none; gap:5px; align-items:center;">
+                <a href="/index.php" class="pg-link">
+                    <i class="fas fa-home"></i> 個人主頁
+                </a>
+                <a href="/moodle/course/edit.php" class="pg-link">
+                    <i class="fas fa-plus-circle"></i> 新增課程
+                </a>
+                <a href="/index.php?tab=course-management" class="pg-link">
+                    <i class="fas fa-tasks"></i> 課程管理
+                </a>
+            </div>
+
+            <!-- 管理員專用連結 (預設隱藏) -->
+            <div id="pg-admin-links" style="display:none; gap:5px; align-items:center;">
+                <a href="/moodle/course/index.php" class="pg-link">
+                    <i class="fas fa-list"></i> 課程列表
+                </a>
+                <a href="/moodle/course/edit.php?category=2" class="pg-link">
+                    <i class="fas fa-plus-circle"></i> 新增課程
+                </a>
+                <a href="/moodle/admin/user.php" class="pg-link">
+                    <i class="fas fa-users"></i> 使用者
+                </a>
+                <a href="/moodle/admin/search.php" class="pg-link">
+                    <i class="fas fa-cogs"></i> 網站管理
                 </a>
             </div>
         </div>
     </div>
 
-    <div id="pg-right-area"></div>
-</div>
+    <!-- 右側區域：切換角色 + 編輯模式開關 + 使用者選單 -->
+    <div id="pg-right-area">
+        <!-- 切換角色按鈕（教師/管理員專用，在課程內才顯示）-->
+        <a href="#" id="switch-role-link" class="pg-link" style="display:none; margin-right:10px;">
+            <i class="fas fa-user-graduate"></i> <span id="switch-role-text">切換為學生檢視</span>
+        </a>
+
+        <!-- 編輯模式開關容器 (將由 JS 填充) -->
+        <div id="custom-edit-mode-container"></div>
+
+        <div class="pg-dropdown" id="portal-user-menu">
+            <div class="pg-link" style="display:flex; align-items:center; gap:12px;">
+                <span id="custom-user-name">User</span>
+                <div class="user-avatar-circle" id="custom-user-avatar">U</div>
+            </div>
+            <div class="pg-dropdown-content" style="right:0; left:auto;">
+                <a href="/change_password.php"><i class="fas fa-key"></i> 修改密碼</a>
+                <a href="/logout.php" id="custom-logout-link"><i class="fas fa-sign-out-alt"></i> 登出系統</a>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<!-- 編輯模式開關容器 (將由 JS 填充) -->
+<!-- <div id="custom-edit-mode-container" style="position: fixed; bottom: 20px; right: 20px; z-index: 9999;"></div> -->";s:20:"additionalhtmlfooter";s:13517:"<!-- 
+    ============================================
+    雲嘉學習網 - Moodle 自訂導覽列 (JS 部分) v5.4
+    ============================================
+    
+    貼到：「網站管理」→「外觀」→「額外的HTML」→「在BODY結尾標籤前」
+    
+    功能包含：
+    1. 自動抓取 Moodle 用戶資訊填入導覽列
+    2. 管理員權限判斷與選單切換
+    3. 登出連結重定向至 /logout.php
+    4. 強制移除 Sticky Footer
+    5. 角色切換功能（教師/管理員專用）
+    ============================================
+-->
 
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-    var targetArea = document.getElementById('pg-right-area');
-    var menuContainer = document.getElementById('pg-menu-container');
-    var studentMenu = document.getElementById('pg-student-menu');
-    var badgeContainer = document.getElementById('pg-admin-badge-container');
-    
-    // 1. 偵測 Admin
-    var siteAdminLink = document.querySelector('a[href*="/admin/search.php"]');
-    
-    if (siteAdminLink) {
-        if(studentMenu) studentMenu.style.display = 'none';
-        badgeContainer.innerHTML = '<span class="admin-badge">Admin</span>';
+    document.addEventListener('DOMContentLoaded', function () {
 
-        // 課程列表
-        var listLink = document.createElement('a');
-        listLink.href = "http://localhost/moodle/course/index.php";
-        listLink.className = 'pg-link';
-        listLink.innerHTML = '<i class="fas fa-list"></i> 課程列表';
-        menuContainer.appendChild(listLink);
+        // ========================================
+        // 1. 取得與填充使用者資訊
+        // ========================================
+        var userMenuText = document.querySelector('.usermenu .dropdown-toggle');
+        if (userMenuText) {
+            // 從 Moodle 原生選單抓取名字
+            var userName = userMenuText.textContent.trim().split('\n')[0].trim();
+            var userNameEl = document.getElementById('custom-user-name');
+            var userAvatarEl = document.getElementById('custom-user-avatar');
 
-        // 新增課程
-        var addLink = document.createElement('a');
-        addLink.href = "http://localhost/moodle/course/edit.php?category=2";
-        addLink.className = 'pg-link';
-        addLink.innerHTML = '<i class="fas fa-plus-circle"></i> 新增課程';
-        menuContainer.appendChild(addLink);
-
-        // 使用者
-        var userLink = document.createElement('a');
-        userLink.href = "http://localhost/moodle/admin/user.php";
-        userLink.className = 'pg-link';
-        userLink.innerHTML = '<i class="fas fa-users"></i> 使用者';
-        menuContainer.appendChild(userLink);
-
-        // 網站管理
-        var adminLink = document.createElement('a');
-        adminLink.href = "http://localhost/moodle/admin/search.php";
-        adminLink.className = 'pg-link';
-        adminLink.innerHTML = '<i class="fas fa-cogs"></i> 網站管理';
-        menuContainer.appendChild(adminLink);
-    }
-
-    // 2. 搬運「通知鈴鐺」
-    var notifications = document.querySelectorAll('.popover-region');
-    notifications.forEach(function(node) {
-        var icon = node.querySelector('.nav-link');
-        if(icon) icon.style.color = "white";
-        node.style.height = "60px";
-        node.style.display = "flex";
-        node.style.alignItems = "center";
-        targetArea.appendChild(node);
-    });
-
-    // 3. 搬運「使用者頭像」
-    var userMenu = document.querySelector('.usermenu');
-    if (userMenu) {
-        targetArea.appendChild(userMenu);
-        var logoutLink = userMenu.querySelector('a[href*="logout.php"]');
-        if (logoutLink) {
-            logoutLink.href = "http://localhost/logout.php";
+            if (userName && userNameEl) {
+                userNameEl.textContent = userName;
+                if (userAvatarEl) {
+                    // 取名字第一個字當頭像
+                    userAvatarEl.textContent = userName.charAt(0);
+                }
+            }
         }
-    }
 
-    // 4. 搬運「編輯模式開關」 (保留修正過的完美版：垂直置中 + 文字不重疊)
-    var editSwitch = document.querySelector('.editmode-switch-form');
-    if (editSwitch) {
-        targetArea.appendChild(editSwitch);
-        
-        // 外層容器：高度鎖定 60px，垂直置中，左邊留點空隙
-        editSwitch.style.cssText = "display: flex !important; align-items: center !important; height: 60px !important; margin: 0 0 0 15px !important;";
-        
-        // 文字標籤：加上右邊距，解決重疊問題
-        var label = editSwitch.querySelector('label');
-        if(label) {
-            label.style.cssText = "color: white !important; margin: 0 10px 0 0 !important; padding: 0 !important; line-height: 1 !important; display: block !important;";
+        // ========================================
+        // 2. 登出連結處理
+        // ========================================
+        // 確保導覽列內的登出指向正確
+        var customLogout = document.getElementById('custom-logout-link');
+        if (customLogout) {
+            customLogout.href = '/logout.php';
         }
-        
-        // 開關按鈕：確保垂直置中
-        var innerDivs = editSwitch.querySelectorAll('div');
-        innerDivs.forEach(function(div) {
-            div.style.display = "flex";
-            div.style.alignItems = "center";
-            div.style.margin = "0";
+
+        // 處理 Moodle 頁面上其他可能出現的登出連結
+        var logoutLinks = document.querySelectorAll('a[href*="logout.php"]');
+        logoutLinks.forEach(function (link) {
+            link.href = '/logout.php';
         });
-    }
-});
-</script>";s:20:"additionalhtmlfooter";s:0:"";s:14:"cachetemplates";s:1:"1";s:9:"themelist";s:0:"";s:17:"themedesignermode";s:1:"0";s:15:"allowuserthemes";s:1:"0";s:17:"allowcoursethemes";s:1:"0";s:19:"allowcategorythemes";s:1:"0";s:17:"allowcohortthemes";s:1:"0";s:21:"allowthemechangeonurl";s:1:"0";s:20:"allowuserblockhiding";s:1:"1";s:22:"langmenuinsecurelayout";s:1:"0";s:23:"logininfoinsecurelayout";s:1:"0";s:9:"navfilter";s:1:"0";s:15:"custommenuitems";s:167:"🏠 回到入口網|http://localhost/index.php
+
+        // ========================================
+        // 3. 權限判斷 (Admin vs TeacherPlus vs Student)
+        // ========================================
+        function getCookie(name) {
+            var value = "; " + document.cookie;
+            var parts = value.split("; " + name + "=");
+            if (parts.length === 2) return parts.pop().split(";").shift();
+            return null;
+        }
+
+        var isAdmin = getCookie('portal_is_admin') === '1';
+        var isTeacherPlus = getCookie('portal_is_teacherplus') === '1';
+        var studentLinks = document.getElementById('pg-student-links');
+        var teacherLinks = document.getElementById('pg-teacher-links');
+        var adminLinks = document.getElementById('pg-admin-links');
+
+        // 隱藏所有選單，然後根據角色顯示對應選單
+        if (studentLinks) studentLinks.style.display = 'none';
+        if (teacherLinks) teacherLinks.style.display = 'none';
+        if (adminLinks) adminLinks.style.display = 'none';
+
+        if (isAdmin) {
+            if (adminLinks) adminLinks.style.display = 'flex';
+        } else if (isTeacherPlus) {
+            if (teacherLinks) teacherLinks.style.display = 'flex';
+        } else {
+            if (studentLinks) studentLinks.style.display = 'flex';
+        }
+
+        // ========================================
+        // 4. 簡單的高亮邏輯 (Context based)
+        // ========================================
+        var path = window.location.pathname;
+
+        if (isAdmin) {
+            // 管理員的高亮邏輯
+            try {
+                if (path.indexOf('/course/edit.php') !== -1) {
+                    var el = document.querySelector('#pg-admin-links a[href*="/course/edit.php"]');
+                    if (el) el.classList.add('pg-link-active');
+                } else if (path.indexOf('/course/') !== -1) {
+                    var el = document.querySelector('#pg-admin-links a[href*="/course/index.php"]');
+                    if (el) el.classList.add('pg-link-active');
+                } else if (path.indexOf('/admin/user.php') !== -1) {
+                    var el = document.querySelector('#pg-admin-links a[href*="/admin/user.php"]');
+                    if (el) el.classList.add('pg-link-active');
+                } else if (path.indexOf('/admin/') !== -1) {
+                    var el = document.querySelector('#pg-admin-links a[href*="/admin/search.php"]');
+                    if (el) el.classList.add('pg-link-active');
+                }
+            } catch (e) { }
+        } else if (isTeacherPlus) {
+            // 開課教師的高亮邏輯
+            try {
+                if (path.indexOf('/course/edit.php') !== -1) {
+                    var el = document.querySelector('#pg-teacher-links a[href*="/course/edit.php"]');
+                    if (el) el.classList.add('pg-link-active');
+                } else if (path.indexOf('/course/view.php') !== -1 || path.indexOf('/mod/') !== -1) {
+                    // 在課程內瀏覽時，不高亮任何項目（或可以選擇高亮課程管理）
+                }
+            } catch (e) { }
+        }
+        // 學生模式下不做高亮（依據之前的用戶反饋）
+
+        // ========================================
+        // 5. 編輯模式開關搬移 (管理員/教師專用)
+        // ========================================
+        var editModeContainer = document.getElementById('custom-edit-mode-container');
+        if (editModeContainer) {
+            // 嘗試找到 Moodle 原生的編輯模式開關
+            var editSwitch = document.querySelector('.editmode-switch-form') ||
+                document.querySelector('form[action*="editmode"]') ||
+                document.querySelector('.editing-switch') ||
+                document.querySelector('[data-action="editmode"]');
+
+            if (editSwitch) {
+                // 複製編輯模式開關到自訂導覽列
+                var clonedSwitch = editSwitch.cloneNode(true);
+                editModeContainer.appendChild(clonedSwitch);
+
+                // 確保克隆的表單也能正常提交
+                var clonedForm = editModeContainer.querySelector('form');
+                if (clonedForm) {
+                    clonedForm.addEventListener('submit', function (e) {
+                        // 讓原始表單提交
+                        e.preventDefault();
+                        var originalForm = document.querySelector('.editmode-switch-form') ||
+                            document.querySelector('form[action*="editmode"]');
+                        if (originalForm && originalForm !== clonedForm) {
+                            // 同步 checkbox 狀態
+                            var clonedCheckbox = clonedForm.querySelector('input[type="checkbox"]');
+                            var originalCheckbox = originalForm.querySelector('input[type="checkbox"]');
+                            if (clonedCheckbox && originalCheckbox) {
+                                originalCheckbox.checked = clonedCheckbox.checked;
+                            }
+                            originalForm.submit();
+                        } else {
+                            clonedForm.submit();
+                        }
+                    });
+                }
+            }
+        }
+
+        // ========================================
+        // 6. 切換角色功能 (教師專用)
+        // ========================================
+        if (isTeacherPlus || isAdmin) {
+            var switchRoleLink = document.getElementById('switch-role-link');
+
+            if (switchRoleLink) {
+                // 確保按鈕在正確的位置（不在下拉選單裡）
+                var rightArea = document.getElementById('pg-right-area');
+                var userMenu = document.getElementById('portal-user-menu');
+
+                if (rightArea && switchRoleLink.parentElement &&
+                    (switchRoleLink.parentElement.className.includes('pg-dropdown-content') ||
+                        switchRoleLink.parentElement.className.includes('dropdown'))) {
+                    // 把按鈕插入到使用者選單之前
+                    rightArea.insertBefore(switchRoleLink, userMenu);
+                }
+
+                // 從 URL 取得課程 ID
+                var urlParams = new URLSearchParams(window.location.search);
+                var courseId = urlParams.get('id');
+
+                // 取得 Moodle sesskey (CSRF token)
+                var sesskey = '';
+                if (typeof M !== 'undefined' && M.cfg && M.cfg.sesskey) {
+                    sesskey = M.cfg.sesskey;
+                } else {
+                    // 備用方案：從頁面表單中取得
+                    var sessKeyInput = document.querySelector('input[name="sesskey"]');
+                    if (sessKeyInput) sesskey = sessKeyInput.value;
+                }
+
+                // 如果在課程頁面內（有課程 ID 和 sesskey）
+                if (courseId && sesskey && (window.location.pathname.includes('/course/') || window.location.pathname.includes('/mod/'))) {
+                    // 檢查是否已經切換為其他角色（增強版偵測）
+                    var isViewingAsOther = false;
+
+                    // 方法 1: 檢查 body class
+                    if (document.body.classList.contains('userswitchedrole')) {
+                        isViewingAsOther = true;
+                    }
+
+                    // 方法 2: 檢查是否有 "您正以 XXX 身分檢視此課程" 的提示訊息
+                    var roleNotification = document.querySelector('.userloggedinas');
+                    if (roleNotification &&
+                        (roleNotification.textContent.includes('身分檢視') ||
+                            roleNotification.textContent.includes('viewing') ||
+                            roleNotification.textContent.toLowerCase().includes('switched'))) {
+                        isViewingAsOther = true;
+                    }
+
+                    // 方法 3: 檢查 URL 是否包含 switchrole 參數（剛切換完）
+                    if (urlParams.get('switchrole') !== null) {
+                        var switchRoleParam = urlParams.get('switchrole');
+                        if (switchRoleParam !== '0') {
+                            isViewingAsOther = true;
+                        }
+                    }
+
+                    // 方法 4: 檢查頁面上是否有「返回我原本的角色」連結
+                    var returnToRoleLink = document.querySelector('a[href*="switchrole.php"][href*="switchrole=0"]');
+                    if (returnToRoleLink) {
+                        isViewingAsOther = true;
+                    }
+
+                    // 計算相對路徑（移除 /moodle 前綴避免重複）
+                    var returnPath = window.location.pathname.replace('/moodle', '') + window.location.search;
+                    var switchRoleText = document.getElementById('switch-role-text');
+                    var switchIcon = switchRoleLink.querySelector('i');
+
+                    if (isViewingAsOther) {
+                        // 恢復原本角色
+                        if (switchIcon) switchIcon.className = 'fas fa-user-tie';
+                        if (switchRoleText) switchRoleText.textContent = '恢復教師身分';
+                        switchRoleLink.href = '/moodle/course/switchrole.php?id=' + courseId + '&switchrole=0&sesskey=' + sesskey + '&returnurl=' + encodeURIComponent(returnPath);
+                    } else {
+                        // 切換為學生檢視 (role=5 是學生)
+                        if (switchIcon) switchIcon.className = 'fas fa-user-graduate';
+                        if (switchRoleText) switchRoleText.textContent = '切換為學生檢視';
+                        switchRoleLink.href = '/moodle/course/switchrole.php?id=' + courseId + '&switchrole=5&sesskey=' + sesskey + '&returnurl=' + encodeURIComponent(returnPath);
+                    }
+                    switchRoleLink.style.display = 'inline-flex';
+                }
+            }
+        }
+
+
+        // ========================================
+        // 7. 強制移除 Sticky Footer
+        // ========================================
+        function removeStickyFooter() {
+            var stickyFooters = document.querySelectorAll(
+                '.sticky-footer, .sticky-footer-content, [data-region="sticky-footer"], .bulkactions, div[class*="sticky-footer"], #page-footer, footer'
+            );
+            stickyFooters.forEach(function (element) {
+                if (element && element.parentNode) {
+                    element.parentNode.removeChild(element);
+                }
+            });
+            document.body.style.paddingBottom = '0';
+            document.body.style.marginBottom = '0';
+        }
+
+        removeStickyFooter();
+        setTimeout(removeStickyFooter, 500);
+        setTimeout(removeStickyFooter, 1000);
+
+        var observer = new MutationObserver(function (mutations) {
+            removeStickyFooter();
+        });
+        observer.observe(document.body, { childList: true, subtree: true });
+    });
+</script>";s:14:"cachetemplates";s:1:"1";s:9:"themelist";s:0:"";s:17:"themedesignermode";s:1:"0";s:15:"allowuserthemes";s:1:"0";s:17:"allowcoursethemes";s:1:"0";s:19:"allowcategorythemes";s:1:"0";s:17:"allowcohortthemes";s:1:"0";s:21:"allowthemechangeonurl";s:1:"0";s:20:"allowuserblockhiding";s:1:"1";s:22:"langmenuinsecurelayout";s:1:"0";s:23:"logininfoinsecurelayout";s:1:"0";s:9:"navfilter";s:1:"0";s:15:"custommenuitems";s:167:"🏠 回到入口網|http://localhost/index.php
 ⚡ 快速選課|http://localhost/index.php?tab=quick-enroll
 📜 學習歷程|http://localhost/index.php?tab=history";s:19:"customusermenuitems";s:218:"profile,moodle|/user/profile.php
 grades,grades|/grade/report/mygrades.php
 calendar,core_calendar|/calendar/view.php?view=month
 privatefiles,moodle|/user/files.php
 reports,core_reportbuilder|/reportbuilder/index.php";s:32:"file_redactor_exifremoverenabled";s:1:"1";s:33:"file_redactor_exifremovertoolpath";s:0:"";s:35:"file_redactor_exifremoverremovetags";s:3:"gps";s:33:"file_redactor_exifremovermimetype";s:21:"image/jpeg
-image/tiff";s:12:"cron_enabled";s:1:"1";s:14:"cron_keepalive";s:3:"180";s:32:"task_scheduled_concurrency_limit";s:1:"3";s:26:"task_scheduled_max_runtime";s:4:"1800";s:28:"task_adhoc_concurrency_limit";s:1:"3";s:22:"task_adhoc_max_runtime";s:4:"1800";s:27:"task_adhoc_failed_retention";s:7:"2419200";s:12:"task_logmode";s:1:"1";s:16:"task_logtostdout";s:1:"1";s:17:"task_logretention";s:7:"2419200";s:18:"task_logretainruns";s:2:"20";s:9:"smtphosts";s:18:"smtp.gmail.com:465";s:10:"smtpsecure";s:3:"ssl";s:12:"smtpauthtype";s:5:"LOGIN";s:8:"smtpuser";s:22:"qoo311226qoo@gmail.com";s:8:"smtppass";s:16:"nxshycrkojhiivnh";s:11:"smtpmaxbulk";s:1:"1";s:19:"allowedemaildomains";s:0:"";s:17:"divertallemailsto";s:0:"";s:21:"divertallemailsexcept";s:0:"";s:17:"emaildkimselector";s:0:"";s:15:"sitemailcharset";s:1:"0";s:20:"allowusermailcharset";s:1:"0";s:16:"allowattachments";s:1:"1";s:11:"mailnewline";s:2:"LF";s:12:"emailfromvia";s:1:"1";s:18:"emailsubjectprefix";s:0:"";s:12:"emailheaders";s:0:"";s:21:"enablewsdocumentation";s:1:"1";s:9:"pathtophp";s:0:"";s:8:"pathtodu";s:0:"";s:10:"aspellpath";s:0:"";s:9:"pathtodot";s:0:"";s:8:"pathtogs";s:11:"/usr/bin/gs";s:14:"pathtopdftoppm";s:0:"";s:12:"pathtopython";s:0:"";s:11:"supportname";s:10:"Admin User";s:11:"supportpage";s:0:"";s:19:"supportavailability";s:1:"1";s:12:"servicespage";s:0:"";s:10:"dbsessions";s:1:"0";s:21:"sessiontimeoutwarning";s:4:"1200";s:13:"sessioncookie";s:0:"";s:17:"sessioncookiepath";s:0:"";s:19:"sessioncookiedomain";s:0:"";s:13:"statsfirstrun";s:4:"none";s:15:"statsmaxruntime";s:1:"0";s:16:"statsruntimedays";s:2:"31";s:18:"statsuserthreshold";s:1:"0";s:14:"slasharguments";s:1:"1";s:17:"getremoteaddrconf";s:1:"3";s:18:"reverseproxyignore";s:0:"";s:9:"proxyhost";s:0:"";s:9:"proxyport";s:1:"0";s:9:"proxytype";s:4:"HTTP";s:9:"proxyuser";s:0:"";s:13:"proxypassword";s:0:"";s:11:"proxybypass";s:19:"localhost,127.0.0.1";s:14:"proxylogunsafe";s:1:"0";s:14:"proxyfixunsafe";s:1:"0";s:19:"maintenance_enabled";s:1:"0";s:19:"maintenance_message";s:0:"";s:17:"deleteunconfirmed";s:3:"168";s:21:"deleteincompleteusers";s:1:"0";s:19:"disablegradehistory";s:1:"0";s:20:"gradehistorylifetime";s:1:"0";s:21:"tempdatafoldercleanup";s:3:"168";s:17:"xapicleanupperiod";s:7:"4838400";s:18:"filescleanupperiod";s:5:"86400";s:16:"extramemorylimit";s:4:"512M";s:12:"maxtimelimit";s:1:"0";s:9:"curlcache";s:3:"120";s:19:"curltimeoutkbitrate";s:2:"56";s:15:"updateautocheck";s:1:"1";s:17:"updateminmaturity";s:3:"200";s:18:"updatenotifybuilds";s:1:"0";s:18:"customreportslimit";s:1:"0";s:24:"customreportsliveediting";s:1:"1";s:20:"dndallowtextandlinks";s:1:"0";s:11:"pathtosassc";s:0:"";s:14:"contextlocking";s:1:"0";s:25:"contextlockappliestoadmin";s:1:"1";s:10:"forceclean";s:1:"0";s:25:"enablecourserelativedates";s:1:"0";s:24:"enablesharingtomoodlenet";s:1:"0";s:28:"enablecommunicationsubsystem";s:1:"0";s:5:"debug";s:1:"0";s:12:"debugdisplay";s:1:"0";s:9:"perfdebug";s:1:"7";s:14:"debugstringids";s:1:"0";s:13:"debugsqltrace";s:1:"0";s:15:"debugvalidators";s:1:"0";s:13:"debugpageinfo";s:1:"0";s:17:"debugtemplateinfo";s:1:"0";s:16:"profilingenabled";s:1:"0";s:17:"profilingincluded";s:0:"";s:17:"profilingexcluded";s:0:"";s:17:"profilingautofrec";s:1:"0";s:16:"profilingallowme";s:1:"0";s:17:"profilingallowall";s:1:"0";s:13:"profilingslow";s:1:"0";s:17:"profilinglifetime";s:4:"1440";s:21:"profilingimportprefix";s:3:"(I)";s:7:"release";s:24:"5.0.3+ (Build: 20251127)";s:19:"localcachedirpurged";s:10:"1765252612";s:18:"scheduledtaskreset";s:10:"1765252612";s:23:"paygw_plugins_sortorder";s:6:"paypal";s:15:"allversionshash";s:40:"9cc2df86fb499c6f17d8e9d5360be9635b666a0a";s:16:"allcomponenthash";s:40:"dd8e773451f59b0720ca6423891c6cc67f24c402";s:19:"registrationpending";s:1:"1";s:6:"branch";s:3:"500";s:24:"enableaccessibilitytools";s:1:"1";s:17:"notloggedinroleid";s:1:"6";s:11:"guestroleid";s:1:"6";s:17:"defaultuserroleid";s:1:"7";s:16:"creatornewroleid";s:1:"3";s:17:"restorernewroleid";s:1:"3";s:17:"sitepolicyhandler";s:0:"";s:14:"gradebookroles";s:1:"5";s:17:"h5plibraryhandler";s:11:"h5plib_v127";s:14:"airnotifierurl";s:27:"https://messages.moodle.net";s:15:"airnotifierport";s:3:"443";s:24:"airnotifiermobileappname";s:23:"com.moodle.moodlemobile";s:18:"airnotifierappname";s:21:"commoodlemoodlemobile";s:20:"airnotifieraccesskey";s:0:"";s:26:"bigbluebuttonbn_server_url";s:0:"";s:29:"bigbluebuttonbn_shared_secret";s:0:"";s:34:"bigbluebuttonbn_checksum_algorithm";s:6:"SHA256";s:29:"bigbluebuttonbn_poll_interval";s:1:"5";s:31:"bigbluebuttonbn_welcome_default";s:0:"";s:32:"bigbluebuttonbn_welcome_editable";s:1:"1";s:33:"bigbluebuttonbn_recording_default";s:1:"1";s:40:"bigbluebuttonbn_recording_refresh_period";s:3:"300";s:34:"bigbluebuttonbn_recording_editable";s:1:"1";s:48:"bigbluebuttonbn_recording_all_from_start_default";s:1:"0";s:49:"bigbluebuttonbn_recording_all_from_start_editable";s:1:"0";s:45:"bigbluebuttonbn_recording_hide_button_default";s:1:"0";s:46:"bigbluebuttonbn_recording_hide_button_editable";s:1:"0";s:38:"bigbluebuttonbn_recording_safe_formats";s:18:"video,presentation";s:40:"bigbluebuttonbn_importrecordings_enabled";s:1:"0";s:53:"bigbluebuttonbn_importrecordings_from_deleted_enabled";s:1:"0";s:42:"bigbluebuttonbn_recordings_deleted_default";s:1:"1";s:43:"bigbluebuttonbn_recordings_deleted_editable";s:1:"0";s:43:"bigbluebuttonbn_recordings_imported_default";s:1:"0";s:44:"bigbluebuttonbn_recordings_imported_editable";s:1:"1";s:42:"bigbluebuttonbn_recordings_preview_default";s:1:"1";s:43:"bigbluebuttonbn_recordings_preview_editable";s:1:"0";s:35:"bigbluebuttonbn_recordings_asc_sort";s:1:"0";s:42:"bigbluebuttonbn_recording_protect_editable";s:1:"1";s:40:"bigbluebuttonbn_waitformoderator_default";s:1:"0";s:41:"bigbluebuttonbn_waitformoderator_editable";s:1:"1";s:46:"bigbluebuttonbn_waitformoderator_ping_interval";s:2:"10";s:42:"bigbluebuttonbn_waitformoderator_cache_ttl";s:2:"60";s:36:"bigbluebuttonbn_voicebridge_editable";s:1:"0";s:46:"bigbluebuttonbn_preuploadpresentation_editable";s:1:"0";s:33:"bigbluebuttonbn_userlimit_default";s:1:"0";s:34:"bigbluebuttonbn_userlimit_editable";s:1:"0";s:45:"bigbluebuttonbn_participant_moderator_default";s:1:"0";s:35:"bigbluebuttonbn_muteonstart_default";s:1:"0";s:36:"bigbluebuttonbn_muteonstart_editable";s:1:"0";s:34:"bigbluebuttonbn_disablecam_default";s:1:"0";s:35:"bigbluebuttonbn_disablecam_editable";s:1:"1";s:34:"bigbluebuttonbn_disablemic_default";s:1:"0";s:35:"bigbluebuttonbn_disablemic_editable";s:1:"1";s:42:"bigbluebuttonbn_disableprivatechat_default";s:1:"0";s:43:"bigbluebuttonbn_disableprivatechat_editable";s:1:"1";s:41:"bigbluebuttonbn_disablepublicchat_default";s:1:"0";s:42:"bigbluebuttonbn_disablepublicchat_editable";s:1:"1";s:35:"bigbluebuttonbn_disablenote_default";s:1:"0";s:36:"bigbluebuttonbn_disablenote_editable";s:1:"1";s:36:"bigbluebuttonbn_hideuserlist_default";s:1:"0";s:37:"bigbluebuttonbn_hideuserlist_editable";s:1:"1";s:38:"bigbluebuttonbn_recordingready_enabled";s:1:"0";s:39:"bigbluebuttonbn_profile_picture_enabled";s:1:"0";s:37:"bigbluebuttonbn_meetingevents_enabled";s:1:"0";s:35:"bigbluebuttonbn_guestaccess_enabled";s:1:"0";s:19:"data_enablerssfeeds";s:1:"0";s:27:"feedback_allowfullanonymous";s:1:"0";s:17:"forum_displaymode";s:1:"3";s:15:"forum_shortpost";s:3:"300";s:14:"forum_longpost";s:3:"600";s:21:"forum_manydiscussions";s:3:"100";s:14:"forum_maxbytes";s:6:"512000";s:20:"forum_maxattachments";s:1:"9";s:18:"forum_subscription";s:1:"0";s:18:"forum_trackingtype";s:1:"1";s:20:"forum_trackreadposts";s:1:"1";s:29:"forum_allowforcedreadtracking";s:1:"0";s:17:"forum_oldpostdays";s:2:"14";s:19:"forum_usermarksread";s:1:"0";s:19:"forum_cleanreadtime";s:1:"2";s:14:"digestmailtime";s:2:"17";s:20:"forum_enablerssfeeds";s:1:"0";s:22:"forum_enabletimedposts";s:1:"1";s:32:"forum_announcementmaxattachments";s:1:"1";s:30:"forum_announcementsubscription";s:1:"1";s:18:"glossary_entbypage";s:2:"10";s:19:"glossary_dupentries";s:1:"0";s:22:"glossary_allowcomments";s:1:"0";s:22:"glossary_linkbydefault";s:1:"1";s:24:"glossary_defaultapproval";s:1:"1";s:23:"glossary_enablerssfeeds";s:1:"0";s:20:"glossary_linkentries";s:1:"0";s:22:"glossary_casesensitive";s:1:"0";s:18:"glossary_fullmatch";s:1:"0";s:27:"block_course_list_adminview";s:3:"all";s:36:"block_course_list_hideallcourseslink";s:1:"0";s:28:"block_online_users_timetosee";s:1:"5";s:37:"block_online_users_onlinestatushiding";s:1:"1";s:28:"block_rss_client_num_entries";s:1:"5";s:24:"block_rss_client_timeout";s:2:"30";s:26:"block_html_allowcssclasses";s:1:"0";s:13:"pathtounoconv";s:16:"/usr/bin/unoconv";s:26:"filter_multilang_force_old";s:1:"0";s:12:"profileroles";s:5:"5,4,3";s:13:"coursecontact";s:1:"3";s:9:"frontpage";s:1:"6";s:17:"frontpageloggedin";s:1:"6";s:16:"maxcategorydepth";s:1:"2";s:20:"frontpagecourselimit";s:3:"200";s:15:"commentsperpage";s:2:"15";s:22:"defaultfrontpageroleid";s:1:"8";s:22:"messageinbound_enabled";s:1:"0";s:22:"messageinbound_mailbox";s:0:"";s:21:"messageinbound_domain";s:0:"";s:19:"messageinbound_host";s:0:"";s:22:"messageinbound_hostssl";s:3:"ssl";s:23:"messageinbound_hostuser";s:0:"";s:23:"messageinbound_hostpass";s:0:"";s:12:"mobilecssurl";s:0:"";s:22:"enablemobilewebservice";s:1:"0";s:8:"timezone";s:11:"Asia/Taipei";s:12:"registerauth";s:5:"email";s:14:"noreplyaddress";s:22:"qoo311226qoo@gmail.com";s:12:"supportemail";s:22:"qoo311226qoo@gmail.com";s:16:"fileslastcleanup";s:10:"1764921704";s:20:"scorm_updatetimelast";s:10:"1764921705";s:19:"webserviceprotocols";s:9:"rest,soap";}
+image/tiff";s:12:"cron_enabled";s:1:"1";s:14:"cron_keepalive";s:3:"180";s:32:"task_scheduled_concurrency_limit";s:1:"3";s:26:"task_scheduled_max_runtime";s:4:"1800";s:28:"task_adhoc_concurrency_limit";s:1:"3";s:22:"task_adhoc_max_runtime";s:4:"1800";s:27:"task_adhoc_failed_retention";s:7:"2419200";s:12:"task_logmode";s:1:"1";s:16:"task_logtostdout";s:1:"1";s:17:"task_logretention";s:7:"2419200";s:18:"task_logretainruns";s:2:"20";s:9:"smtphosts";s:18:"smtp.gmail.com:465";s:10:"smtpsecure";s:3:"ssl";s:12:"smtpauthtype";s:5:"LOGIN";s:8:"smtpuser";s:22:"qoo311226qoo@gmail.com";s:8:"smtppass";s:16:"nxshycrkojhiivnh";s:11:"smtpmaxbulk";s:1:"1";s:19:"allowedemaildomains";s:0:"";s:17:"divertallemailsto";s:0:"";s:21:"divertallemailsexcept";s:0:"";s:17:"emaildkimselector";s:0:"";s:15:"sitemailcharset";s:1:"0";s:20:"allowusermailcharset";s:1:"0";s:16:"allowattachments";s:1:"1";s:11:"mailnewline";s:2:"LF";s:12:"emailfromvia";s:1:"1";s:18:"emailsubjectprefix";s:0:"";s:12:"emailheaders";s:0:"";s:21:"enablewsdocumentation";s:1:"1";s:9:"pathtophp";s:0:"";s:8:"pathtodu";s:0:"";s:10:"aspellpath";s:0:"";s:9:"pathtodot";s:0:"";s:8:"pathtogs";s:11:"/usr/bin/gs";s:14:"pathtopdftoppm";s:0:"";s:12:"pathtopython";s:0:"";s:11:"supportname";s:10:"Admin User";s:11:"supportpage";s:0:"";s:19:"supportavailability";s:1:"1";s:12:"servicespage";s:0:"";s:10:"dbsessions";s:1:"0";s:21:"sessiontimeoutwarning";s:4:"1200";s:13:"sessioncookie";s:0:"";s:17:"sessioncookiepath";s:0:"";s:19:"sessioncookiedomain";s:0:"";s:13:"statsfirstrun";s:4:"none";s:15:"statsmaxruntime";s:1:"0";s:16:"statsruntimedays";s:2:"31";s:18:"statsuserthreshold";s:1:"0";s:14:"slasharguments";s:1:"1";s:17:"getremoteaddrconf";s:1:"3";s:18:"reverseproxyignore";s:0:"";s:9:"proxyhost";s:0:"";s:9:"proxyport";s:1:"0";s:9:"proxytype";s:4:"HTTP";s:9:"proxyuser";s:0:"";s:13:"proxypassword";s:0:"";s:11:"proxybypass";s:19:"localhost,127.0.0.1";s:14:"proxylogunsafe";s:1:"0";s:14:"proxyfixunsafe";s:1:"0";s:19:"maintenance_enabled";s:1:"0";s:19:"maintenance_message";s:0:"";s:17:"deleteunconfirmed";s:3:"168";s:21:"deleteincompleteusers";s:1:"0";s:19:"disablegradehistory";s:1:"0";s:20:"gradehistorylifetime";s:1:"0";s:21:"tempdatafoldercleanup";s:3:"168";s:17:"xapicleanupperiod";s:7:"4838400";s:18:"filescleanupperiod";s:5:"86400";s:16:"extramemorylimit";s:4:"512M";s:12:"maxtimelimit";s:1:"0";s:9:"curlcache";s:3:"120";s:19:"curltimeoutkbitrate";s:2:"56";s:15:"updateautocheck";s:1:"1";s:17:"updateminmaturity";s:3:"200";s:18:"updatenotifybuilds";s:1:"0";s:18:"customreportslimit";s:1:"0";s:24:"customreportsliveediting";s:1:"1";s:20:"dndallowtextandlinks";s:1:"0";s:11:"pathtosassc";s:0:"";s:14:"contextlocking";s:1:"0";s:25:"contextlockappliestoadmin";s:1:"1";s:10:"forceclean";s:1:"0";s:25:"enablecourserelativedates";s:1:"0";s:24:"enablesharingtomoodlenet";s:1:"0";s:28:"enablecommunicationsubsystem";s:1:"0";s:5:"debug";s:1:"0";s:12:"debugdisplay";s:1:"0";s:9:"perfdebug";s:1:"7";s:14:"debugstringids";s:1:"0";s:13:"debugsqltrace";s:1:"0";s:15:"debugvalidators";s:1:"0";s:13:"debugpageinfo";s:1:"0";s:17:"debugtemplateinfo";s:1:"0";s:16:"profilingenabled";s:1:"0";s:17:"profilingincluded";s:0:"";s:17:"profilingexcluded";s:0:"";s:17:"profilingautofrec";s:1:"0";s:16:"profilingallowme";s:1:"0";s:17:"profilingallowall";s:1:"0";s:13:"profilingslow";s:1:"0";s:17:"profilinglifetime";s:4:"1440";s:21:"profilingimportprefix";s:3:"(I)";s:7:"release";s:24:"5.0.3+ (Build: 20251127)";s:19:"localcachedirpurged";s:10:"1765931404";s:18:"scheduledtaskreset";s:10:"1765931404";s:23:"paygw_plugins_sortorder";s:6:"paypal";s:15:"allversionshash";s:40:"06c8511a4ff243cb01d126c1fd3989a05ffa9d23";s:16:"allcomponenthash";s:40:"b35c4a23b39a1d7f899ba8026cc34a9a6086d9f7";s:19:"registrationpending";s:1:"1";s:6:"branch";s:3:"500";s:24:"enableaccessibilitytools";s:1:"1";s:17:"notloggedinroleid";s:1:"6";s:11:"guestroleid";s:1:"6";s:17:"defaultuserroleid";s:1:"7";s:16:"creatornewroleid";s:1:"3";s:17:"restorernewroleid";s:1:"3";s:17:"sitepolicyhandler";s:0:"";s:14:"gradebookroles";s:1:"5";s:17:"h5plibraryhandler";s:11:"h5plib_v127";s:14:"airnotifierurl";s:27:"https://messages.moodle.net";s:15:"airnotifierport";s:3:"443";s:24:"airnotifiermobileappname";s:23:"com.moodle.moodlemobile";s:18:"airnotifierappname";s:21:"commoodlemoodlemobile";s:20:"airnotifieraccesskey";s:0:"";s:26:"bigbluebuttonbn_server_url";s:0:"";s:29:"bigbluebuttonbn_shared_secret";s:0:"";s:34:"bigbluebuttonbn_checksum_algorithm";s:6:"SHA256";s:29:"bigbluebuttonbn_poll_interval";s:1:"5";s:31:"bigbluebuttonbn_welcome_default";s:0:"";s:32:"bigbluebuttonbn_welcome_editable";s:1:"1";s:33:"bigbluebuttonbn_recording_default";s:1:"1";s:40:"bigbluebuttonbn_recording_refresh_period";s:3:"300";s:34:"bigbluebuttonbn_recording_editable";s:1:"1";s:48:"bigbluebuttonbn_recording_all_from_start_default";s:1:"0";s:49:"bigbluebuttonbn_recording_all_from_start_editable";s:1:"0";s:45:"bigbluebuttonbn_recording_hide_button_default";s:1:"0";s:46:"bigbluebuttonbn_recording_hide_button_editable";s:1:"0";s:38:"bigbluebuttonbn_recording_safe_formats";s:18:"video,presentation";s:40:"bigbluebuttonbn_importrecordings_enabled";s:1:"0";s:53:"bigbluebuttonbn_importrecordings_from_deleted_enabled";s:1:"0";s:42:"bigbluebuttonbn_recordings_deleted_default";s:1:"1";s:43:"bigbluebuttonbn_recordings_deleted_editable";s:1:"0";s:43:"bigbluebuttonbn_recordings_imported_default";s:1:"0";s:44:"bigbluebuttonbn_recordings_imported_editable";s:1:"1";s:42:"bigbluebuttonbn_recordings_preview_default";s:1:"1";s:43:"bigbluebuttonbn_recordings_preview_editable";s:1:"0";s:35:"bigbluebuttonbn_recordings_asc_sort";s:1:"0";s:42:"bigbluebuttonbn_recording_protect_editable";s:1:"1";s:40:"bigbluebuttonbn_waitformoderator_default";s:1:"0";s:41:"bigbluebuttonbn_waitformoderator_editable";s:1:"1";s:46:"bigbluebuttonbn_waitformoderator_ping_interval";s:2:"10";s:42:"bigbluebuttonbn_waitformoderator_cache_ttl";s:2:"60";s:36:"bigbluebuttonbn_voicebridge_editable";s:1:"0";s:46:"bigbluebuttonbn_preuploadpresentation_editable";s:1:"0";s:33:"bigbluebuttonbn_userlimit_default";s:1:"0";s:34:"bigbluebuttonbn_userlimit_editable";s:1:"0";s:45:"bigbluebuttonbn_participant_moderator_default";s:1:"0";s:35:"bigbluebuttonbn_muteonstart_default";s:1:"0";s:36:"bigbluebuttonbn_muteonstart_editable";s:1:"0";s:34:"bigbluebuttonbn_disablecam_default";s:1:"0";s:35:"bigbluebuttonbn_disablecam_editable";s:1:"1";s:34:"bigbluebuttonbn_disablemic_default";s:1:"0";s:35:"bigbluebuttonbn_disablemic_editable";s:1:"1";s:42:"bigbluebuttonbn_disableprivatechat_default";s:1:"0";s:43:"bigbluebuttonbn_disableprivatechat_editable";s:1:"1";s:41:"bigbluebuttonbn_disablepublicchat_default";s:1:"0";s:42:"bigbluebuttonbn_disablepublicchat_editable";s:1:"1";s:35:"bigbluebuttonbn_disablenote_default";s:1:"0";s:36:"bigbluebuttonbn_disablenote_editable";s:1:"1";s:36:"bigbluebuttonbn_hideuserlist_default";s:1:"0";s:37:"bigbluebuttonbn_hideuserlist_editable";s:1:"1";s:38:"bigbluebuttonbn_recordingready_enabled";s:1:"0";s:39:"bigbluebuttonbn_profile_picture_enabled";s:1:"0";s:37:"bigbluebuttonbn_meetingevents_enabled";s:1:"0";s:35:"bigbluebuttonbn_guestaccess_enabled";s:1:"0";s:19:"data_enablerssfeeds";s:1:"0";s:27:"feedback_allowfullanonymous";s:1:"0";s:17:"forum_displaymode";s:1:"3";s:15:"forum_shortpost";s:3:"300";s:14:"forum_longpost";s:3:"600";s:21:"forum_manydiscussions";s:3:"100";s:14:"forum_maxbytes";s:6:"512000";s:20:"forum_maxattachments";s:1:"9";s:18:"forum_subscription";s:1:"0";s:18:"forum_trackingtype";s:1:"1";s:20:"forum_trackreadposts";s:1:"1";s:29:"forum_allowforcedreadtracking";s:1:"0";s:17:"forum_oldpostdays";s:2:"14";s:19:"forum_usermarksread";s:1:"0";s:19:"forum_cleanreadtime";s:1:"2";s:14:"digestmailtime";s:2:"17";s:20:"forum_enablerssfeeds";s:1:"0";s:22:"forum_enabletimedposts";s:1:"1";s:32:"forum_announcementmaxattachments";s:1:"1";s:30:"forum_announcementsubscription";s:1:"1";s:18:"glossary_entbypage";s:2:"10";s:19:"glossary_dupentries";s:1:"0";s:22:"glossary_allowcomments";s:1:"0";s:22:"glossary_linkbydefault";s:1:"1";s:24:"glossary_defaultapproval";s:1:"1";s:23:"glossary_enablerssfeeds";s:1:"0";s:20:"glossary_linkentries";s:1:"0";s:22:"glossary_casesensitive";s:1:"0";s:18:"glossary_fullmatch";s:1:"0";s:27:"block_course_list_adminview";s:3:"all";s:36:"block_course_list_hideallcourseslink";s:1:"0";s:28:"block_online_users_timetosee";s:1:"5";s:37:"block_online_users_onlinestatushiding";s:1:"1";s:28:"block_rss_client_num_entries";s:1:"5";s:24:"block_rss_client_timeout";s:2:"30";s:26:"block_html_allowcssclasses";s:1:"0";s:13:"pathtounoconv";s:16:"/usr/bin/unoconv";s:26:"filter_multilang_force_old";s:1:"0";s:12:"profileroles";s:5:"5,4,3";s:13:"coursecontact";s:1:"3";s:9:"frontpage";s:1:"6";s:17:"frontpageloggedin";s:1:"6";s:16:"maxcategorydepth";s:1:"2";s:20:"frontpagecourselimit";s:3:"200";s:15:"commentsperpage";s:2:"15";s:22:"defaultfrontpageroleid";s:1:"8";s:22:"messageinbound_enabled";s:1:"0";s:22:"messageinbound_mailbox";s:0:"";s:21:"messageinbound_domain";s:0:"";s:19:"messageinbound_host";s:0:"";s:22:"messageinbound_hostssl";s:3:"ssl";s:23:"messageinbound_hostuser";s:0:"";s:23:"messageinbound_hostpass";s:0:"";s:12:"mobilecssurl";s:0:"";s:22:"enablemobilewebservice";s:1:"0";s:8:"timezone";s:11:"Asia/Taipei";s:12:"registerauth";s:5:"email";s:14:"noreplyaddress";s:22:"qoo311226qoo@gmail.com";s:12:"supportemail";s:22:"qoo311226qoo@gmail.com";s:16:"fileslastcleanup";s:10:"1764921704";s:20:"scorm_updatetimelast";s:10:"1764921705";s:19:"webserviceprotocols";s:9:"rest,soap";}

@@ -1,0 +1,3 @@
+a:10:{s:10:"pluginname";s:12:"試題評論";s:29:"privacy:metadata:core_comment";s:63:"試題評論題庫外掛允許使用者對試題進行評論。";s:7:"comment";s:6:"評論";s:13:"commentplural";s:6:"評論";s:10:"addcomment";s:12:"新增評論";s:5:"close";s:6:"關閉";s:13:"commentheader";s:12:"試題評論";s:15:"commentdisabled";s:63:"本站目前已停用評論功能。請聯絡網站管理員。";s:13:"comment_added";s:156:"ID 為 '{$a->userid}' 的用戶，新增了 ID 為 '{$a->objectid}' 的評論，
+對象為 '{$a->component}' 中，試題 ID 為 '{$a->itemid}' 的試題。";s:15:"comment_removed";s:156:"ID 為 '{$a->userid}' 的用戶，刪除了 ID 為 '{$a->objectid}' 的評論，
+對象為 '{$a->component}' 中，試題 ID 為 '{$a->itemid}' 的試題。";}

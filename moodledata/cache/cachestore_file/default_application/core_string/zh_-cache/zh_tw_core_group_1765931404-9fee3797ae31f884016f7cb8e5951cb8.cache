@@ -1,0 +1,54 @@
+a:180:{s:7:"addedby";s:13:"由{%a}添加";s:8:"addgroup";s:24:"增加用戶進入群組";s:19:"addgroupstogrouping";s:24:"將小組加到分群中";s:20:"addgroupstogroupings";s:20:"新增/移除 群組";s:15:"adduserstogroup";s:20:"新增/移除 用戶";s:10:"allocateby";s:12:"分配組員";s:11:"anygrouping";s:18:"﹝任何分類﹞";s:16:"autocreategroups";s:18:"自動建立群組";s:15:"backtogroupings";s:12:"回到分群";s:12:"backtogroups";s:12:"回到群組";s:15:"badnamingscheme";s:53:"名稱之後必需剛好包含一個'@' 或'#' 字元";s:11:"byfirstname";s:27:"以先用名後用姓排序";s:10:"byidnumber";s:15:"以學號排序";s:10:"bylastname";s:27:"以先用姓後用名排序";s:23:"createautomaticgrouping";s:18:"建立自動分群";s:11:"creategroup";s:12:"建立群組";s:14:"creategrouping";s:12:"建立分群";s:29:"creategroupinselectedgrouping";s:24:"在分群中建立小組";s:16:"createingrouping";s:27:"自動建立的小組分群";s:17:"createorphangroup";s:18:"建立孤立群組";s:12:"csvdelimiter";s:13:"CSV separator";s:21:"databaseupgradegroups";s:28:"現在的群組版本是{$a}";s:15:"defaultgrouping";s:12:"預設分群";s:19:"defaultgroupingname";s:6:"分群";s:16:"defaultgroupname";s:6:"群組";s:18:"deleteallgroupings";s:18:"刪除所有分群";s:15:"deleteallgroups";s:18:"刪除所有群組";s:18:"deletegroupconfirm";s:42:"您確定要刪除這個"{$a}"群組嗎？";s:14:"deletegrouping";s:12:"刪除分群";s:21:"deletegroupingconfirm";s:66:"您確定要刪除'{$a}'分群?(分群中的小組不會被刪除)";s:19:"deletegroupsconfirm";s:39:"你確定你要刪除下列的群組？";s:19:"deleteselectedgroup";s:24:"刪除被選出的群組";s:22:"disablemessagingaction";s:17:"Disable messaging";s:20:"editgroupingsettings";s:18:"修改分群設定";s:17:"editgroupsettings";s:18:"修改群組設定";s:16:"editusersgroupsa";s:22:"Edit groups for "{$a}"";s:15:"enablemessaging";s:12:"群組傳訊";s:21:"enablemessagingaction";s:16:"Enable messaging";s:20:"enablemessaging_help";s:98:"If enabled, group members can send messages to the others in their group via the messaging drawer.";s:8:"encoding";s:8:"Encoding";s:12:"enrolmentkey";s:18:"課程註冊密碼";s:17:"enrolmentkey_help";s:328:"選課密鑰使得只有知道密鑰的人才能存取這課程。
+
+若指定一個"群組選課密鑰"，那輸入密鑰時，用戶不只會進入這個課程，也會被自動指派為該組成員。
+
+注意：必須在"自行選課"設定上啟用"群組選課密鑰"，且也必須指定一個這一課程的選課密鑰。";s:24:"enrolmentkeyalreadyinuse";s:48:"這一選課密鑰已經由其他群組所使用";s:18:"erroraddremoveuser";s:49:"新增/移除用戶 {$a} 到群組時發生錯誤";s:14:"erroreditgroup";s:40:"新增/更新群組 {$a} 時發生錯誤";s:17:"erroreditgrouping";s:40:"新增/更新分群 {$a} 時發生錯誤";s:15:"erroraddtogroup";s:98:"Invalid value for addtogroup. It should be 0 for no group mode or 1 for a new group to be created.";s:24:"erroraddtogroupgroupname";s:52:"You cannot specify groupname when addtogroup is set.";s:17:"errorinvalidgroup";s:29:"錯誤，無效的群組 {$a}";s:23:"errorremovenotpermitted";s:58:"你沒有權限去移除自動加上去的群組成員{$a}";s:14:"errorselectone";s:57:"在選擇這選項之前，請選擇一個單一群組。";s:15:"errorselectsome";s:60:"在選擇這選項之前，請選擇一個或多個群組。";s:14:"evenallocation";s:93:"注意：為了確保群組分配均衡，每組的實際人數與您訂定的人數不同。";s:17:"eventgroupcreated";s:15:"群組已建立";s:17:"eventgroupdeleted";s:15:"群組已刪除";s:21:"eventgroupmemberadded";s:21:"群組成員已添加";s:23:"eventgroupmemberremoved";s:21:"群組成員已移除";s:17:"eventgroupupdated";s:15:"群組已更新";s:20:"eventgroupingcreated";s:15:"分群已建立";s:20:"eventgroupingdeleted";s:15:"分群已刪除";s:26:"eventgroupinggroupassigned";s:27:"群組已經指派到分群";s:28:"eventgroupinggroupunassigned";s:27:"群組已經不屬於分群";s:20:"eventgroupingupdated";s:15:"分群已更新";s:15:"existingmembers";s:22:"現在的成員：{$a}";s:21:"exportgroupsgroupings";s:32:"Download groups and groupings as";s:12:"filtergroups";s:24:"過濾群組的依據：";s:5:"group";s:6:"群組";s:21:"groupaddedsuccesfully";s:27:"群組 {$a} 已順利新增";s:31:"groupaddedtogroupingsuccesfully";s:69:"群組{$a->groupname} 已成功加入到分群 {$a->groupingname} 。";s:7:"groupby";s:24:"自動建立群組依據";s:16:"groupdescription";s:21:"群組的描述說明";s:9:"groupinfo";s:30:"關於被選取群組的資訊";s:16:"groupinfomembers";s:30:"關於被選取的成員資訊";s:15:"groupinfopeople";s:33:"關於被選取的人員的資訊";s:8:"grouping";s:6:"分群";s:24:"groupingaddedsuccesfully";s:25:"分群{$a}已新增成功";s:13:"grouping_help";s:156:"一個分群是在一個課程內某些分組的集合。若選出一個分群，那被指派到這分類之下各個組的學生，將可以一起工作。";s:15:"groupingsection";s:12:"分群存取";s:20:"groupingsection_help";s:162:"一個分群是在一個課程內某些分組的集合。若選出一個分群，那被指派到這分群之下各個組的學生，將可以存取這一章節。";s:19:"groupingdescription";s:15:"分群的說明";s:12:"groupingname";s:12:"分群名稱";s:18:"groupingnameexists";s:69:"這分群名稱"{$a}"已經存在這課程中，請使用其他名稱";s:9:"groupings";s:6:"分群";s:13:"groupingsonly";s:9:"只分群";s:11:"groupmember";s:12:"群組成員";s:15:"groupmemberdesc";s:30:"群組成員的標準角色。";s:12:"groupmembers";s:12:"群組成員";s:15:"groupmemberssee";s:18:"觀看群組成員";s:20:"groupmembersselected";s:27:"所選出的群組的成員";s:9:"groupmode";s:12:"群組模式";s:29:"groupmode_groupsseparate_help";s:69:"Students are divided into groups and can only see their group's work.";s:28:"groupmode_groupsvisible_help";s:71:"Students are divided into groups, but can see the work of other groups.";s:14:"groupmode_help";s:1016:"<p align="center"><b>分組模式</b></p>
+　　
+<p>分組模式可以有三種形式：</p>
+　　   <ul>
+　　      <li>無小組 - 沒有區分小組，每一個人都是一個大社群中的一員；</li>
+　　      <li>彼此隔離的小組 - 每一小組的成員都只能看到自己的組員，不能看到其他的小組；</li>
+　　      <li>彼此可見的小組 - 每一小組成員都在自己小組中完成工作，但可以看到其他小組的狀況。</li>
+　　   </ul>
+　
+<p>分組模式可以在兩個層次上定義：</p>
+<dl>
+　　   <dt><b>1. 課程層次</b></dt>
+　　   <dd>在課程層次定義的組模式，會預設成為該課程內所有活動的預設模式；<br /><br /></dd>
+　　   <dt><b>2. 活動層次</b></dt>
+　　   <dd>每個能採用小組模式的活動，都可以定義自己的分組模式。如果課程設定了"<a href="help.php?module=moodle&file=groupmodeforce.html">強制小組模式</a>"，則針對活動的設定會被忽略。</dd>
+</dl>
+　　";s:14:"groupmodeforce";s:21:"強制採群組模式";s:19:"groupmodeforce_help";s:161:"如果強制使用群組模式，那這課程群組模式會被使用在這一課程的每一個活動上。
+
+在每一活動的群組模式設定會被忽略。";s:7:"groupmy";s:12:"我的群組";s:9:"groupname";s:12:"群組名稱";s:15:"groupnameexists";s:75:"這群組名稱"{$a}"在此課程中已經存在，請使用另外的名稱";s:15:"groupnotamember";s:33:"抱歉，您不是群組的成員";s:6:"groups";s:6:"群組";s:11:"groupscount";s:12:"群組({$a})";s:19:"groupsettingsheader";s:6:"群組";s:15:"groupsgroupings";s:13:"分組&分群";s:24:"groupsinselectedgrouping";s:12:"群組於：";s:10:"groupsnone";s:18:"沒有任何群組";s:10:"groupsonly";s:12:"只限群組";s:13:"groupspreview";s:12:"預覽群組";s:14:"groupsseparate";s:21:"完全隔離的群組";s:13:"groupsvisible";s:21:"彼此可見的群組";s:13:"grouptemplate";s:7:"群組@";s:12:"importgroups";s:12:"匯入群組";s:17:"importgroups_help";s:373:"群組可以透過文字檔匯入。檔案格式應該像下面：
+
+* 每一行包含一筆紀錄
+* 每一筆記錄是一系列資料，以但逗點隔開
+* 第一筆紀錄包含全部欄為名稱的清單，用以定義這檔案的其他部分的格式
+* 一定需要的欄位名稱是群組名稱
+* 可選用的欄位名稱是說明、選課密鑰、照片、隱藏照片";s:17:"importgroups_link";s:12:"group/import";s:22:"includeonlyactiveenrol";s:24:"只包含活動選課者";s:27:"includeonlyactiveenrol_help";s:141:"這一設定決定是否只有活動選課的用戶被包含在群組中。若啟用，那些休學的用戶將不會被包含在群組中。";s:18:"javascriptrequired";s:34:"這個頁面需要啟動javascript";s:7:"members";s:21:"每一群組的成員";s:22:"membersofselectedgroup";s:9:"成員：";s:12:"namingscheme";s:12:"命名規則";s:17:"namingscheme_help";s:334:"這小老鼠符號(@)可以用來建立其名稱後面有字母的群組，例如，group@ 將會建立幾個團體，名稱分別為：groupA、groupB、groupC、....
+
+
+這井字符號(#)可以用來建立其名稱後面有數字的群組，例如，group# 將會建立幾個團體，名稱分別為：group1、group2、group3、....";s:11:"newgrouping";s:12:"新的分群";s:10:"newpicture";s:9:"新圖片";s:15:"newpicture_help";s:1384:"<p>您可以從您的電腦上傳圖片到伺服器上，且這張圖片將會被用在許多地方來代表您。</p>
+<p>因此，最好的圖片是您的臉，但您也可以使用任何您喜歡的圖片。</p>
+<p>圖片必須是 JPG 或 PNG 格式(即檔名末尾是 .jpg 或 .png)。</p>
+<p>您可以用以下四種方法之一取得圖片:</p>
+
+<ol>
+<li>使用<B>數位像機</b>，您的照片很快就以正確格式存在電腦中了。</li>
+<li>使用<b>掃瞄器</b>掃現有的照片。確定存成.JPG 或.PNG格式。</li>
+<li>使用<b>繪圖軟體</b>畫一張自畫像，若您是個藝術家。</li>
+<li>最後，您可以<B>從網頁中</B>偷一張圖片。 <a target="google" href="http://images.google.com/">http://images.google.com</a>是搜尋圖片的好地方。一旦找到中意的，按滑鼠的右鍵點選圖片，並從選單中選擇"另存圖片.." (不同的電腦可能稍有不同)。</li>
+</ol>
+
+<p>要上傳圖片，從這編輯頁點選"瀏覽"按鈕，並從您的硬碟選擇該圖片檔。</p>
+<p>注意: 要確定檔案沒有超過列出的大小限制，否則無法上傳。</p>
+<p>然後，在底下點選"更新我的資料" - 這圖片將會裁剪成正方形，並縮放成100x100像素。</p>
+<p>然後您會回到您的個人資料頁，這圖片可能沒有改變，若是這樣，請按您瀏覽器上的"重新上傳"即可。</p>";s:12:"noallocation";s:12:"尚未分配";s:10:"nogrouping";s:9:"無分群";s:7:"nogroup";s:12:"沒有群組";s:8:"nogroups";s:30:"這一課程尚未設定群組";s:16:"nogroupsassigned";s:18:"沒有指定群組";s:23:"nopermissionforcreation";s:66:"因為你沒有足夠的權限，所以於無法建立"{$a}"群組";s:13:"nosmallgroups";s:24:"防止最後的小群組";s:10:"notingroup";s:24:"忽視群組中的用戶";s:13:"notingrouping";s:23:"[不是在分群之中]";s:14:"notingrouplist";s:17:"[不在群組裡]";s:13:"nousersinrole";s:45:"在選取中的角色找不到適合的用戶";s:6:"number";s:17:"群組/成員 數";s:9:"numgroups";s:9:"群組數";s:10:"nummembers";s:24:"每一個群組的成員";s:13:"manageactions";s:6:"Manage";s:17:"messagingdisabled";s:48:"Successfully disabled messaging in {$a} group(s)";s:16:"messagingenabled";s:47:"Successfully enabled messaging in {$a} group(s)";s:8:"mygroups";s:12:"我的群組";s:16:"nonparticipation";s:17:"Non-participation";s:11:"othergroups";s:12:"其他群組";s:8:"overview";s:6:"綜覽";s:13:"participation";s:56:"Show group in dropdown menu for activities in group mode";s:18:"participation_help";s:177:"Should group members be able to select this group for activities in separate or visible groups mode? (Only applicable if group membership is visible or only visible to members.)";s:18:"participationshort";s:13:"Participation";s:16:"potentialmembers";s:22:"潛在的成員：{$a}";s:14:"potentialmembs";s:12:"潛在成員";s:15:"printerfriendly";s:27:"以友善列印方式顯示";s:29:"privacy:metadata:core_message";s:23:"The group conversations";s:23:"privacy:metadata:groups";s:29:"A record of group membership.";s:31:"privacy:metadata:groups:groupid";s:20:"The ID of the group.";s:33:"privacy:metadata:groups:timeadded";s:62:"The timestamp indicating when the user was added to the group.";s:30:"privacy:metadata:groups:userid";s:52:"The ID of the user which is associated to the group.";s:6:"random";s:9:"隨機地";s:31:"removegroupfromselectedgrouping";s:24:"從分群中移除小組";s:15:"removefromgroup";s:25:"從群組{$a}移除用戶";s:22:"removefromgroupconfirm";s:60:"你真的要從群組"{$a->group}"移除用戶{$a->user}"？";s:22:"removegroupingsmembers";s:30:"從分群中移除所有小組";s:19:"removegroupsmembers";s:27:"移除所有群組的成員";s:19:"removeselectedusers";s:24:"移除被選出的用戶";s:15:"selectfromgroup";s:24:"從群組中選擇成員";s:18:"selectfromgrouping";s:24:"從分群中選擇成員";s:14:"selectfromrole";s:24:"選擇成員及其角色";s:20:"showgroupsingrouping";s:27:"顯示分群中的各小組";s:19:"showmembersforgroup";s:27:"顯示群組中的各成員";s:13:"toomanygroups";s:80:"群組裡頭的成員數不足 -- 這兒只有{$a}位用戶在被選出的角色";s:9:"usercount";s:9:"用戶數";s:14:"usercounttotal";s:18:"用戶總數({$a})";s:19:"usergroupmembership";s:30:"被選出的用戶的組別：";s:10:"visibility";s:27:"Group membership visibility";s:15:"visibility_help";s:476:"* Visible - all course participants can view who is in the group
+* Only visible to members - course participants not in the group can’t view the group or its members
+* Only see own membership - a user can see they are in the group but can’t view other group members
+* Hidden - only teachers can view the group and its members
+
+Users with the view hidden groups capability can always view group membership.
+
+Note that you can't change this setting if the group has members.";s:15:"visibilityshort";s:10:"Visibility";s:13:"visibilityall";s:7:"Visible";s:17:"visibilitymembers";s:23:"Only visible to members";s:13:"visibilityown";s:23:"Only see own membership";s:14:"visibilitynone";s:6:"Hidden";s:13:"memberofgroup";s:21:"Group member of: {$a}";s:12:"withselected";s:13:"With selected";}

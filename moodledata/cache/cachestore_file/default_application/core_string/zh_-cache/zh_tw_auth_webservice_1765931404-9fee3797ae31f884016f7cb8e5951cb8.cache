@@ -1,0 +1,1 @@
+a:3:{s:26:"auth_webservicedescription";s:87:"此身份認證方法用於那些只允許透過網路服務客戶端瀏覽的帳號。";s:10:"pluginname";s:18:"網路服務認證";s:16:"privacy:metadata";s:72:"The Web services authentication plugin does not store any personal data.";}

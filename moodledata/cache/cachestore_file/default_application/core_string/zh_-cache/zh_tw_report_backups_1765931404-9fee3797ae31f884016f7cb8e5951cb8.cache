@@ -1,0 +1,1 @@
+a:8:{s:18:"backupofcourselogs";s:19:"{$a}的備份日誌";s:22:"logsofbackupexecutedon";s:31:"在{$a}執行的備份的日誌";s:14:"nobackupsfound";s:15:"找不到備份";s:11:"nologsfound";s:30:"找不到這一備份的日誌";s:10:"pluginname";s:12:"備份報告";s:12:"strftimetime";s:11:"%I:%M:%S %p";s:8:"viewlogs";s:12:"檢視日誌";s:16:"privacy:metadata";s:60:"The Backups reports plugin does not store any personal data.";}
